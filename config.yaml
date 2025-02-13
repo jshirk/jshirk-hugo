@@ -1,0 +1,58 @@
+# Site Parameters
+params:
+  tagline: "The Useful Life"
+  description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
+  author: "Jordan Shirkman"
+  email_subscribe_url: "http://eepurl.com/IwFaP"
+  homeInfoParams:
+    mainSections: ["blog"]  # Tells PaperMod to show blog posts on home
+  show_latest_posts: true
+  latest_posts_count: 5
+
+languageCode: "en-us"
+title: "Jordan Shirkman | The Useful Life"
+theme: "PaperMod" # My Hugo Theme
+baseURL: "https://jshirk.com/"
+
+# Featured Sections
+sections:
+  - title: "📖 Theology"
+    description: "Deepen your faith and refine your perspective."
+    url: "/categories/theology/"
+  - title: "🖥️ Technology"
+    description: "Tools, hacks, and tech for improving your life."
+    url: "/categories/technology/"
+  - title: "🛠️ Methodology"
+    description: "Practical strategies for growth."
+    url: "/categories/methodology/"
+
+relativeURLs: false
+canonifyURLs: true
+
+markup:
+  goldmark:
+    extensions:
+      footnote: true
+
+# Navigation Menu
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Blog"
+      url: "/blog/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+    - name: "Contact"
+      url: "/contact/"
+      weight: 4
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
