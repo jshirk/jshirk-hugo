@@ -12,7 +12,7 @@ params:
 languageCode: "en-us"
 title: "Jordan Shirkman | The Useful Life"
 theme: "PaperMod" # My Hugo Theme
-baseURL: "https://jshirk.com/"
+baseURL: "sparkly-moonbeam-9d4ff7.netlify.app"
 
 # Featured Sections
 sections:
