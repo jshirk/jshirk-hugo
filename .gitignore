@@ -1,0 +1,7 @@
+public/
+resources/
+node_modules/
+.DS_Store
+netlify.toml
+go.mod
+go.sum
