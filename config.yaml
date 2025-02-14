@@ -4,17 +4,12 @@ params:
   description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
   author: "Jordan Shirkman"
   email_subscribe_url: "http://eepurl.com/IwFaP"
-  mainSections = ["blog"]
+  mainSections: ["blog"]
   show_latest_posts: true
   latest_posts_count: 5
+  ShowPostNavLinks: true
 
-languageCode: "en-us"
-title: "Jordan Shirkman | The Useful Life"
-theme: "PaperMod" # My Hugo Theme
-baseURL: "https://jshirk.com"
-
-# Featured Sections
-sections:
+  sections:
   - title: "📖 Theology"
     description: "Deepen your faith and refine your perspective."
     url: "/categories/theology/"
@@ -24,6 +19,11 @@ sections:
   - title: "🛠️ Methodology"
     description: "Practical strategies for growth."
     url: "/categories/methodology/"
+
+languageCode: "en-us"
+title: "Jordan Shirkman | The Useful Life"
+theme: "PaperMod" # My Hugo Theme
+baseURL: "https://jshirk.com"
 
 relativeURLs: false
 canonifyURLs: true
