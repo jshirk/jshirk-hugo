@@ -4,8 +4,7 @@ params:
   description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
   author: "Jordan Shirkman"
   email_subscribe_url: "http://eepurl.com/IwFaP"
-  homeInfoParams:
-    mainSections: ["blog"]  # Tells PaperMod to show blog posts on home
+  mainSections = ["blog"]
   show_latest_posts: true
   latest_posts_count: 5
 
