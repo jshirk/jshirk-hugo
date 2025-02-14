@@ -8,7 +8,6 @@ categories:
   - Technology
 
 ---
-_Estimated Reading Time: [est_time]_
 
 With a newborn, our picture count is skyrocketing. A little person that looks like you is an exciting subject to photography.
 

@@ -8,7 +8,6 @@ categories:
   - Methodology
 
 ---
-_Estimated Reading Time: [est_time]_
 
 I’ve never been a faithful journaler.
 

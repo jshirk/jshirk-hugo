@@ -8,7 +8,6 @@ categories:
   - Theology
 
 ---
-_Estimated Reading Time: [est_time]_
 
 It’s not hard to warm up in the summer.
 

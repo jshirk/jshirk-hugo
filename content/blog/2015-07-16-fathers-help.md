@@ -8,7 +8,6 @@ categories:
   - Theology
 
 ---
-_Estimated Reading Time: [est_time]_
 
 After a mere three weeks, I’m already going to the well of fatherhood for spiritual analogies.
 

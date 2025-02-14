@@ -8,7 +8,6 @@ categories:
   - Methodology
 
 ---
-_Estimated Reading Time: [est_time]_
 
 I’ve shared about [morning](https://jshirk.com/blog/morning-manifesto/) [manifestos](https://jshirk.com/blog/create-your-manifesto/), starting the morning off with [meditation](https://jshirk.com/blog/luther-meditation/), and about my [weekly routines](https://jshirk.com/blog/weekly-review/) of making sure all my bases are covered, but I’ve never shared about my evening routine.
 
