@@ -8,7 +8,16 @@ params:
   show_latest_posts: true
   latest_posts_count: 5
   ShowPostNavLinks: true
-
+  assets:
+    favicon: "favicon.ico"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
   sections:
   - title: "📖 Theology"
     description: "Deepen your faith and refine your perspective."
@@ -19,6 +28,7 @@ params:
   - title: "🛠️ Methodology"
     description: "Practical strategies for growth."
     url: "/categories/methodology/"
+
 
 languageCode: "en-us"
 title: "Jordan Shirkman | The Useful Life"
