@@ -27,7 +27,9 @@ I [tweet](http://twitter.com/jshirk) and blog because I like connecting with p
 
 ## How can I subscribe?
 
-You can [subscribe by email](http://eepurl.com/IwFaP).
+You can subscribe by email here:
+
+{{< subscribe >}}
 
 ## Where do I start?
 

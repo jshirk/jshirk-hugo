@@ -28,6 +28,7 @@ params:
   homeInfoParams:
     Title: Accelerating your journey into the useful life.
     Content: Hey, I’m [Jordan](/about). I write about [faith](/categories/theology), [technology](/categories/technology), and [practical wisdom](/categories/methodology)—helping you think deeply and act decisively in a chaotic world. If you're looking for powerful ideas and helpful tools for living the useful life well, you’re in the right place. You can connect with me below and subscribe to get updates in your inbox [here](http://eepurl.com/IwFaP).
+  
       
   socialIcons: # optional
     - name: "x"
