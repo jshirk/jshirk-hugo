@@ -2,12 +2,18 @@
 params:
   tagline: "The Useful Life"
   description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
-  author: "Jordan Shirkman"
   email_subscribe_url: "http://eepurl.com/IwFaP"
   mainSections: ["blog"]
+  defaultTheme: auto
+  ShowFullTextinRSS: true
+  disableAnchoredHeadings: true
+  showtoc: true
   show_latest_posts: true
   latest_posts_count: 5
   ShowPostNavLinks: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
   assets:
     favicon: "favicon.ico"
   fuseOpts:
@@ -18,16 +24,20 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-  sections:
-  - title: "📖 Theology"
-    description: "Deepen your faith and refine your perspective."
-    url: "/categories/theology/"
-  - title: "🖥️ Technology"
-    description: "Tools, hacks, and tech for improving your life."
-    url: "/categories/technology/"
-  - title: "🛠️ Methodology"
-    description: "Practical strategies for growth."
-    url: "/categories/methodology/"
+  
+  homeInfoParams:
+    Title: Accelerating your journey into the useful life.
+    Content: Hey, I’m [Jordan](/about). I write about [faith](/categories/theology), [technology](/categories/technology), and [practical wisdom](/categories/methodology)—helping you think deeply and act decisively in a chaotic world. If you're looking for powerful ideas and helpful tools for living the useful life well, you’re in the right place. You can connect with me below and subscribe to get updates in your inbox [here](http://eepurl.com/IwFaP).
+      
+  socialIcons: # optional
+    - name: "x"
+      url: "https://x.com/jshirk"
+    - name: "instagram"
+      url: "https://instagram.com/jshirk"
+    - name: "facebook"
+      url: "https://facebook.com/jshirk"
+    - name: "email"
+      url: "mailto:jshirkman@gmail.com"
 
 
 languageCode: "en-us"
@@ -58,6 +68,9 @@ menu:
     - name: "Contact"
       url: "/contact/"
       weight: 4
+    - name: "🔍"
+      url: "/search/"
+      weight: 5
 
 # Output formats
 outputs:

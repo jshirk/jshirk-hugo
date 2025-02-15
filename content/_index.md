@@ -1,8 +1,5 @@
 ---
-title: "Jordan Shirkman | Theology | Technology | Methodology"
+title: "Jordan Shirkman | The Useful Life"
 ---
 
-Be(coming) useful.
-
-[Theology](/categories/theology/) | [Technology](/categories/technology/)| [Methodology](/categories/methodology/)
 
