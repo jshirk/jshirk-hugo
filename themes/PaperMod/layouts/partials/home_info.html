@@ -5,30 +5,22 @@
     </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
-
+        <br>
+        <br>
         <!-- ✅ Subscribe Form (Now Part of home_info.html) -->
-         <br>
-         <br>
-        <a>Join copious other clever and inspiring peoiple who get the magic of this site delivered straight to their inbox.</a>
+        <p>Join copious other clever and inspiring people who get the magic of this site delivered straight to their inbox.</p>
         <br>
         <br>
-        <form action="https://jshirk.us2.list-manage.com/subscribe/post?u=494bbc345ee9ac49815fc27f7&amp;id=96f30fa52e&amp;f_id=006bdae3f0"
-              method="post" 
-              id="mc-embedded-subscribe-form" 
-              name="mc-embedded-subscribe-form"
-              class="subscribe-form"
-              target="_self" novalidate>
-
-            <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your Email Address" required>
-            <button type="submit" name="subscribe" id="mc-embedded-subscribe">Subscribe</button>
-
-            <!-- Honeypot for bot protection -->
-            <div aria-hidden="true" class="hidden-field">
-                <input type="text" name="b_494bbc345ee9ac49815fc27f7_96f30fa52e" tabindex="-1" value="">
-            </div>
+        <form id="subscribe-form">
+            <input type="text" name="fname" id="fname" placeholder="First Name" required>
+            <input type="email" name="email" id="email" placeholder="Your Email Address" required>
+            <button type="submit">Subscribe</button>
         </form>
-        <!-- ✅ End of Subscribe Form -->
+
+        <p id="success-message" style="display:none; color: green;">🎉 Thanks for subscribing! Check your email.</p>
+        <p id="error-message" style="display:none; color: red;">⚠️ Something went wrong. Try again.</p>
     </div>
+
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
