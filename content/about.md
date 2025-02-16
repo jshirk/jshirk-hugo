@@ -7,23 +7,23 @@ menu:
 
 ---
 
-## What is this blog?
+I’m a follower of Jesus, husband, and dad, and I live in Ljubljana, Slovenia where I enjoy helping people discover who Jesus is and live in a way that will matter for eternity. I’m trying to faithfully **apply the ancient (yet incredibly relevant) teachings of Jesus to a modern world**. I love sharing what I’m learning—both to help others and to refine my own thinking.  
 
-I think there’s an interesting intersection between technology, theology and methodology. I write about those things and how they collide.
+When I face a problem, I **analyze it from every angle, seeking God’s perspective, and don’t stop until I find a solution**. This shapes how I write, teach, and live.  
 
-I enjoy experimenting to find new tactics, tools, and techniques to do more that matters. I want to share this information so you can learn from my experience (and failures) and become more effective in what you do. This isn’t so much a get-rich-quick type of productivity, but more of a slightly-improve-slowly approach.
+In my free time, I enjoy **lifting, hiking, reading, writing, and dabbling on the piano and guitar**. More than anything, I’m **working to be present with my wife and kids and live for the eternal instead of the ephemeral**.  
 
-I write about Jesus ([theology]((/categories/theology/))), apps and services ([technology]((/categories/technology/))) and how to do things better ([methodology]((/categories/methodology/))).
+I write because I believe that **faith should be tested, practiced, and proven in real life**—not just talked about. Many have abandoned faith because they’ve only seen a **flimsy version of Christianity**, one that hasn’t been **applied thoroughly, tested rigorously, or practiced faithfully**.  
+
+Ultimately, I want my life to **matter to God, to my family, and to the people around me**. And if I can help others **think more clearly, pursue wisdom, and live with intention along the way—**even better.  
+
+I write about **pursuing wisdom, mastering the ordinary, and building a meaningful life**. This includes:  
+- **Following Jesus faithfully**—what it truly means to live out biblical truth in everyday life ([theology]((/categories/theology/))).  
+- **Leveraging the right tools**—how technology can serve us, not distract us, in living purposefully ([technology]((/categories/technology/))).  
+- **Doing things better**—refining habits, systems, and mindsets to be more effective and intentional ([methodology]((/categories/methodology/))).  
 
 You can subscribe by [email]((http://jshirk.us2.list-manage.com/subscribe?u=494bbc345ee9ac49815fc27f7&id=96f30fa52e)) so you don’t miss a post.
 
-## Who is this guy?
-
-
-
-I’m a follower of Jesus, husband to the incomparable Niki, proud dad to five growing humans, and I work with [Cru](https://give.cru.org/0642948) in Ljubljana, Slovenia helping people discover who Jesus is and live in a way that will matter for eternity. I love helping people leverage all that God has given them.
-
-I [tweet](http://twitter.com/jshirk) and blog because I like connecting with people and helping others grow in their faith and abilities. I like puns and I got one of my better ones made into a [shirt](https://www.flickr.com/photos/busyprinting/4227080733)). I traded my 22nd birthday for [clean water](http://mycharitywater.org/jshirk). I like Chemex coffee, budgets, reading, and reading while drinking coffee and budgeting.
 
 ## How can I subscribe?
 
@@ -37,25 +37,20 @@ If this is your first time here, feel free to get started with some of these pop
 
 ### [Theology](https://jshirk.com/blog/category/theology/)
 
-[10 Things for a Christian to Consider Before Marrying a Non-Christian](https://jshirk.com/blog/marrying-nonchristian/ "10 Things for a Christian to Consider Before Marrying a Non-Christian")  
-[How I Meditate on The Word of God Day and Night](https://jshirk.com/blog/meditate-day-night/ "How I Meditate on The Word of God Day and Night")  
-[How to Stop Comparing Everyone’s Highlight Reels With Your Life](https://jshirk.com/blog/highlight-reels/ "How to Stop Comparing Everyone’s Highlight Reels With Your Life")  
-[My Morning Manifesto: How 4 Minutes Can Change Your Day](https://jshirk.com/blog/morning-manifesto/ "My Morning Manifesto: How 4 Minutes Can Change Your Day")  
-[The Process for Answering Tough Questions About Christianity](https://jshirk.com/blog/answering-question/ "The Process for Answering Tough Questions About Christianity")
+[My Morning Manifesto: How 4 Minutes Can Change Your Day](https://jshirk.com/blog/morning-manifesto/) 
+[How to Stop Comparing Everyone’s Highlight Reels With Your Life](https://jshirk.com/blog/highlight-reels/)
+[The Process for Answering Tough Questions About Christianity](https://jshirk.com/blog/answering-question/)
 
 ### [Technology](https://jshirk.com/blog/category/technology/)
 
-[Backblaze vs. CrashPlan: Reviewing Backup Options](https://jshirk.com/blog/backblaze-crashplan-online-backup/)  
-[Dollar Shave Club Review: Why It Rocks and Why You Need It](https://jshirk.com/blog/dollar-shave-club-review/ "Dollar Shave Club Review: Why It Rocks and Why You Need It")  
-[Drafts for iOS: The Official Point Guard of my iPhone](https://jshirk.com/blog/drafts-ios/ "Drafts for iOS: The Official Point Guard of my iPhone")  
-[The Best Budgeting App: YNAB](https://jshirk.com/blog/ynab/ "The Best Budgeting App: YNAB")  
-[Using an AeroPress to Brew Coffee (or The Starter Guide to Coffee Snobbery)](https://jshirk.com/blog/aeropress/ "Using an AeroPress to Brew Coffee (or The Starter Guide to Coffee Snobbery)")  
+[The Best Budgeting App: YNAB](https://jshirk.com/blog/ynab/)
+[Drafts for iOS: The Official Point Guard of my iPhone](https://jshirk.com/blog/drafts-ios/)   
 [Why The Internet Can’t Validate Me (But I Try to Let it Anyway)](https://jshirk.com/blog/internet-validation/)
 
 ### [Methodology](https://jshirk.com/blog/category/methodology/)
 
-[10 Tips to Craft a Mind-Blowing Marriage Proposal](https://jshirk.com/blog/proposal-tips/ "10 Tips to Craft a Mind-Blowing Marriage Proposal")  
-[A Starter Guide to Mediocrity (or 21 Steps to Destruction)](https://jshirk.com/blog/mediocrity-guide/ "A Starter Guide to Mediocrity (or 21 Steps to Destruction)")  
-[Everything You Need to Know To Teach Yourself Design from Scratch](https://jshirk.com/blog/teach-yourself-design/ "Everything You Need to Know To Teach Yourself Design from Scratch")  
-[Rationalization: What It Is and How to Stop It  
-](https://jshirk.com/blog/rationalization/ "Rationalization: What It Is and How to Stop It")[The Complete Guide to Air Travel (or 30+ Tips to Fly Like a Boss)](https://jshirk.com/blog/air-travel-guide/ "The Complete Guide to Air Travel (or 30+ Tips to Fly Like a Boss)")
+[Rationalization: What It Is and How to Stop It](https://jshirk.com/blog/rationalization/)
+[The Complete Guide to Air Travel (or 30+ Tips to Fly Like a Boss](https://jshirk.com/blog/air-travel-guide/)
+[10 Tips to Craft a Mind-Blowing Marriage Proposal](https://jshirk.com/blog/proposal-tips/)  
+[A Starter Guide to Mediocrity (or 21 Steps to Destruction)](https://jshirk.com/blog/mediocrity-guide/)
+
