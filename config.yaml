@@ -1,20 +1,23 @@
 # Site Parameters
 params:
-  tagline: "The Useful Life"
-  description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
-  mainSections: ["blog"]
   defaultTheme: auto
-  ShowFullTextinRSS: true
+  description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
   disableAnchoredHeadings: true
-  showtoc: true
-  show_latest_posts: true
+  enableEmoji: true
   latest_posts_count: 5
+  mainSections: ["blog"]
+  show_latest_posts: true
+  showtoc: true
+  ShowBreadCrumbs: true
+  ShowFullTextinRSS: true
   ShowPostNavLinks: true
   ShowReadingTime: true
-  ShowBreadCrumbs: true
   ShowWordCount: true
+  tagline: "The Useful Life"
+
   assets:
     favicon: "favicon.ico"
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -23,13 +26,18 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-  
+
+## Permalinks show up under /blog
+permalinks:
+  blog: "/blog/:slug/"
+
+  # Home Page Parameters and Intro Text  
   homeInfoParams:
     Title: Accelerating your journey into the useful life.
     Content: Hey, I’m [Jordan](/about). I write about [faith](/categories/theology), [technology](/categories/technology), and [practical wisdom](/categories/methodology)—helping you think deeply and act decisively in a chaotic world. If you're looking for powerful ideas and helpful tools for living the useful life well, you’re in the right place. You can connect with me below and subscribe to get updates in your inbox [here](http://eepurl.com/IwFaP).
-  
-      
-  socialIcons: # optional
+
+  # Social Icons on Home Page     
+  socialIcons: 
     - name: "x"
       url: "https://x.com/jshirk"
     - name: "instagram"
@@ -38,7 +46,6 @@ params:
       url: "https://facebook.com/jshirk"
     - name: "email"
       url: "mailto:jshirkman@gmail.com"
-
 
 languageCode: "en-us"
 title: "Jordan Shirkman | The Useful Life"
