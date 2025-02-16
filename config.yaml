@@ -2,7 +2,6 @@
 params:
   tagline: "The Useful Life"
   description: "Helping you discover who you are, who God is, and how to use the right tools to become the person you were made to be."
-  email_subscribe_url: "http://eepurl.com/IwFaP"
   mainSections: ["blog"]
   defaultTheme: auto
   ShowFullTextinRSS: true
