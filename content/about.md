@@ -24,13 +24,6 @@ I write about **pursuing wisdom, mastering the ordinary, and building a meaningf
 
 You can subscribe by [email]((http://jshirk.us2.list-manage.com/subscribe?u=494bbc345ee9ac49815fc27f7&id=96f30fa52e)) so you don’t miss a post.
 
-
-## How can I subscribe?
-
-You can subscribe by email here:
-
-{{< subscribe >}}
-
 ## Where do I start?
 
 If this is your first time here, feel free to get started with some of these popular posts other people enjoy.

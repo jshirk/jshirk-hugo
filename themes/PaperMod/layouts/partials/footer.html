@@ -142,30 +142,6 @@
     });
 </script>
 
-<script>
-    document.getElementById("subscribe-form").addEventListener("submit", async function (e) {
-        e.preventDefault();
-    
-        const email = document.getElementById("email").value;
-        const fname = document.getElementById("fname").value;
-    
-        const response = await fetch("/.netlify/functions/mailchimp", {
-            method: "POST",
-            body: JSON.stringify({ email, fname }),
-            headers: { "Content-Type": "application/json" }
-        });
-    
-        const result = await response.json();
-    
-        if (response.ok) {
-            document.getElementById("success-message").style.display = "block";
-            document.getElementById("error-message").style.display = "none";
-            this.reset();
-        } else {
-            document.getElementById("error-message").style.display = "block";
-            document.getElementById("error-message").innerText = result.error;
-        }
-    });
-    </script>
+{{ partial "subscribe.html" . }}
     
 {{- end }}
