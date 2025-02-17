@@ -3,7 +3,7 @@ title: "11 To-Dos and Don'ts of Making Lists"
 author: Jordan Shirkman
 type: post
 date: 2010-01-28T18:50:58+00:00
-url: /11-to-dos-and-donts-of-making-lists/
+slug: /11-to-dos-and-donts-of-making-lists/
 short-url:
   - http://bit.ly/hwMMfc
 categories:

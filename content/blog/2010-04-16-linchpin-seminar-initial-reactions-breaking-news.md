@@ -3,7 +3,7 @@ title: 'Linchpin Seminar – Initial Reactions & Breaking News'
 author: Jordan Shirkman
 type: post
 date: 2010-04-16T18:30:50+00:00
-url: /linchpin-seminar-initial-reactions-breaking-news/
+slug: /linchpin-seminar-initial-reactions-breaking-news/
 short-url:
   - http://bit.ly/hvCoWU
 categories:

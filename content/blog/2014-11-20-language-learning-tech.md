@@ -3,7 +3,7 @@ title: 4 Tools to Make Language Learning Easier
 author: Jordan Shirkman
 type: post
 date: 2014-11-20T10:00:37+00:00
-url: /language-learning-tech/
+slug: /language-learning-tech/
 categories:
   - Technology
 

@@ -3,7 +3,7 @@ title: Stop Asking for a Map
 author: Jordan Shirkman
 type: post
 date: 2010-02-10T15:37:34+00:00
-url: /stop-asking-for-a-map/
+slug: /stop-asking-for-a-map/
 dsq_thread_id:
   - 179947084
 short-url:

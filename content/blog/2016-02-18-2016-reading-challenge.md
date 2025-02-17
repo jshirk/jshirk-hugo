@@ -3,7 +3,7 @@ title: The Challies 2016 Reading Challenge
 author: Jordan Shirkman
 type: post
 date: 2016-02-18T10:00:41+00:00
-url: /2016-reading-challenge/
+slug: /2016-reading-challenge/
 categories:
   - Methodology
 

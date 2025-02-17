@@ -3,7 +3,7 @@ title: How I Reflected On and Evaluated My Year
 author: Jordan Shirkman
 type: post
 date: 2015-01-01T10:00:30+00:00
-url: /reflecting-on-the-year/
+slug: /reflecting-on-the-year/
 categories:
   - Methodology
 

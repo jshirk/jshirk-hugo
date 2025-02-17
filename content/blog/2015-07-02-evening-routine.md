@@ -3,7 +3,7 @@ title: Starting an Evening Routine
 author: Jordan Shirkman
 type: post
 date: 2015-07-02T09:00:02+00:00
-url: /evening-routine/
+slug: /evening-routine/
 categories:
   - Methodology
 

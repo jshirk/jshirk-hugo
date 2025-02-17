@@ -3,7 +3,7 @@ title: 14 Invaluable Leadership Lessons I Learned from Living Abroad
 author: Jordan Shirkman
 type: post
 date: 2013-04-24T09:00:39+00:00
-url: /leading-overseas/
+slug: /leading-overseas/
 categories:
   - Methodology
 tags:

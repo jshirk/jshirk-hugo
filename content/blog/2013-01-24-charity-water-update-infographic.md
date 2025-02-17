@@ -3,7 +3,7 @@ title: 'charity: water Project Update + Infographic'
 author: Jordan Shirkman
 type: post
 date: 2013-01-24T12:30:02+00:00
-url: /charity-water-update-infographic/
+slug: /charity-water-update-infographic/
 categories:
   - Technology
 tags:

@@ -3,7 +3,7 @@ title: Radical Love
 author: Jordan Shirkman
 type: post
 date: 2009-09-16T12:35:16+00:00
-url: /radical-love/
+slug: /radical-love/
 short-url:
   - http://bit.ly/gxiKTS
 dsq_thread_id:

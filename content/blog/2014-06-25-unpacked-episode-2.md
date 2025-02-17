@@ -3,7 +3,7 @@ title: The Unpacked Podcast Episode 2 – Being Present
 author: Jordan Shirkman
 type: post
 date: 2014-06-25T09:00:27+00:00
-url: /unpacked-episode-2/
+slug: /unpacked-episode-2/
 categories:
   - Technology
 tags:

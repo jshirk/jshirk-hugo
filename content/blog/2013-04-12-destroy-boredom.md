@@ -3,7 +3,7 @@ title: 11 Ways You Can Instantly Destroy Boredom Into a Million Pieces
 author: Jordan Shirkman
 type: post
 date: 2013-04-12T09:00:09+00:00
-url: /destroy-boredom/
+slug: /destroy-boredom/
 standard_seo_post_meta_description:
   - A curated list of resources, ideas and processes to escape boredom and learn more.
 categories:

@@ -3,7 +3,7 @@ title: 7 Chains Locking Up Your Motivation and How to Break Free
 author: Jordan Shirkman
 type: post
 date: 2010-03-23T13:41:00+00:00
-url: /7-chains-locking-motivation/
+slug: /7-chains-locking-motivation/
 short-url:
   - http://bit.ly/gJN6tf
 categories:

@@ -3,7 +3,7 @@ title: The Problem With the Way Most of Us Work
 author: Jordan Shirkman
 type: post
 date: 2015-05-11T09:00:11+00:00
-url: /how-we-work/
+slug: /how-we-work/
 categories:
   - Methodology
 

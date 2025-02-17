@@ -3,7 +3,7 @@ title: The Easiest Way to Create an Impressive PDF in Under 20 Minutes
 author: Jordan Shirkman
 type: post
 date: 2013-04-26T09:00:33+00:00
-url: /impressive-pdf/
+slug: /impressive-pdf/
 standard_seo_post_meta_description:
   - Step-by-step guide on creating professional, clean PDFs in Apple Keynote.
 categories:

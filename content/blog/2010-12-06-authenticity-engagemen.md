@@ -3,7 +3,7 @@ title: 2 Keys to Increasing Your Real Life Following
 author: Jordan Shirkman
 type: post
 date: 2010-12-06T15:52:42+00:00
-url: /authenticity-engagemen/
+slug: /authenticity-engagemen/
 short-url:
   - http://bit.ly/dEgoN4
 dsq_thread_id:

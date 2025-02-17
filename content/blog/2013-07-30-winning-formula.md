@@ -3,7 +3,7 @@ title: Success Isn’t Sexy (and the Instant Formula for Winning)
 author: Jordan Shirkman
 type: post
 date: 2013-07-30T09:00:59+00:00
-url: /winning-formula/
+slug: /winning-formula/
 categories:
   - Methodology
 tags:

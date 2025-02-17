@@ -3,7 +3,7 @@ title: 'Save Your Fingers from Finger Fatigue: Using a Text Expander to Improve 
 author: Jordan Shirkman
 type: post
 date: 2013-01-02T14:50:26+00:00
-url: /text-expander/
+slug: /text-expander/
 dsq_thread_id:
   - 1004437506
 categories:

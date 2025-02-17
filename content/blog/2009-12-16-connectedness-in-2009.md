@@ -3,7 +3,7 @@ title: Connectedness in 2009
 author: Jordan Shirkman
 type: post
 date: 2009-12-16T21:59:35+00:00
-url: /connectedness-in-2009/
+slug: /connectedness-in-2009/
 dsq_thread_id:
   - 179947008
 short-url:

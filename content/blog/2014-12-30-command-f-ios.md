@@ -3,7 +3,7 @@ title: 'Quick Tip: Command + F on iOS'
 author: Jordan Shirkman
 type: post
 date: 2014-12-30T10:00:00+00:00
-url: /command-f-ios/
+slug: /command-f-ios/
 categories:
   - Technology
 

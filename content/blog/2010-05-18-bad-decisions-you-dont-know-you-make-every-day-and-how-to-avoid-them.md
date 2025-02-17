@@ -3,7 +3,7 @@ title: Bad Decisions You Don’t Know You Make Every Day and How to Avoid Them
 author: Jordan Shirkman
 type: post
 date: 2010-05-18T18:05:07+00:00
-url: /bad-decisions-you-dont-know-you-make-every-day-and-how-to-avoid-them/
+slug: /bad-decisions-you-dont-know-you-make-every-day-and-how-to-avoid-them/
 dsq_thread_id:
   - 179947171
 short-url:

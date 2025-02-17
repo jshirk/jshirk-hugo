@@ -3,7 +3,7 @@ title: The Only Identity You Can’t Lose
 author: Jordan Shirkman
 type: post
 date: 2016-03-10T10:00:54+00:00
-url: /only-identity/
+slug: /only-identity/
 categories:
   - Theology
 

@@ -3,7 +3,7 @@ title: 9 Resume Tips to Impact Employers
 author: Jordan Shirkman
 type: post
 date: 2009-08-19T15:16:07+00:00
-url: /9-resume-tips-to-impact-employers/
+slug: /9-resume-tips-to-impact-employers/
 dsq_thread_id:
   - 179946771
 short-url:

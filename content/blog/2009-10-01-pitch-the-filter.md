@@ -3,7 +3,7 @@ title: Pitch The Filter
 author: Jordan Shirkman
 type: post
 date: 2009-10-01T11:00:31+00:00
-url: /pitch-the-filter/
+slug: /pitch-the-filter/
 short-url:
   - http://bit.ly/fLcxtQ
 categories:

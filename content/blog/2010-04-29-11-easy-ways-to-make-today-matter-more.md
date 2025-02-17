@@ -3,7 +3,7 @@ title: 11 Easy Ways to Make Today Matter More
 author: Jordan Shirkman
 type: post
 date: 2010-04-29T18:38:58+00:00
-url: /11-easy-ways-to-make-today-matter-more/
+slug: /11-easy-ways-to-make-today-matter-more/
 short-url:
   - http://bit.ly/gzwuW2
 categories:

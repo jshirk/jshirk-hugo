@@ -3,7 +3,7 @@ title: How Committed Are You?
 author: Jordan Shirkman
 type: post
 date: 2009-11-04T16:50:00+00:00
-url: /how-committed-are-you/
+slug: /how-committed-are-you/
 dsq_thread_id:
   - 179946988
 short-url:

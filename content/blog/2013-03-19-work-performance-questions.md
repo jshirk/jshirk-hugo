@@ -3,7 +3,7 @@ title: 30 Questions to Evaluate Your Work Performance
 author: Jordan Shirkman
 type: post
 date: 2013-03-19T10:00:11+00:00
-url: /work-performance-questions/
+slug: /work-performance-questions/
 standard_seo_post_meta_description:
   - A self-assessment to evaluate your own work performance in 30 questions.
 categories:

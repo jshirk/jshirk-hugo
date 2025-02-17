@@ -3,7 +3,7 @@ title: They Didn’t Have to be There
 author: Jordan Shirkman
 type: post
 date: 2010-01-22T15:24:28+00:00
-url: /they-didnt-have-to-be-there/
+slug: /they-didnt-have-to-be-there/
 short-url:
   - http://bit.ly/igIMSz
 categories:

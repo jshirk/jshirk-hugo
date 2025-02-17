@@ -3,7 +3,7 @@ title: My 5 Favorite Podcasts (that Will Change Your Life)
 author: Jordan Shirkman
 type: post
 date: 2013-08-02T09:00:28+00:00
-url: /favorite-podcasts/
+slug: /favorite-podcasts/
 standard_seo_post_meta_description:
   - A rocking quintuple of podcasts that will make you more productive, financially savvy and spiritually healthy.
 categories:

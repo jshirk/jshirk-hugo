@@ -3,7 +3,7 @@ title: Why You Haven’t Experienced God
 author: Jordan Shirkman
 type: post
 date: 2011-07-27T14:10:00+00:00
-url: /experienc/
+slug: /experienc/
 short-url:
   - http://bit.ly/ndGquB
 dsq_thread_id:

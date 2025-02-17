@@ -3,7 +3,7 @@ title: The Key to Explaining New Ideas (and Marketing Them at the Same Time)
 author: Jordan Shirkman
 type: post
 date: 2013-07-13T09:00:31+00:00
-url: /anchoring-ideas/
+slug: /anchoring-ideas/
 standard_seo_post_meta_description:
   - Giving your ideas context and making them marketable in one fell swoop.
 categories:

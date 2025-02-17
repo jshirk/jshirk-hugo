@@ -3,7 +3,7 @@ title: 'Fix It or Leave It: How to Coach People Without Stepping on Toes'
 author: Jordan Shirkman
 type: post
 date: 2013-07-05T09:00:23+00:00
-url: /fix-or-leave/
+slug: /fix-or-leave/
 standard_seo_post_meta_description:
   - Knowing when to hold them and when to fold them in leadership and correcting team members.
 categories:

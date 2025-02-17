@@ -3,7 +3,7 @@ title: 8 Full-Proof Tips to Never Forget Anything Again
 author: Jordan Shirkman
 type: post
 date: 2013-08-27T09:00:30+00:00
-url: /never-forget-again/
+slug: /never-forget-again/
 categories:
   - Methodology
 

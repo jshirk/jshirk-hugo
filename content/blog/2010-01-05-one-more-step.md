@@ -3,7 +3,7 @@ title: One More Step
 author: Jordan Shirkman
 type: post
 date: 2010-01-05T14:01:49+00:00
-url: /one-more-step/
+slug: /one-more-step/
 dsq_thread_id:
   - 179947027
 short-url:

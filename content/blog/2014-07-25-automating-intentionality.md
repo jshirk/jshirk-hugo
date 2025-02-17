@@ -3,7 +3,7 @@ title: Automating Intentionality
 author: Jordan Shirkman
 type: post
 date: 2014-07-25T09:00:56+00:00
-url: /automating-intentionality/
+slug: /automating-intentionality/
 categories:
   - Methodology
 

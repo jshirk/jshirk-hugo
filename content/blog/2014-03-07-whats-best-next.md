@@ -3,7 +3,7 @@ title: 'What’s Best Next: A Gospel-Centered Approach to Productivity'
 author: Jordan Shirkman
 type: post
 date: 2014-03-07T10:00:50+00:00
-url: /whats-best-next/
+slug: /whats-best-next/
 standard_seo_post_meta_description:
   - My new favorite book on being productive.
 categories:

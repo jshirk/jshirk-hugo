@@ -3,7 +3,7 @@ title: The Unpacked Podcast Episode 4 – Developing Habits
 author: Jordan Shirkman
 type: post
 date: 2014-07-23T09:00:00+00:00
-url: /unpacked-episode-4/
+slug: /unpacked-episode-4/
 categories:
   - Methodology
 format: link

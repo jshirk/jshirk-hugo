@@ -3,7 +3,7 @@ title: 3 Steps to Not Becoming a Pharisee
 author: Jordan Shirkman
 type: post
 date: 2015-02-20T10:00:38+00:00
-url: /3-step-pharisee/
+slug: /3-step-pharisee/
 categories:
   - Theology
 

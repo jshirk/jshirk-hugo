@@ -3,7 +3,7 @@ title: Why You Need to Stop Swinging for Home Runs and Focus on Base Hits
 author: Jordan Shirkman
 type: post
 date: 2013-09-20T09:00:55+00:00
-url: /stop-home-runs/
+slug: /stop-home-runs/
 standard_seo_post_meta_description:
   - "Don't bother going for homers when you need to just get on base."
 categories:

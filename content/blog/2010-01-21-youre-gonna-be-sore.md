@@ -3,7 +3,7 @@ title: "You're Gonna Be Sore"
 author: Jordan Shirkman
 type: post
 date: 2010-01-21T13:08:06+00:00
-url: /youre-gonna-be-sore/
+slug: /youre-gonna-be-sore/
 short-url:
   - http://bit.ly/dNO8je
 categories:

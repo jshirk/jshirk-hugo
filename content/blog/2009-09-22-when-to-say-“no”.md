@@ -3,7 +3,7 @@ title: When to Say, “No”
 author: Jordan Shirkman
 type: post
 date: 2009-09-22T12:02:44+00:00
-url: /when-to-say-“no”/
+slug: /when-to-say-“no”/
 short-url:
   - http://bit.ly/h3FunF
 categories:

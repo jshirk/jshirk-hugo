@@ -3,7 +3,7 @@ title: How to Know If The Work You Do Matters
 author: Jordan Shirkman
 type: post
 date: 2010-06-07T15:57:09+00:00
-url: /work-matters/
+slug: /work-matters/
 jabber_published:
   - 1275926233
 dsq_thread_id:

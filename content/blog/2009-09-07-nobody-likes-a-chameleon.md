@@ -3,7 +3,7 @@ title: Nobody Likes a Chameleon
 author: Jordan Shirkman
 type: post
 date: 2009-09-07T06:17:06+00:00
-url: /nobody-likes-a-chameleon/
+slug: /nobody-likes-a-chameleon/
 dsq_thread_id:
   - 179946821
 short-url:

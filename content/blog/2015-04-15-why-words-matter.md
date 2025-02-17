@@ -3,7 +3,7 @@ title: Why Words Matter
 author: Jordan Shirkman
 type: post
 date: 2015-04-15T09:00:26+00:00
-url: /why-words-matter/
+slug: /why-words-matter/
 categories:
   - Methodology
 

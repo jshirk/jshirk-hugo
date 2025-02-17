@@ -3,7 +3,7 @@ title: Marveling at Jesus
 author: Jordan Shirkman
 type: post
 date: 2013-05-09T09:00:00+00:00
-url: /marveling-at-jesus/
+slug: /marveling-at-jesus/
 standard_link_url_field:
   - http://www.beforethecross.com/devotionals/marveling-at-jesus/
 standard_seo_post_meta_description:

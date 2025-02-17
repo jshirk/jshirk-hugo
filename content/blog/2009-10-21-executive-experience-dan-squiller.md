@@ -3,7 +3,7 @@ title: 'Executive Experience: Dan Squiller'
 author: Jordan Shirkman
 type: post
 date: 2009-10-21T13:25:20+00:00
-url: /executive-experience-dan-squiller/
+slug: /executive-experience-dan-squiller/
 dsq_thread_id:
   - 179946966
 short-url:

@@ -3,7 +3,7 @@ title: Getting The Most Out of Twitter
 author: Jordan Shirkman
 type: post
 date: 2013-01-15T11:00:28+00:00
-url: /getting-the-most-out-of-twitter/
+slug: /getting-the-most-out-of-twitter/
 categories:
   - Technology
 tags:

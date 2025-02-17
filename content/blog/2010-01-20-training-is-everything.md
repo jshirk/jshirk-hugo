@@ -3,7 +3,7 @@ title: Training is Everything
 author: Jordan Shirkman
 type: post
 date: 2010-01-20T13:54:26+00:00
-url: /training-is-everything/
+slug: /training-is-everything/
 dsq_thread_id:
   - 179947062
 short-url:

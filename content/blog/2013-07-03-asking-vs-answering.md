@@ -3,7 +3,7 @@ title: Why Question Asking is Better than Question Answering
 author: Jordan Shirkman
 type: post
 date: 2013-07-03T09:00:15+00:00
-url: /asking-vs-answering/
+slug: /asking-vs-answering/
 standard_seo_post_meta_description:
   - Becoming a skilled asker of questions instead of a rote answerer of questions.
 categories:

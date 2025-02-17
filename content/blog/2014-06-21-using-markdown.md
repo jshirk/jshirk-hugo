@@ -4,7 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2014-06-21T13:26:35+00:00
 draft: true
-url: /?p=3410
+slug: /?p=3410
 categories:
   - Technology
 

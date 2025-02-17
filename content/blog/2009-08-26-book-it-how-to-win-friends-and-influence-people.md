@@ -3,7 +3,7 @@ title: Book It! How to Win Friends and Influence People
 author: Jordan Shirkman
 type: post
 date: 2009-08-26T15:29:45+00:00
-url: /book-it-how-to-win-friends-and-influence-people/
+slug: /book-it-how-to-win-friends-and-influence-people/
 short-url:
   - http://bit.ly/i6S1ki
 categories:

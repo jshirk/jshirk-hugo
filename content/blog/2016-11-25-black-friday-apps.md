@@ -3,7 +3,7 @@ title: My Favorite Apps on Sale for Black Friday
 author: Jordan Shirkman
 type: post
 date: 2016-11-25T10:09:22+00:00
-url: /black-friday-apps/
+slug: /black-friday-apps/
 categories:
   - Technology
 

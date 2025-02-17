@@ -3,7 +3,7 @@ title: Albums in Heavy Rotation – March 2013
 author: Jordan Shirkman
 type: post
 date: 2013-03-13T10:00:08+00:00
-url: /march-albums/
+slug: /march-albums/
 standard_seo_post_meta_description:
   - "Top five albums I'm listening to as of March 2013."
 categories:

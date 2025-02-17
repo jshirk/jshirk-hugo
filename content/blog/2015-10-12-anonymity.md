@@ -3,7 +3,7 @@ title: Anonymity vs. Accountability
 author: Jordan Shirkman
 type: post
 date: 2015-10-12T09:00:30+00:00
-url: /anonymity/
+slug: /anonymity/
 categories:
   - Methodology
 

@@ -3,7 +3,7 @@ title: Budgeting for Twenty-Somethings
 author: Jordan Shirkman
 type: post
 date: 2012-03-20T10:00:25+00:00
-url: /budgeting-for-twentys/
+slug: /budgeting-for-twentys/
 dsq_thread_id:
   - 617914726
 categories:

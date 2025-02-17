@@ -3,7 +3,7 @@ title: 'Quick Tip: Is the iOS Shift Key On or Off?'
 author: Jordan Shirkman
 type: post
 date: 2014-07-08T09:00:28+00:00
-url: /ios-shift-key/
+slug: /ios-shift-key/
 categories:
   - Technology
 

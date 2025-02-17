@@ -3,7 +3,7 @@ title: 10 years from now…
 author: Jordan Shirkman
 type: post
 date: 2010-02-12T15:09:57+00:00
-url: /10-years-from-now/
+slug: /10-years-from-now/
 dsq_thread_id:
   - 179947093
 short-url:

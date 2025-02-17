@@ -3,7 +3,7 @@ title: Increasing Digital Security with Two-Step Verification
 author: Jordan Shirkman
 type: post
 date: 2015-01-16T10:00:33+00:00
-url: /two-step-verification/
+slug: /two-step-verification/
 categories:
   - Technology
 

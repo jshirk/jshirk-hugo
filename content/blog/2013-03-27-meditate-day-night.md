@@ -3,7 +3,7 @@ title: How I Meditate on The Word of God Day and Night
 author: Jordan Shirkman
 type: post
 date: 2013-03-27T09:00:20+00:00
-url: /meditate-day-night/
+slug: /meditate-day-night/
 categories:
   - Theology
 tags:

@@ -3,7 +3,7 @@ title: Crying for the Father’s Help
 author: Jordan Shirkman
 type: post
 date: 2015-07-16T09:00:34+00:00
-url: /fathers-help/
+slug: /fathers-help/
 categories:
   - Theology
 

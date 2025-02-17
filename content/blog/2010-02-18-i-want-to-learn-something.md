@@ -3,7 +3,7 @@ title: “I Want to Learn Something”
 author: Jordan Shirkman
 type: post
 date: 2010-02-18T16:39:11+00:00
-url: /i-want-to-learn-something/
+slug: /i-want-to-learn-something/
 short-url:
   - http://bit.ly/gHZhmw
 categories:

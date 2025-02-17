@@ -3,7 +3,7 @@ title: "Fitness Friday: You've Gotta Start Somewhere"
 author: Jordan Shirkman
 type: post
 date: 2009-08-28T13:39:21+00:00
-url: /fitness-friday-youve-gotta-start-somewhere/
+slug: /fitness-friday-youve-gotta-start-somewhere/
 short-url:
   - http://bit.ly/haoMpP
 categories:

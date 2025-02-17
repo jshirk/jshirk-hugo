@@ -3,7 +3,7 @@ title: The Email Secret Stores and Your Family Don’t Want You to Know
 author: Jordan Shirkman
 type: post
 date: 2013-06-21T09:00:26+00:00
-url: /email-filters/
+slug: /email-filters/
 standard_seo_post_meta_description:
   - Using awesome email filters to clear junk out of the way and get to work.
 categories:

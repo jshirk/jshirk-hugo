@@ -3,7 +3,7 @@ title: 'A Quantified Life: Using Apps to Track Life'
 author: Jordan Shirkman
 type: post
 date: 2015-01-06T10:00:37+00:00
-url: /quantified-life/
+slug: /quantified-life/
 categories:
   - Technology
 

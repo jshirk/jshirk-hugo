@@ -3,7 +3,7 @@ title: Privacy.com Review – Unique Credit Card Numbers for Online Shopping
 author: Jordan Shirkman
 type: post
 date: 2017-08-10T09:00:10+00:00
-url: /privacy-com-review/
+slug: /privacy-com-review/
 categories:
   - Technology
 ---

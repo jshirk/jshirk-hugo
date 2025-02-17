@@ -3,7 +3,7 @@ title: 'Best Links of the Week: January 11'
 author: Jordan Shirkman
 type: post
 date: 2013-01-11T11:00:41+00:00
-url: /best-links-jan-11/
+slug: /best-links-jan-11/
 dsq_thread_id:
   - 1018567479
 categories:

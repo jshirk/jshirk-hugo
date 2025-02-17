@@ -3,7 +3,7 @@ title: Show Me Your Friends, and I’ll Show You Your Future
 author: Jordan Shirkman
 type: post
 date: 2009-08-24T14:19:49+00:00
-url: /show-me-your-friends-and-ill-show-you-your-future/
+slug: /show-me-your-friends-and-ill-show-you-your-future/
 dsq_thread_id:
   - 180248811
 short-url:

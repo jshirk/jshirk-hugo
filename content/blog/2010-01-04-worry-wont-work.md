@@ -3,7 +3,7 @@ title: Worry Won’t Work
 author: Jordan Shirkman
 type: post
 date: 2010-01-04T13:29:04+00:00
-url: /worry-wont-work/
+slug: /worry-wont-work/
 dsq_thread_id:
   - 179947020
 short-url:

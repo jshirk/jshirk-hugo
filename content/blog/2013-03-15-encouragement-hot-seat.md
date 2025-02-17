@@ -3,7 +3,7 @@ title: The Encouragement Hot Seat
 author: Jordan Shirkman
 type: post
 date: 2013-03-15T10:00:01+00:00
-url: /encouragement-hot-seat/
+slug: /encouragement-hot-seat/
 categories:
   - Methodology
 tags:

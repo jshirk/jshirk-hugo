@@ -3,7 +3,7 @@ title: 'Chemex Instructions: The Best Way to Brew Coffee'
 author: Jordan Shirkman
 type: post
 date: 2016-01-21T10:00:41+00:00
-url: /chemex-instructions/
+slug: /chemex-instructions/
 categories:
   - Methodology
 

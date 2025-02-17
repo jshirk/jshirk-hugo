@@ -3,7 +3,7 @@ title: 'Quick Tip: Playing Any Media File with VLC'
 author: Jordan Shirkman
 type: post
 date: 2014-07-29T17:04:02+00:00
-url: /quick-tip-vlc/
+slug: /quick-tip-vlc/
 categories:
   - Technology
 

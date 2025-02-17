@@ -3,7 +3,7 @@ title: A 12-Step Process for Successful Online Fundraising
 author: Jordan Shirkman
 type: post
 date: 2013-02-05T12:30:52+00:00
-url: /successful-online-fundraising/
+slug: /successful-online-fundraising/
 standard_seo_post_meta_description:
   - How to craft a successful online fundraising campaign in 12 simple steps.
 categories:

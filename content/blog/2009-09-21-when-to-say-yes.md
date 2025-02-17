@@ -3,7 +3,7 @@ title: When to Say, "Yes!"
 author: Jordan Shirkman
 type: post
 date: 2009-09-21T11:48:07+00:00
-url: /when-to-say-yes/
+slug: /when-to-say-yes/
 dsq_thread_id:
   - 179946867
 short-url:

@@ -3,7 +3,7 @@ title: Half Power
 author: Jordan Shirkman
 type: post
 date: 2009-11-16T14:35:34+00:00
-url: /half-power/
+slug: /half-power/
 dsq_thread_id:
   - 179946999
 short-url:

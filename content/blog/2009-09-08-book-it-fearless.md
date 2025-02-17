@@ -3,7 +3,7 @@ title: Book It! Fearless
 author: Jordan Shirkman
 type: post
 date: 2009-09-08T05:00:56+00:00
-url: /book-it-fearless/
+slug: /book-it-fearless/
 short-url:
   - http://bit.ly/i5f6uX
 categories:

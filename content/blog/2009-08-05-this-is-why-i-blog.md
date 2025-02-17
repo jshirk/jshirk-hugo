@@ -3,7 +3,7 @@ title: This Is Why I Blog
 author: Jordan Shirkman
 type: post
 date: 2009-08-05T05:32:34+00:00
-url: /this-is-why-i-blog/
+slug: /this-is-why-i-blog/
 dsq_thread_id:
   - 179946739
 short-url:

@@ -3,7 +3,7 @@ title: A Missionary Who Isn’t Missional
 author: Jordan Shirkman
 type: post
 date: 2011-10-25T10:00:21+00:00
-url: /missional/
+slug: /missional/
 short-url:
   - http://bit.ly/u5zvue
 dsq_thread_id:

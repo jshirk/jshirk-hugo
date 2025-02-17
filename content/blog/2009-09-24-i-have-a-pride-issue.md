@@ -3,7 +3,7 @@ title: I Have a Pride Issue
 author: Jordan Shirkman
 type: post
 date: 2009-09-24T10:54:02+00:00
-url: /i-have-a-pride-issue/
+slug: /i-have-a-pride-issue/
 dsq_thread_id:
   - 179946881
 short-url:

@@ -3,7 +3,7 @@ title: The Success in Failure
 author: Jordan Shirkman
 type: post
 date: 2009-09-15T11:22:07+00:00
-url: /the-success-in-failure/
+slug: /the-success-in-failure/
 short-url:
   - http://bit.ly/i4pfMg
 categories:

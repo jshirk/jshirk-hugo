@@ -3,7 +3,7 @@ title: 'Summing Your Life Up in One Sentence: Finding a Holy Ambition'
 author: Jordan Shirkman
 type: post
 date: 2013-09-03T09:00:56+00:00
-url: /one-sentence-life/
+slug: /one-sentence-life/
 standard_seo_post_meta_description:
   - "Get focused and choosing how you'll leave a mark on this world."
 categories:

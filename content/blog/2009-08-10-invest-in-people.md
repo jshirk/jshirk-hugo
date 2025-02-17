@@ -3,7 +3,7 @@ title: Invest in People
 author: Jordan Shirkman
 type: post
 date: 2009-08-10T19:39:16+00:00
-url: /invest-in-people/
+slug: /invest-in-people/
 short-url:
   - http://bit.ly/dLTG0b
 categories:

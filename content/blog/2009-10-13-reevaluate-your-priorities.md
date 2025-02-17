@@ -3,7 +3,7 @@ title: Reevaluate Your Priorities
 author: Jordan Shirkman
 type: post
 date: 2009-10-13T11:20:05+00:00
-url: /reevaluate-your-priorities/
+slug: /reevaluate-your-priorities/
 dsq_thread_id:
   - 179946956
 short-url:

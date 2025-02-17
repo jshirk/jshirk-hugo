@@ -3,7 +3,7 @@ title: Happy Thanksgiving to You
 author: Jordan Shirkman
 type: post
 date: 2009-11-26T15:22:42+00:00
-url: /happy-thanksgiving-to-you/
+slug: /happy-thanksgiving-to-you/
 tagazine-media:
   - 's:190:"a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"9185402";s:7:"blog_id";s:7:"8870934";s:9:"mod_stamp";s:19:"2010-03-11 20:00:30";}";'
 short-url:

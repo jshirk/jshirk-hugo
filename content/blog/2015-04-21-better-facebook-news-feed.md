@@ -3,7 +3,7 @@ title: Making the Facebook News Feed Better with Unfollowing
 author: Jordan Shirkman
 type: post
 date: 2015-04-21T09:00:44+00:00
-url: /better-facebook-news-feed/
+slug: /better-facebook-news-feed/
 categories:
   - Technology
 

@@ -3,7 +3,7 @@ title: 10 Tips for a Killer Wedding Toast
 author: Jordan Shirkman
 type: post
 date: 2014-06-20T09:00:25+00:00
-url: /wedding-toast/
+slug: /wedding-toast/
 categories:
   - Methodology
 

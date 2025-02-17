@@ -3,7 +3,7 @@ title: 'The Best Podcast Player on iOS: Pocket Casts'
 author: Jordan Shirkman
 type: post
 date: 2014-07-17T09:00:43+00:00
-url: /pocket-casts/
+slug: /pocket-casts/
 categories:
   - Technology
 

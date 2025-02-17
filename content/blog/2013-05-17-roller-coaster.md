@@ -3,7 +3,7 @@ title: The Best Quote to Get You Through the Highs and Lows of Life
 author: Jordan Shirkman
 type: post
 date: 2013-05-17T09:00:46+00:00
-url: /roller-coaster/
+slug: /roller-coaster/
 standard_seo_post_meta_description:
   - "Dave Ramsey's sage advice for finances and life in general."
 categories:

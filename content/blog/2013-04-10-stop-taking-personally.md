@@ -3,7 +3,7 @@ title: 'Dude, Stop Taking Things So Personally [or How To Get Over Yourself]'
 author: Jordan Shirkman
 type: post
 date: 2013-04-10T09:00:43+00:00
-url: /stop-taking-personally/
+slug: /stop-taking-personally/
 standard_seo_post_meta_description:
   - "A personal case of me being a big baby and how I'm working on it, ok?"
 categories:

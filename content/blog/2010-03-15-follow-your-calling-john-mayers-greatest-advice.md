@@ -3,7 +3,7 @@ title: Follow Your Calling – John Mayer’s Greatest Advice
 author: Jordan Shirkman
 type: post
 date: 2010-03-15T18:51:32+00:00
-url: /follow-your-calling-john-mayers-greatest-advice/
+slug: /follow-your-calling-john-mayers-greatest-advice/
 short-url:
   - http://bit.ly/hosdU4
 categories:

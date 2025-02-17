@@ -3,7 +3,7 @@ title: 'Backblaze vs. CrashPlan: Reviewing Backup Options'
 author: Jordan Shirkman
 type: post
 date: 2015-01-22T10:00:46+00:00
-url: /backblaze-crashplan-online-backup/
+slug: /backblaze-crashplan-online-backup/
 categories:
   - Technology
 

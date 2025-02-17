@@ -3,7 +3,7 @@ title: How to Start Spending Your Time More Wisely
 author: Jordan Shirkman
 type: post
 date: 2015-07-30T09:00:34+00:00
-url: /using-time/
+slug: /using-time/
 categories:
   - Methodology
 

@@ -3,7 +3,7 @@ title: It’s Time to Start Smoking
 author: Jordan Shirkman
 type: post
 date: 2010-02-16T13:41:56+00:00
-url: /its-time-to-start-smoking/
+slug: /its-time-to-start-smoking/
 dsq_thread_id:
   - 179947099
 short-url:

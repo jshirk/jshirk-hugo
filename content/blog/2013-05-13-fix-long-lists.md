@@ -3,7 +3,7 @@ title: Why Long Lists Online are Worthless and How to Fix Them
 author: Jordan Shirkman
 type: post
 date: 2013-05-13T09:00:05+00:00
-url: /fix-long-lists/
+slug: /fix-long-lists/
 standard_seo_post_meta_description:
   - The problem with lengthy lists floating around the Internet, and how you can make awesome ones.
 categories:

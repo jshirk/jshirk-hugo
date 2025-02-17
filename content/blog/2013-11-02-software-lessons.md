@@ -3,7 +3,7 @@ title: 7 Software Lessons that Apply to Your Work
 author: Jordan Shirkman
 type: post
 date: 2013-11-02T09:00:34+00:00
-url: /software-lessons/
+slug: /software-lessons/
 categories:
   - Methodology
 

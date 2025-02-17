@@ -3,7 +3,7 @@ title: Here’s to You, Columbus
 author: Jordan Shirkman
 type: post
 date: 2009-08-27T13:55:18+00:00
-url: /here’s-to-you-columbus/
+slug: /here’s-to-you-columbus/
 dsq_thread_id:
   - 179946790
 short-url:

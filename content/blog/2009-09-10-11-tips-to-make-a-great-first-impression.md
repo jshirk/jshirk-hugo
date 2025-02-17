@@ -3,7 +3,7 @@ title: 11 Tips to Make a Great First Impression
 author: Jordan Shirkman
 type: post
 date: 2009-09-10T13:10:19+00:00
-url: /11-tips-to-make-a-great-first-impression/
+slug: /11-tips-to-make-a-great-first-impression/
 dsq_thread_id:
   - 179946848
 short-url:

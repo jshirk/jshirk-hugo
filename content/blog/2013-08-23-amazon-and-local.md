@@ -3,7 +3,7 @@ title: How Amazon Ruined “Normal” Shopping for Me (and How to Fix It)
 author: Jordan Shirkman
 type: post
 date: 2013-08-23T09:00:54+00:00
-url: /amazon-and-local/
+slug: /amazon-and-local/
 standard_seo_post_meta_description:
   - What happens when everything goes online and how we can help local businesses thrive.
 categories:

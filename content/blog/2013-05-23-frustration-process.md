@@ -3,7 +3,7 @@ title: A Full-Proof Process to Figure Out What’s Ruining Your Day
 author: Jordan Shirkman
 type: post
 date: 2013-05-23T09:00:39+00:00
-url: /frustration-process/
+slug: /frustration-process/
 standard_seo_post_meta_description:
   - A full-proof plan to quit being a fussy pants and start getting control of your emotions.
 categories:

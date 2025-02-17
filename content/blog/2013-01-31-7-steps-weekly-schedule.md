@@ -3,7 +3,7 @@ title: 7 Steps to Taming Your Weekly Schedule
 author: Jordan Shirkman
 type: post
 date: 2013-01-31T12:30:10+00:00
-url: /7-steps-weekly-schedule/
+slug: /7-steps-weekly-schedule/
 categories:
   - Methodology
 tags:

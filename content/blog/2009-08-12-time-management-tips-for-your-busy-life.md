@@ -3,7 +3,7 @@ title: Time Management Tips for Your "Busy" Life
 author: Jordan Shirkman
 type: post
 date: 2009-08-12T16:47:48+00:00
-url: /time-management-tips-for-your-busy-life/
+slug: /time-management-tips-for-your-busy-life/
 short-url:
   - http://bit.ly/gXtvPI
 categories:

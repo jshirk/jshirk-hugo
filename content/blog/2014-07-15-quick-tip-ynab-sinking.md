@@ -3,7 +3,7 @@ title: 'Quick Tip: Enabling Category Sinking Funds in YNAB'
 author: Jordan Shirkman
 type: post
 date: 2014-07-15T09:00:56+00:00
-url: /quick-tip-ynab-sinking/
+slug: /quick-tip-ynab-sinking/
 categories:
   - Technology
 tags:

@@ -3,7 +3,7 @@ title: Eliminate the Ultimatum
 author: Jordan Shirkman
 type: post
 date: 2010-01-07T16:14:59+00:00
-url: /eliminate-the-ultimatum/
+slug: /eliminate-the-ultimatum/
 dsq_thread_id:
   - 179947036
 short-url:

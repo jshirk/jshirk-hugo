@@ -3,7 +3,7 @@ title: Three Tiny Steps to Building Lasting Habits
 author: Jordan Shirkman
 type: post
 date: 2015-08-14T09:00:31+00:00
-url: /build-habits/
+slug: /build-habits/
 categories:
   - Methodology
 

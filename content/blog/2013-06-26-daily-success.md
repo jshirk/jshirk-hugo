@@ -3,7 +3,7 @@ title: Evaluating Daily Success with Two Simple (but Challenging) Questions
 author: Jordan Shirkman
 type: post
 date: 2013-06-26T09:00:05+00:00
-url: /daily-success/
+slug: /daily-success/
 standard_seo_post_meta_description:
   - Changing the way I formerly decided if my day was fruitful by asking more important questions.
 categories:

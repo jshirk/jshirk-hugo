@@ -3,7 +3,7 @@ title: 'My Morning Manifesto: How 4 Minutes Can Change Your Day'
 author: Jordan Shirkman
 type: post
 date: 2013-04-30T09:00:48+00:00
-url: /morning-manifesto/
+slug: /morning-manifesto/
 categories:
   - Theology
 tags:

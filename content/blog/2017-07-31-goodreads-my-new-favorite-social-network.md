@@ -3,7 +3,7 @@ title: "Goodreads: My New Favorite Social Network"
 author: Jordan Shirkman
 type: post
 date: 2017-07-31T09:00:03+00:00
-url: /goodreads-my-new-favorite-social-network/
+slug: /goodreads-my-new-favorite-social-network/
 categories:
   - Technology
 ---

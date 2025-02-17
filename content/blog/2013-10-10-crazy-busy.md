@@ -3,7 +3,7 @@ title: 'The Solution to Busyness: A Crazy Busy Book Review'
 author: Jordan Shirkman
 type: post
 date: 2013-10-02T09:00:24+00:00
-url: /crazy-busy/
+slug: /crazy-busy/
 standard_seo_post_meta_description:
   - "A look at Kevin DeYoung's latest book, Crazy Busy."
 categories:

@@ -3,7 +3,7 @@ title: Why The Internet Can’t Validate Me (But I Try to Let it Anyway)
 author: Jordan Shirkman
 type: post
 date: 2015-11-09T10:00:58+00:00
-url: /internet-validation/
+slug: /internet-validation/
 categories:
   - Technology
 

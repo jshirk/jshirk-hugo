@@ -3,7 +3,7 @@ title: Organizing Your Prayers
 author: Jordan Shirkman
 type: post
 date: 2012-03-13T10:00:18+00:00
-url: /organizing-prayers/
+slug: /organizing-prayers/
 dsq_thread_id:
   - 609369561
 categories:

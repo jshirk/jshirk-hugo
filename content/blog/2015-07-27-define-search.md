@@ -3,7 +3,7 @@ title: A Secret, 3x Faster Way to Search the Web on iOS
 author: Jordan Shirkman
 type: post
 date: 2015-07-27T09:00:57+00:00
-url: /define-search/
+slug: /define-search/
 categories:
   - Technology
 

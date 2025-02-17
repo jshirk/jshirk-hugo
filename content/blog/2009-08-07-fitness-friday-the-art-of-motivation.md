@@ -3,7 +3,7 @@ title: 'Fitness Friday: The Art of Motivation'
 author: Jordan Shirkman
 type: post
 date: 2009-08-07T14:00:57+00:00
-url: /fitness-friday-the-art-of-motivation/
+slug: /fitness-friday-the-art-of-motivation/
 short-url:
   - http://bit.ly/g7uMVp
 categories:

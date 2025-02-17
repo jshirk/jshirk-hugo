@@ -3,7 +3,7 @@ title: What Impatience Really Is (and Why You Need to Deal with It)
 author: Jordan Shirkman
 type: post
 date: 2013-06-28T09:00:09+00:00
-url: /what-impatience-is/
+slug: /what-impatience-is/
 categories:
   - Theology
 tags:

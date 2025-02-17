@@ -3,7 +3,7 @@ title: Worshipping as a Family
 author: Jordan Shirkman
 type: post
 date: 2015-01-20T10:00:35+00:00
-url: /family-worship/
+slug: /family-worship/
 categories:
   - Theology
 

@@ -3,7 +3,7 @@ title: Awkwardness is a Choice
 author: Jordan Shirkman
 type: post
 date: 2014-08-22T09:00:52+00:00
-url: /awkwardness/
+slug: /awkwardness/
 categories:
   - Methodology
 

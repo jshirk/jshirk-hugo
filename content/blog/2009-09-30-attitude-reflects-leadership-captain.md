@@ -3,7 +3,7 @@ title: Attitude Reflects Leadership, Captain
 author: Jordan Shirkman
 type: post
 date: 2009-09-30T13:13:19+00:00
-url: /attitude-reflects-leadership-captain/
+slug: /attitude-reflects-leadership-captain/
 dsq_thread_id:
   - 180249223
 short-url:

@@ -3,7 +3,7 @@ title: The Best Time-Saving Shortcuts to Navigate Your Mac Without a Mouse
 author: Jordan Shirkman
 type: post
 date: 2013-07-25T09:00:36+00:00
-url: /no-mouse-mac/
+slug: /no-mouse-mac/
 categories:
   - Technology
 tags:

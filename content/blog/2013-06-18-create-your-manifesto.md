@@ -3,7 +3,7 @@ title: How to Create Your Own Morning Manifesto in 7 Easy Steps
 author: Jordan Shirkman
 type: post
 date: 2013-06-18T09:00:36+00:00
-url: /create-your-manifesto/
+slug: /create-your-manifesto/
 standard_seo_post_meta_description:
   - 'The simple process for making a life-changing document of values and priorities. '
 categories:

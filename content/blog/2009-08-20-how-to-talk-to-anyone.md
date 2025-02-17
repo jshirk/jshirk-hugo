@@ -3,7 +3,7 @@ title: How to Talk to Anyone
 author: Jordan Shirkman
 type: post
 date: 2009-08-20T16:40:21+00:00
-url: /how-to-talk-to-anyone/
+slug: /how-to-talk-to-anyone/
 dsq_thread_id:
   - 179946783
 short-url:

@@ -3,7 +3,7 @@ title: Discovering and Sharing Amazing Online Content Like a Pro
 author: Jordan Shirkman
 type: post
 date: 2013-06-12T09:00:00+00:00
-url: /amazing-content/
+slug: /amazing-content/
 standard_seo_post_meta_description:
   - Going Sherlock Holmes-style to find the best stuff on the web and sharing it with your favorite people.
 categories:

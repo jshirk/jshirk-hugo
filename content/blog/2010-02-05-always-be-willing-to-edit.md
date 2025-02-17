@@ -3,7 +3,7 @@ title: Always Be Willing to Edit
 author: Jordan Shirkman
 type: post
 date: 2010-02-05T15:06:30+00:00
-url: /always-be-willing-to-edit/
+slug: /always-be-willing-to-edit/
 tagazine-media:
   - 's:517:"a:7:{s:7:"primary";s:58:"http://farm1.static.flickr.com/54/178950842_20e2919e85.jpg";s:6:"images";a:1:{s:58:"http://farm1.static.flickr.com/54/178950842_20e2919e85.jpg";a:6:{s:8:"file_url";s:58:"http://farm1.static.flickr.com/54/178950842_20e2919e85.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"333";s:4:"type";s:5:"image";s:4:"area";s:6:"166500";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"9185402";s:7:"blog_id";s:7:"8870934";s:9:"mod_stamp";s:19:"2010-02-05 15:07:10";}";'
 dsq_thread_id:

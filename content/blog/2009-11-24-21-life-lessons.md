@@ -3,7 +3,7 @@ title: 21 Life Lessons
 author: Jordan Shirkman
 type: post
 date: 2009-11-24T15:01:36+00:00
-url: /21-life-lessons/
+slug: /21-life-lessons/
 dsq_thread_id:
   - 180254150
 short-url:

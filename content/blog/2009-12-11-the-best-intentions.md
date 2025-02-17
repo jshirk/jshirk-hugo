@@ -3,7 +3,7 @@ title: The Best Intentions
 author: Jordan Shirkman
 type: post
 date: 2009-12-11T18:24:12+00:00
-url: /the-best-intentions/
+slug: /the-best-intentions/
 short-url:
   - http://bit.ly/hSB1dV
 categories:

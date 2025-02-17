@@ -3,7 +3,7 @@ title: Shake Things Up
 author: Jordan Shirkman
 type: post
 date: 2009-09-14T11:12:15+00:00
-url: /shake-things-up/
+slug: /shake-things-up/
 short-url:
   - http://bit.ly/e6mHU3
 categories:

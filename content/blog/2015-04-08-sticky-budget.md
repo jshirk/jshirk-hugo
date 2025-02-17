@@ -3,7 +3,7 @@ title: 5 Keys to Sticking to a Budget for the Long Haul
 author: Jordan Shirkman
 type: post
 date: 2015-04-08T09:00:38+00:00
-url: /sticky-budget/
+slug: /sticky-budget/
 categories:
   - Methodology
 

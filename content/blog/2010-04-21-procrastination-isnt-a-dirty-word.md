@@ -3,7 +3,7 @@ title: Procrastination Isn’t a Dirty Word
 author: Jordan Shirkman
 type: post
 date: 2010-04-21T10:04:47+00:00
-url: /procrastination-isnt-a-dirty-word/
+slug: /procrastination-isnt-a-dirty-word/
 short-url:
   - http://bit.ly/bRCMAZ
 dsq_thread_id:

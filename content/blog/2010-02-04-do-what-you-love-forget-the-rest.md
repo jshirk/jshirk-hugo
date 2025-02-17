@@ -3,7 +3,7 @@ title: Do What You Love; Forget the Rest
 author: Jordan Shirkman
 type: post
 date: 2010-02-04T11:00:32+00:00
-url: /do-what-you-love-forget-the-rest/
+slug: /do-what-you-love-forget-the-rest/
 short-url:
   - http://bit.ly/hDAkL4
 categories:

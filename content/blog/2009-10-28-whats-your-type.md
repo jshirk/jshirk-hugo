@@ -3,7 +3,7 @@ title: What’s Your Type?
 author: Jordan Shirkman
 type: post
 date: 2009-10-28T14:46:09+00:00
-url: /whats-your-type/
+slug: /whats-your-type/
 dsq_thread_id:
   - 179946971
 short-url:

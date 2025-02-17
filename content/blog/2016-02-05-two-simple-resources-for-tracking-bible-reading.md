@@ -3,7 +3,7 @@ title: Two Simple Resources for Tracking Bible Reading
 author: Jordan Shirkman
 type: post
 date: 2016-02-05T06:22:55+00:00
-url: /two-simple-resources-for-tracking-bible-reading/
+slug: /two-simple-resources-for-tracking-bible-reading/
 categories:
   - Technology
 

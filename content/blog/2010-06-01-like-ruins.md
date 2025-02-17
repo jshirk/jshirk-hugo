@@ -3,7 +3,7 @@ title: The “Like” Button Is Ruining Everything (And Retweets Are Noise)
 author: Jordan Shirkman
 type: post
 date: 2010-06-01T13:52:00+00:00
-url: /like-ruins/
+slug: /like-ruins/
 tagazine-media:
   - 's:814:"a:7:{s:7:"primary";s:63:"http://farm5.static.flickr.com/4038/4459530001_7b32189d7f_o.jpg";s:6:"images";a:2:{s:63:"http://farm5.static.flickr.com/4038/4459530001_7b32189d7f_o.jpg";a:6:{s:8:"file_url";s:63:"http://farm5.static.flickr.com/4038/4459530001_7b32189d7f_o.jpg";s:5:"width";s:3:"446";s:6:"height";s:3:"583";s:4:"type";s:5:"image";s:4:"area";s:6:"260018";s:9:"file_path";s:0:"";}s:65:"http://jshirkman.files.wordpress.com/2010/06/likelesslovemore.jpg";a:6:{s:8:"file_url";s:65:"http://jshirkman.files.wordpress.com/2010/06/likelesslovemore.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"200";s:4:"type";s:5:"image";s:4:"area";s:6:"100000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"9185402";s:7:"blog_id";s:7:"8870934";s:9:"mod_stamp";s:19:"2010-06-01 23:33:34";}";'
 short-url:

@@ -3,7 +3,7 @@ title: The Best Way to Find a Solution to a Tough Problem
 author: Jordan Shirkman
 type: post
 date: 2014-03-24T09:00:38+00:00
-url: /expert-hat/
+slug: /expert-hat/
 categories:
   - Methodology
 

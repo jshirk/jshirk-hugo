@@ -3,7 +3,7 @@ title: Roasting Your Own Coffee for Under $100
 author: Jordan Shirkman
 type: post
 date: 2014-07-09T09:00:26+00:00
-url: /roasting-coffee/
+slug: /roasting-coffee/
 categories:
   - Methodology
 

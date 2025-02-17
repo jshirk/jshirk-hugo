@@ -3,7 +3,7 @@ title: 7 Factors to Focus on to Find Your Happy Place of Productivity
 author: Jordan Shirkman
 type: post
 date: 2010-06-10T15:51:56+00:00
-url: /happy-place/
+slug: /happy-place/
 jabber_published:
   - 1276185119
 dsq_thread_id:

@@ -3,7 +3,7 @@ title: How to Do Things You Don’t Want to Do Without Becoming a Legalist
 author: Jordan Shirkman
 type: post
 date: 2013-05-29T09:00:13+00:00
-url: /discipline-vs-legalism/
+slug: /discipline-vs-legalism/
 categories:
   - Theology
 tags:

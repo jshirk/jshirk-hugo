@@ -3,7 +3,7 @@ title: 'Fitness Friday: Flex Your Followability'
 author: Jordan Shirkman
 type: post
 date: 2009-10-09T14:24:05+00:00
-url: /fitness-friday-flex-your-followability/
+slug: /fitness-friday-flex-your-followability/
 dsq_thread_id:
   - 179946939
 short-url:

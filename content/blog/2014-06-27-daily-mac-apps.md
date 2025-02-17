@@ -3,7 +3,7 @@ title: 6 Mac Apps I Use Daily
 author: Jordan Shirkman
 type: post
 date: 2014-06-27T09:00:51+00:00
-url: /daily-mac-apps/
+slug: /daily-mac-apps/
 categories:
   - Technology
 

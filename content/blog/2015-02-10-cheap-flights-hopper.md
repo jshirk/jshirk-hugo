@@ -3,7 +3,7 @@ title: The Best App for Finding Cheap Flights
 author: Jordan Shirkman
 type: post
 date: 2015-02-10T10:00:18+00:00
-url: /cheap-flights-hopper/
+slug: /cheap-flights-hopper/
 categories:
   - Technology
 

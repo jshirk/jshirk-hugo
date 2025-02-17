@@ -3,7 +3,7 @@ title: The Christian and Social Media
 author: Jordan Shirkman
 type: post
 date: 2014-06-06T09:00:29+00:00
-url: /christian-social-media/
+slug: /christian-social-media/
 categories:
   - Technology
 

@@ -3,7 +3,7 @@ title: 11 Reasons to Share Your Ideas
 author: Jordan Shirkman
 type: post
 date: 2009-11-17T14:53:03+00:00
-url: /11-reasons-to-share-your-ideas/
+slug: /11-reasons-to-share-your-ideas/
 short-url:
   - http://bit.ly/hDJRva
 categories:

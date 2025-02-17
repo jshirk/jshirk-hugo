@@ -3,7 +3,7 @@ title: 'The Most Important App for Your Digital Life: Evernote'
 author: Jordan Shirkman
 type: post
 date: 2013-01-22T11:00:33+00:00
-url: /evernote-uses/
+slug: /evernote-uses/
 categories:
   - Technology
 tags:

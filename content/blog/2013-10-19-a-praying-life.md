@@ -3,7 +3,7 @@ title: Living A Praying Life
 author: Jordan Shirkman
 type: post
 date: 2013-10-19T09:00:30+00:00
-url: /a-praying-life/
+slug: /a-praying-life/
 standard_seo_post_meta_description:
   - "An overview of how Paul Miller's book on prayer has transformed my spiritual life."
 categories:

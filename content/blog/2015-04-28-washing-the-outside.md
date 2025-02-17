@@ -3,7 +3,7 @@ title: Washing the Outside, Ignoring the Inside
 author: Jordan Shirkman
 type: post
 date: 2015-04-28T09:00:06+00:00
-url: /washing-the-outside/
+slug: /washing-the-outside/
 categories:
   - Theology
 

@@ -3,7 +3,7 @@ title: Be Content (Wherever You Are)
 author: Jordan Shirkman
 type: post
 date: 2009-09-02T10:18:17+00:00
-url: /be-content-wherever-you-are/
+slug: /be-content-wherever-you-are/
 dsq_thread_id:
   - 179946810
 short-url:

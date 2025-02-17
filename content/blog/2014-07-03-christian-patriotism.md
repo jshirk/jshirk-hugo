@@ -3,7 +3,7 @@ title: Should Christians Be Patriotic?
 author: Jordan Shirkman
 type: post
 date: 2014-07-03T09:00:43+00:00
-url: /christian-patriotism/
+slug: /christian-patriotism/
 categories:
   - Theology
 

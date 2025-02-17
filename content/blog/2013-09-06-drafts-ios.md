@@ -3,7 +3,7 @@ title: 'Drafts for iOS: The Official Point Guard of my iPhone'
 author: Jordan Shirkman
 type: post
 date: 2013-09-06T09:00:19+00:00
-url: /drafts-ios/
+slug: /drafts-ios/
 standard_seo_post_meta_description:
   - My new favorite app for processing data and sending it to a myriad of apps.
 categories:

@@ -3,7 +3,7 @@ title: Two Tips for Reading More Books
 author: Jordan Shirkman
 type: post
 date: 2015-01-08T10:00:46+00:00
-url: /more-books/
+slug: /more-books/
 categories:
   - Methodology
 

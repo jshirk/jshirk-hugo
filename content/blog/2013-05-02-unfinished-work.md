@@ -3,7 +3,7 @@ title: Understanding and Dealing With Work That Is Never Finished
 author: Jordan Shirkman
 type: post
 date: 2013-05-02T09:00:00+00:00
-url: /unfinished-work/
+slug: /unfinished-work/
 categories:
   - Methodology
 tags:

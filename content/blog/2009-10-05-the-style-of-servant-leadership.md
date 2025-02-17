@@ -3,7 +3,7 @@ title: The Style of Servant Leadership
 author: Jordan Shirkman
 type: post
 date: 2009-10-05T12:51:49+00:00
-url: /the-style-of-servant-leadership/
+slug: /the-style-of-servant-leadership/
 dsq_thread_id:
   - 179946914
 short-url:

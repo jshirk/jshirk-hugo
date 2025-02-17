@@ -3,7 +3,7 @@ title: Diagrams for Understanding How God Reverses Idolatry
 author: Jordan Shirkman
 type: post
 date: 2013-02-28T11:00:28+00:00
-url: /reversing-idolatry/
+slug: /reversing-idolatry/
 standard_seo_post_meta_description:
   - Two diagrams showing how God changes our lives and reorients our priorities to put Him in control of our lives.
 categories:

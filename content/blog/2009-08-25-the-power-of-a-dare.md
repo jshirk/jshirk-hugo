@@ -3,7 +3,7 @@ title: The Power of a Dare
 author: Jordan Shirkman
 type: post
 date: 2009-08-25T18:56:55+00:00
-url: /the-power-of-a-dare/
+slug: /the-power-of-a-dare/
 short-url:
   - http://bit.ly/gBUz8W
 categories:

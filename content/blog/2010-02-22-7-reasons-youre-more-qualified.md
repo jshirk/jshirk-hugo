@@ -3,7 +3,7 @@ title: 7 Reasons You’re More Qualified Than Your Boss To Make Decisions
 author: Jordan Shirkman
 type: post
 date: 2010-02-22T13:10:38+00:00
-url: /7-reasons-youre-more-qualified/
+slug: /7-reasons-youre-more-qualified/
 dsq_thread_id:
   - 179947112
 short-url:

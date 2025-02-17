@@ -3,7 +3,7 @@ title: Solutions to Global Problems and Ending Human Trafficking
 author: Jordan Shirkman
 type: post
 date: 2014-03-04T10:00:35+00:00
-url: /global-problems/
+slug: /global-problems/
 standard_seo_post_meta_description:
   - Finding answers to huge worldwide problems like modern-day slavery.
 categories:

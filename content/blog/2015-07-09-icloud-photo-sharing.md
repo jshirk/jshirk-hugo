@@ -3,7 +3,7 @@ title: 'Photo Sharing Made Simple: Using iCloud Photo Sharing'
 author: Jordan Shirkman
 type: post
 date: 2015-07-09T09:00:37+00:00
-url: /icloud-photo-sharing/
+slug: /icloud-photo-sharing/
 categories:
   - Technology
 

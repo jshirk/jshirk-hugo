@@ -3,7 +3,7 @@ title: 11 Tips to Be a Great Team Player
 author: Jordan Shirkman
 type: post
 date: 2009-09-17T13:19:55+00:00
-url: /11-tips-to-be-a-great-team-player/
+slug: /11-tips-to-be-a-great-team-player/
 dsq_thread_id:
   - 179946856
 short-url:

@@ -3,7 +3,7 @@ title: The Best Options for Starting Your Own Blog
 author: Jordan Shirkman
 type: post
 date: 2015-08-07T09:00:00+00:00
-url: /starting-a-blog/
+slug: /starting-a-blog/
 categories:
   - Technology
 

@@ -3,7 +3,7 @@ title: One Question to Instantly Improve All of Your Relationships
 author: Jordan Shirkman
 type: post
 date: 2013-02-15T11:00:28+00:00
-url: /believe-the-best/
+slug: /believe-the-best/
 categories:
   - Methodology
 tags:

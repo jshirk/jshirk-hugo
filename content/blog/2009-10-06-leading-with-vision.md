@@ -3,7 +3,7 @@ title: Leading with Vision
 author: Jordan Shirkman
 type: post
 date: 2009-10-06T10:00:59+00:00
-url: /leading-with-vision/
+slug: /leading-with-vision/
 short-url:
   - http://bit.ly/hvovLQ
 categories:

@@ -3,7 +3,7 @@ title: 'Square Cash: The Best Way to Pay Your Friends for Dinner'
 author: Jordan Shirkman
 type: post
 date: 2014-03-19T09:00:28+00:00
-url: /square-cash/
+slug: /square-cash/
 standard_seo_post_meta_description:
   - Sending cash with the magic of email.
 categories:

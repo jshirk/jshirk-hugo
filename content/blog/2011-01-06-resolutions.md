@@ -3,7 +3,7 @@ title: 'Why Resolutions are Whack [and What to do to Really Make Change Happen]'
 author: Jordan Shirkman
 type: post
 date: 2011-01-06T16:19:37+00:00
-url: /resolutions/
+slug: /resolutions/
 short-url:
   - http://bit.ly/g2cHEI
 categories:

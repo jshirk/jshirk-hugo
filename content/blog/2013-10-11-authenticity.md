@@ -3,7 +3,7 @@ title: Authenticity and the Christian Life
 author: Jordan Shirkman
 type: post
 date: 2013-10-11T09:00:24+00:00
-url: /authenticity/
+slug: /authenticity/
 standard_seo_post_meta_description:
   - Why is being genuine so important for followers of Jesus?
 categories:

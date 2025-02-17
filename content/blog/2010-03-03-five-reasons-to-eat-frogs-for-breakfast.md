@@ -3,7 +3,7 @@ title: Five Reasons to Eat Frogs for Breakfast
 author: Jordan Shirkman
 type: post
 date: 2010-03-03T14:00:31+00:00
-url: /five-reasons-to-eat-frogs-for-breakfast/
+slug: /five-reasons-to-eat-frogs-for-breakfast/
 dsq_thread_id:
   - 179947117
 short-url:

@@ -3,7 +3,7 @@ title: Experiencing the Warmth of the Word
 author: Jordan Shirkman
 type: post
 date: 2015-07-07T09:00:39+00:00
-url: /warmth-word/
+slug: /warmth-word/
 categories:
   - Theology
 

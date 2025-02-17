@@ -3,7 +3,7 @@ title: Where Gratitude Falls Short
 author: Jordan Shirkman
 type: post
 date: 2013-11-28T10:00:40+00:00
-url: /where-gratitude-falls-short/
+slug: /where-gratitude-falls-short/
 categories:
   - Theology
 

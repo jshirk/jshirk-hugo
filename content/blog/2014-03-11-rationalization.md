@@ -3,7 +3,7 @@ title: 'Rationalization: What It Is and How to Stop It'
 author: Jordan Shirkman
 type: post
 date: 2014-03-11T09:00:35+00:00
-url: /rationalization/
+slug: /rationalization/
 featured_image: /wp-content/uploads/2014/03/turned-back.jpg
 standard_seo_post_meta_description:
   - "Making excuses is one of the human race's greatest superpower. Now let's stop it."

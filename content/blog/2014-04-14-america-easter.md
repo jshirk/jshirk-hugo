@@ -3,7 +3,7 @@ title: Why America Doesn’t Love Easter
 author: Jordan Shirkman
 type: post
 date: 2014-04-14T09:00:01+00:00
-url: /america-easter/
+slug: /america-easter/
 standard_seo_post_meta_description:
   - "The reality that Easter can't be twisted into anything but what it is: God's plan to save people."
 categories:

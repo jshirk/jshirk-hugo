@@ -3,7 +3,7 @@ title: 'Fitness Friday:  Ultramarathon Man'
 author: Jordan Shirkman
 type: post
 date: 2009-08-21T13:50:48+00:00
-url: /fitness-friday-ultramarathon-man/
+slug: /fitness-friday-ultramarathon-man/
 short-url:
   - http://bit.ly/hJopVK
 dsq_thread_id:

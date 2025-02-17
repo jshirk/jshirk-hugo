@@ -3,7 +3,7 @@ title: You’re Missing The Other Why
 author: Jordan Shirkman
 type: post
 date: 2010-12-01T15:09:25+00:00
-url: /missing-why/
+slug: /missing-why/
 short-url:
   - http://bit.ly/fqLhmW
 categories:

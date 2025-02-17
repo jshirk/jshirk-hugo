@@ -3,7 +3,7 @@ title: Rethinking Your Sleep Schedule and Morning Ritual
 author: Jordan Shirkman
 type: post
 date: 2014-11-28T10:00:51+00:00
-url: /morning-ritual/
+slug: /morning-ritual/
 categories:
   - Methodology
 

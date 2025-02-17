@@ -3,7 +3,7 @@ title: Faster, More Secure Web Searching on iOS
 author: Jordan Shirkman
 type: post
 date: 2016-01-07T10:00:01+00:00
-url: /faster-web-searching-ios/
+slug: /faster-web-searching-ios/
 categories:
   - Technology
 

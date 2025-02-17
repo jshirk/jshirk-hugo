@@ -3,7 +3,7 @@ title: No, You’re Spamming
 author: Jordan Shirkman
 type: post
 date: 2010-04-09T13:28:42+00:00
-url: /no-youre-spamming/
+slug: /no-youre-spamming/
 short-url:
   - http://bit.ly/eBCwVo
 categories:

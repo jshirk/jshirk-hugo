@@ -3,7 +3,7 @@ title: Using Siri Better to Write Posts and Messages
 author: Jordan Shirkman
 type: post
 date: 2015-02-25T10:00:18+00:00
-url: /using-siri-better/
+slug: /using-siri-better/
 categories:
   - Technology
 

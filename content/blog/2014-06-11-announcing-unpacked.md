@@ -3,7 +3,7 @@ title: Announcing The Unpacked Podcast
 author: Jordan Shirkman
 type: post
 date: 2014-06-11T09:00:40+00:00
-url: /announcing-unpacked/
+slug: /announcing-unpacked/
 categories:
   - Methodology
 

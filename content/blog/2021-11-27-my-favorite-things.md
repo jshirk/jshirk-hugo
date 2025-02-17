@@ -3,7 +3,7 @@ title: My Favorite Things
 author: Jordan Shirkman
 type: post
 date: 2021-11-27T11:23:24+00:00
-url: /my-favorite-things/
+slug: /my-favorite-things/
 categories:
   - Methodology
 ---

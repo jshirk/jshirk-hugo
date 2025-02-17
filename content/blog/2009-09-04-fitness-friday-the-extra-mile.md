@@ -3,7 +3,7 @@ title: 'Fitness Friday: The Extra Mile'
 author: Jordan Shirkman
 type: post
 date: 2009-09-04T12:53:00+00:00
-url: /fitness-friday-the-extra-mile/
+slug: /fitness-friday-the-extra-mile/
 short-url:
   - http://bit.ly/hunJ4E
 categories:

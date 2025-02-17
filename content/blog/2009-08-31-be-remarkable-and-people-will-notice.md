@@ -3,7 +3,7 @@ title: Be Remarkable (and People Will Notice)
 author: Jordan Shirkman
 type: post
 date: 2009-08-31T15:04:20+00:00
-url: /be-remarkable-and-people-will-notice/
+slug: /be-remarkable-and-people-will-notice/
 dsq_thread_id:
   - 179946802
 short-url:

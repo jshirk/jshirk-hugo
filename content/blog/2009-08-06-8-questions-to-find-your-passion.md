@@ -3,7 +3,7 @@ title: 8 Questions to Find Your Passion
 author: Jordan Shirkman
 type: post
 date: 2009-08-06T14:00:18+00:00
-url: /8-questions-to-find-your-passion/
+slug: /8-questions-to-find-your-passion/
 dsq_thread_id:
   - 179946743
 short-url:

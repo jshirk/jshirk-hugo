@@ -3,7 +3,7 @@ title: Fighting The Resistance
 author: Jordan Shirkman
 type: post
 date: 2010-10-27T12:00:54+00:00
-url: /resistance/
+slug: /resistance/
 superawesome:
   - 'false'
 jabber_published:

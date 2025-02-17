@@ -3,7 +3,7 @@ title: 9 Lessons for Learning Anything
 author: Jordan Shirkman
 type: post
 date: 2014-03-28T09:00:10+00:00
-url: /guitar-and-learning/
+slug: /guitar-and-learning/
 standard_seo_post_meta_description:
   - "How I finally began to actually learn to play guitar, and what I've learned about learning."
 categories:

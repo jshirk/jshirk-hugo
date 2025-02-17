@@ -3,7 +3,7 @@ title: "Don't Compare (to Anyone Here)"
 author: Jordan Shirkman
 type: post
 date: 2009-09-01T13:18:28+00:00
-url: /dont-compare-to-anyone-her/
+slug: /dont-compare-to-anyone-her/
 short-url:
   - http://bit.ly/gDCKgO
 categories:

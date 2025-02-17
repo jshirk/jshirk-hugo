@@ -3,7 +3,7 @@ title: The Glory of Delayed Gratification
 author: Jordan Shirkman
 type: post
 date: 2012-03-28T10:00:18+00:00
-url: /delayed-gratification/
+slug: /delayed-gratification/
 dsq_thread_id:
   - 627045073
 categories:

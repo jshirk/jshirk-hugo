@@ -3,7 +3,7 @@ title: 39 Things You Can Do in 60 Seconds Instead of Checking Social Media
 author: Jordan Shirkman
 type: post
 date: 2015-08-03T09:00:54+00:00
-url: /not-social-media/
+slug: /not-social-media/
 categories:
   - Methodology
 

@@ -3,7 +3,7 @@ title: Living Within Your Means Part II
 author: Jordan Shirkman
 type: post
 date: 2009-08-18T17:34:16+00:00
-url: /living-within-your-means-part-ii/
+slug: /living-within-your-means-part-ii/
 dsq_thread_id:
   - 179946756
 short-url:

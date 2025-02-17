@@ -3,7 +3,7 @@ title: Reese’s Puffs and Impatience
 author: Jordan Shirkman
 type: post
 date: 2012-01-23T12:00:12+00:00
-url: /impatience/
+slug: /impatience/
 short-url:
   - http://bit.ly/wnfG2q
 dsq_thread_id:

@@ -3,7 +3,7 @@ title: 10 Things for a Christian to Consider Before Marrying a Non-Christian
 author: Jordan Shirkman
 type: post
 date: 2014-05-06T09:00:00+00:00
-url: /marrying-nonchristian/
+slug: /marrying-nonchristian/
 standard_seo_post_meta_description:
   - "A list of blessings a Christian would miss out on by getting hitched to someone who doesn't follow Jesus."
 categories:

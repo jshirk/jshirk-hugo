@@ -3,7 +3,7 @@ title: It’s Not About You…
 author: Jordan Shirkman
 type: post
 date: 2010-01-29T14:57:57+00:00
-url: /its-not-about-you/
+slug: /its-not-about-you/
 image_url:
   - http://farm4.static.flickr.com/3263/2306001896_7e0ce6e0f5.jpg
 image_md5:

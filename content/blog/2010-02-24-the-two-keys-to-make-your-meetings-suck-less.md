@@ -3,7 +3,7 @@ title: The Two Keys To Make Your Meetings Suck Less
 author: Jordan Shirkman
 type: post
 date: 2010-02-24T19:57:06+00:00
-url: /the-two-keys-to-make-your-meetings-suck-less/
+slug: /the-two-keys-to-make-your-meetings-suck-less/
 short-url:
   - http://bit.ly/eD5LNJ
 categories:

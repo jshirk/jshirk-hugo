@@ -3,7 +3,7 @@ title: Indescribable
 author: Jordan Shirkman
 type: post
 date: 2010-01-18T16:44:31+00:00
-url: /indescribable/
+slug: /indescribable/
 dsq_thread_id:
   - 179947057
 short-url:

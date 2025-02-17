@@ -3,7 +3,7 @@ title: And the card says…
 author: Jordan Shirkman
 type: post
 date: 2010-01-12T12:32:34+00:00
-url: /and-the-card-says/
+slug: /and-the-card-says/
 dsq_thread_id:
   - 179947044
 short-url:

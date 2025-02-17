@@ -3,7 +3,7 @@ title: 'My Life According to Water [The 3 Reasons I Can’t Live Without H2O]'
 author: Jordan Shirkman
 type: post
 date: 2010-11-11T13:00:49+00:00
-url: /icebreaker/
+slug: /icebreaker/
 superawesome:
   - 'false'
 jabber_published:

@@ -3,7 +3,7 @@ title: 'Getting Things Done: The Weekly Review'
 author: Jordan Shirkman
 type: post
 date: 2014-06-02T09:00:11+00:00
-url: /weekly-review/
+slug: /weekly-review/
 categories:
   - Methodology
 tags:

@@ -3,7 +3,7 @@ title: 'Fitness Friday: Mental Expansion'
 author: Jordan Shirkman
 type: post
 date: 2009-08-14T14:23:48+00:00
-url: /fitness-friday-mental-expansion/
+slug: /fitness-friday-mental-expansion/
 short-url:
   - http://bit.ly/eyd58V
 categories:

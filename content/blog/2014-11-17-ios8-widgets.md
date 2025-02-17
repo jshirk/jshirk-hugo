@@ -3,7 +3,7 @@ title: iOS 8 Widgets
 author: Jordan Shirkman
 type: post
 date: 2014-11-17T10:00:40+00:00
-url: /ios8-widgets/
+slug: /ios8-widgets/
 categories:
   - Technology
 

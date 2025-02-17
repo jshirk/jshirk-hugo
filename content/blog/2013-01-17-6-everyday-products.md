@@ -3,7 +3,7 @@ title: 6 Everyday Products That Make Life More Enjoyable
 author: Jordan Shirkman
 type: post
 date: 2013-01-17T12:30:18+00:00
-url: /6-everyday-products/
+slug: /6-everyday-products/
 categories:
   - Methodology
 tags:

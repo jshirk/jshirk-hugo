@@ -3,7 +3,7 @@ title: Fools Never Start
 author: Jordan Shirkman
 type: post
 date: 2010-04-01T11:57:32+00:00
-url: /fools-never-start/
+slug: /fools-never-start/
 short-url:
   - http://bit.ly/dJeLMQ
 categories:

@@ -3,7 +3,7 @@ title: How I Read, Save, and Share Blog Posts
 author: Jordan Shirkman
 type: post
 date: 2015-02-17T10:00:22+00:00
-url: /reading-blogs/
+slug: /reading-blogs/
 categories:
   - Technology
 

@@ -3,7 +3,7 @@ title: What Responsive Design and Ministry Have in Common
 author: Jordan Shirkman
 type: post
 date: 2013-09-10T09:00:24+00:00
-url: /responsive-ministry/
+slug: /responsive-ministry/
 categories:
   - Technology
 

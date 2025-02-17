@@ -3,7 +3,7 @@ title: Small Problems Now, Big Problems Later
 author: Jordan Shirkman
 type: post
 date: 2009-11-02T14:48:22+00:00
-url: /small-problems-now-big-problems-later/
+slug: /small-problems-now-big-problems-later/
 dsq_thread_id:
   - 179946982
 short-url:

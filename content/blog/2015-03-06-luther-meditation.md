@@ -3,7 +3,7 @@ title: Martin Luther’s Meditation Recipe
 author: Jordan Shirkman
 type: post
 date: 2015-03-06T10:00:30+00:00
-url: /luther-meditation/
+slug: /luther-meditation/
 categories:
   - Theology
 

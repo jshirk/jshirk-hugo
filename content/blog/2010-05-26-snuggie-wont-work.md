@@ -3,7 +3,7 @@ title: Why Marketing Yourself Like A Snuggie Just Won’t Work (And How to Fix I
 author: Jordan Shirkman
 type: post
 date: 2010-05-26T12:33:39+00:00
-url: /snuggie-wont-work/
+slug: /snuggie-wont-work/
 dsq_thread_id:
   - 179947188
 short-url:

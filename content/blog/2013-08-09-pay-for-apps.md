@@ -3,7 +3,7 @@ title: Why I Pay for Apps (and Why You Should Too)
 author: Jordan Shirkman
 type: post
 date: 2013-08-09T09:00:36+00:00
-url: /pay-for-apps/
+slug: /pay-for-apps/
 standard_seo_post_meta_description:
   - A compelling economic and privacy based case for shelling out a few bones for good software.
 categories:

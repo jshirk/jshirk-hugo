@@ -3,7 +3,7 @@ title: 'Quick Tip: Getting Deals on Apps with App Shopper'
 author: Jordan Shirkman
 type: post
 date: 2014-07-22T09:00:05+00:00
-url: /quick-tip-app-shopper/
+slug: /quick-tip-app-shopper/
 categories:
   - Technology
 tags:

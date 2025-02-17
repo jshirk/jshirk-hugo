@@ -3,7 +3,7 @@ title: Photography for Complete Beginners
 author: Jordan Shirkman
 type: post
 date: 2015-05-29T09:00:17+00:00
-url: /beginners-photography/
+slug: /beginners-photography/
 categories:
   - Methodology
 

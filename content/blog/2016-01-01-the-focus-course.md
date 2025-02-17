@@ -3,7 +3,7 @@ title: The Focus Course Review
 author: Jordan Shirkman
 type: post
 date: 2016-01-01T10:00:22+00:00
-url: /the-focus-course/
+slug: /the-focus-course/
 categories:
   - Methodology
 

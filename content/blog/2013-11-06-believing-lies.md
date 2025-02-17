@@ -3,7 +3,7 @@ title: Believing Lies in the Midst of Uncertainty (and How to Stop)
 author: Jordan Shirkman
 type: post
 date: 2013-11-06T10:00:39+00:00
-url: /believing-lies/
+slug: /believing-lies/
 categories:
   - Methodology
 

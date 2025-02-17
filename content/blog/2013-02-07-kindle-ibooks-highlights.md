@@ -3,7 +3,7 @@ title: How to Save and Format iBooks and Kindle Highlights and Notes to Your Com
 author: Jordan Shirkman
 type: post
 date: 2013-02-07T11:00:32+00:00
-url: /kindle-ibooks-highlights/
+slug: /kindle-ibooks-highlights/
 categories:
   - Technology
 tags:

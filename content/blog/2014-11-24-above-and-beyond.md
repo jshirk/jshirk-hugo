@@ -3,7 +3,7 @@ title: Going Above and Beyond
 author: Jordan Shirkman
 type: post
 date: 2014-11-24T10:00:59+00:00
-url: /above-and-beyond/
+slug: /above-and-beyond/
 categories:
   - Methodology
 

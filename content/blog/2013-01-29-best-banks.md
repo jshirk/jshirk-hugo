@@ -3,7 +3,7 @@ title: The Best Banks in The United States
 author: Jordan Shirkman
 type: post
 date: 2013-01-29T12:30:31+00:00
-url: /best-banks/
+slug: /best-banks/
 categories:
   - Technology
 tags:

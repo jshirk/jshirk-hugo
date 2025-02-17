@@ -3,7 +3,7 @@ title: Living for Notifications
 author: Jordan Shirkman
 type: post
 date: 2013-11-09T10:00:02+00:00
-url: /living-for-notifications/
+slug: /living-for-notifications/
 categories:
   - Technology
 

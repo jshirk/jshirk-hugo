@@ -3,7 +3,7 @@ title: 'Quick Tip: Turning Off Your Mac Dashboard'
 author: Jordan Shirkman
 type: post
 date: 2014-06-23T09:00:19+00:00
-url: /quick-tip-dashboard/
+slug: /quick-tip-dashboard/
 categories:
   - Technology
 tags:

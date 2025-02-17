@@ -3,7 +3,7 @@ title: The Complete Guide to Air Travel (or 30+ Tips to Fly Like a Boss)
 author: Jordan Shirkman
 type: post
 date: 2013-08-20T09:00:28+00:00
-url: /air-travel-guide/
+slug: /air-travel-guide/
 standard_seo_post_meta_description:
   - A wonderful, thoughtful and wisdom-rich review of how to properly experience the magic of air travel.
 categories:

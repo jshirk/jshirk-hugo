@@ -3,7 +3,7 @@ title: 'Quick Tip: The Friendly Way to Clean Up Your Twitter and Facebook Timeli
 author: Jordan Shirkman
 type: post
 date: 2014-07-01T09:00:22+00:00
-url: /quick-tip-social-cleanup/
+slug: /quick-tip-social-cleanup/
 categories:
   - Technology
 tags:

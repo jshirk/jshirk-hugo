@@ -3,7 +3,7 @@ title: Nobody Likes an Ambiguous Blogger
 author: Jordan Shirkman
 type: post
 date: 2009-09-09T09:00:08+00:00
-url: /nobody-likes-an-ambiguous-blogger/
+slug: /nobody-likes-an-ambiguous-blogger/
 dsq_thread_id:
   - 179946843
 short-url:

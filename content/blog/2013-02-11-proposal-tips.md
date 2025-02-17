@@ -3,7 +3,7 @@ title: 10 Tips to Craft a Mind-Blowing Marriage Proposal
 author: Jordan Shirkman
 type: post
 date: 2013-02-11T11:00:45+00:00
-url: /proposal-tips/
+slug: /proposal-tips/
 categories:
   - Methodology
 tags:

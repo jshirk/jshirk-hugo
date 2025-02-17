@@ -3,7 +3,7 @@ title: How a Great Woman Changes Your Life
 author: Jordan Shirkman
 type: post
 date: 2015-07-20T09:00:00+00:00
-url: /great-woman/
+slug: /great-woman/
 categories:
   - Methodology
 

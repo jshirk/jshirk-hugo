@@ -3,7 +3,7 @@ title: Using an AeroPress to Brew Coffee (or The Starter Guide to Coffee Snobber
 author: Jordan Shirkman
 type: post
 date: 2013-11-20T10:00:43+00:00
-url: /aeropress/
+slug: /aeropress/
 standard_seo_post_meta_description:
   - A ridiculously long, zealous overview of how to make coffee the fancy way, with an AeroPress.
 categories:

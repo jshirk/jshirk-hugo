@@ -3,7 +3,7 @@ title: Three Ways to Define a Victory
 author: Jordan Shirkman
 type: post
 date: 2010-03-11T15:57:14+00:00
-url: /three-ways-to-define-a-victory/
+slug: /three-ways-to-define-a-victory/
 short-url:
   - http://bit.ly/hDGyGb
 categories:

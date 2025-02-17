@@ -3,7 +3,7 @@ title: 14 Tips to Avoid Making Common Twitter Mistakes
 author: Jordan Shirkman
 type: post
 date: 2013-03-04T11:00:13+00:00
-url: /twitter-mistakes/
+slug: /twitter-mistakes/
 standard_seo_post_meta_description:
   - The official style guide to crafting quality tweets by @jshirk.
 categories:

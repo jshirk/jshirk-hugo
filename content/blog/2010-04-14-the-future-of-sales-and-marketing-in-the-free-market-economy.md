@@ -3,7 +3,7 @@ title: The Future of Sales and Marketing in the Free-Market Economy
 author: Jordan Shirkman
 type: post
 date: 2010-04-14T16:39:20+00:00
-url: /the-future-of-sales-and-marketing-in-the-free-market-economy/
+slug: /the-future-of-sales-and-marketing-in-the-free-market-economy/
 dsq_thread_id:
   - 179947129
 short-url:

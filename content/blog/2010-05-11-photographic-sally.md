@@ -3,7 +3,7 @@ title: How to Get Paid 4 Times More Than Your Coworkers
 author: Jordan Shirkman
 type: post
 date: 2010-05-11T12:57:58+00:00
-url: /photographic-sally/
+slug: /photographic-sally/
 dsq_thread_id:
   - 179947155
 short-url:
