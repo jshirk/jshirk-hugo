@@ -15,12 +15,12 @@ In my free time, I enjoy **lifting, hiking, reading, writing, and dabbling on th
 
 I write because I believe that **faith should be tested, practiced, and proven in real life**—not just talked about. Many have abandoned faith because they’ve only seen a **flimsy version of Christianity**, one that hasn’t been **applied thoroughly, tested rigorously, or practiced faithfully**.  
 
-Ultimately, I want my life to **matter to God, to my family, and to the people around me**. And if I can help others **think more clearly, pursue wisdom, and live with intention along the way—**even better.  
+Ultimately, I want my life to **matter to God, to my family, and to the people around me**. And if I can help others **think more clearly, pursue wisdom, and live with intention along the way**—even better.  
 
 I write about **pursuing wisdom, mastering the ordinary, and building a meaningful life**. This includes:  
-- **Following Jesus faithfully**—what it truly means to live out biblical truth in everyday life ([theology](/categories/theology/)(https://jshirk.com/categories/technology/)).  
-- **Leveraging the right tools**—how technology can serve us, not distract us, in living purposefully ([technology](/categories/technology/)).  
-- **Doing things better**—refining habits, systems, and mindsets to be more effective and intentional ([methodology](/categories/methodology/)).  
+- **[Following Jesus faithfully](/categories/theology/)**—what it truly means to live out biblical truth in everyday life. 
+- **[Leveraging the right tools](categories/technology/)**—how technology can serve us, not distract us, in living purposefully.  
+- **[Doing things better](categories/methodology/)**—refining habits, systems, and mindsets to be more effective and intentional.
 
 You can subscribe by [email]((http://jshirk.us2.list-manage.com/subscribe?u=494bbc345ee9ac49815fc27f7&id=96f30fa52e)) so you don’t miss a post.
 

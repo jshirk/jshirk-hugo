@@ -8,14 +8,11 @@
         <br>
         <br>
         <!-- ✅ Subscribe Form (Now Part of home_info.html) -->
-        <p>Join copious other clever and inspiring people who get the magic of this site delivered straight to their inbox.</p>
+        <p>Join a growing community of clever people sharpening their thinking, learning practical frameworks, and doing more of what truly matters.</p>
         <br>
         <br>
-        <form id="subscribe-form">
-            <input type="text" name="fname" id="fname" placeholder="First Name" required>
-            <input type="email" name="email" id="email" placeholder="Your Email Address" required>
-            <button type="submit">Subscribe</button>
-        </form>
+
+        {{ partial "subscribe.html" . }}
 
         <p id="success-message" style="display:none; color: green;">🎉 Thanks for subscribing! Check your email.</p>
         <p id="error-message" style="display:none; color: red;">⚠️ Something went wrong. Try again.</p>

@@ -66,17 +66,21 @@ pre:hover .copy-code {
 }
 
 /* Center the subscribe form */
-#subscribe-form {
+#mc-form {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
     max-width: 400px;
     margin: auto; /* Centers the form horizontally */
+    padding: 20px;
+    background: var(--contentBg);
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Style input fields */
-#subscribe-form input {
+#mc-form input {
     width: 100%;
     padding: 10px;
     font-size: 16px;
@@ -87,7 +91,7 @@ pre:hover .copy-code {
 }
 
 /* Style the subscribe button */
-#subscribe-form button {
+#mc-form button {
     background-color: black; /* Makes button black */
     color: white; /* Makes text white */
     padding: 10px 16px;
@@ -101,6 +105,13 @@ pre:hover .copy-code {
 }
 
 /* Darker black on hover */
-#subscribe-form button:hover {
+#mc-form button:hover {
     background-color: #333;
+}
+
+/* Success and error messages */
+#mc-success, #mc-error {
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
 }
