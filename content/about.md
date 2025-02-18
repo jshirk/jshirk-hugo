@@ -22,25 +22,25 @@ I write about **pursuing wisdom, mastering the ordinary, and building a meaningf
 - **[Leveraging the right tools](/categories/technology/)**—how technology can serve us, not distract us, in living purposefully.  
 - **[Doing things better](/categories/methodology/)**—refining habits, systems, and mindsets to be more effective and intentional.
 
-You can subscribe by [email]((http://jshirk.us2.list-manage.com/subscribe?u=494bbc345ee9ac49815fc27f7&id=96f30fa52e)) so you don’t miss a post.
+You can subscribe by [email](http://jshirk.us2.list-manage.com/subscribe?u=494bbc345ee9ac49815fc27f7&id=96f30fa52e) so you don’t miss a post.
 
 ## Where do I start?
 
 If this is your first time here, feel free to get started with some of these popular posts other people enjoy.
 
-### [Theology](https://jshirk.com/blog/category/theology/)
+### [Theology](https://jshirk.com/categories/theology/)
 
 [My Morning Manifesto: How 4 Minutes Can Change Your Day](https://jshirk.com/blog/morning-manifesto/) 
 [How to Stop Comparing Everyone’s Highlight Reels With Your Life](https://jshirk.com/blog/highlight-reels/)
 [The Process for Answering Tough Questions About Christianity](https://jshirk.com/blog/answering-question/)
 
-### [Technology](https://jshirk.com/blog/category/technology/)
+### [Technology](https://jshirk.com/categories/technology/)
 
 [The Best Budgeting App: YNAB](https://jshirk.com/blog/ynab/)
 [Drafts for iOS: The Official Point Guard of my iPhone](https://jshirk.com/blog/drafts-ios/)   
 [Why The Internet Can’t Validate Me (But I Try to Let it Anyway)](https://jshirk.com/blog/internet-validation/)
 
-### [Methodology](https://jshirk.com/blog/category/methodology/)
+### [Methodology](https://jshirk.com/categories/methodology/)
 
 [Rationalization: What It Is and How to Stop It](https://jshirk.com/blog/rationalization/)
 [The Complete Guide to Air Travel (or 30+ Tips to Fly Like a Boss](https://jshirk.com/blog/air-travel-guide/)
