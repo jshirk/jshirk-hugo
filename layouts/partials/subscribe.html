@@ -1,44 +1,52 @@
-<form id="mc-form">
-  <input type="text" name="FNAME" id="fname" placeholder="First Name" required>
-  <input type="email" name="EMAIL" id="email" placeholder="Your Email Address" required>
-
-  <button type="submit">Join the List</button>
-
+<form name="subscribe-form" method="POST" data-netlify="true">
+  <input type="hidden" name="form-name" value="subscribe-form" />
+  
+  <p>
+    <label for="fname"></label>
+    <input type="text" name="firstName" id="fname" placeholder="First Name" required />
+  </p>
+  <p>
+    <label for="email"></label>
+    <input type="email" name="email" id="email" placeholder="Your Email Address" required />
+  </p>
+  
+  <!-- Hidden field to stop bot submissions -->
+  <input type="hidden" name="bot-field" />
+  
+  <p>
+    <button type="submit">Join the List</button>
+  </p>
+  
   <p id="mc-success" style="display:none; color: green;">🎉 Thanks for subscribing! Check your email.</p>
   <p id="mc-error" style="display:none; color: red;">⚠️ Something went wrong. Try again.</p>
 </form>
 
 <script>
-  var proxy = "https://my-worker.jshirkman.workers.dev/?url=";
-  var googleScriptURL = "https://script.google.com/macros/s/AKfycbwreka11_54wkTTRsYvtZEFTEKNVpYiCRJv58rcq8Ys_PN_6bf_frY_NhhjeFb7LrwQ0A/exec";
-  
-  var url = proxy + encodeURIComponent(googleScriptURL);
-  
-  document.getElementById("mc-form").addEventListener("submit", async function(event) {
+  document.querySelector('form[name="subscribe-form"]').addEventListener('submit', function(event) {
     event.preventDefault();
+    
+    var firstName = document.getElementById('fname').value;
+    var email = document.getElementById('email').value;
   
-    var firstName = document.getElementById("fname").value;
-    var email = document.getElementById("email").value;
+    // Construct the form data
+    var formData = new FormData();
+    formData.append('firstName', firstName);
+    formData.append('email', email);
   
-    try {
-      let response = await fetch(url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ firstName: firstName, email: email })
-      });
-  
-      let result = await response.text();
-  
-      if (result.includes("Success")) {
-        document.getElementById("mc-success").style.display = "block";
-        document.getElementById("mc-error").style.display = "none";
-        event.target.reset();
-      } else {
-        throw new Error("Subscription failed");
-      }
-    } catch (error) {
-      document.getElementById("mc-success").style.display = "none";
-      document.getElementById("mc-error").style.display = "block";
-    }
+    // Send the form data to Netlify
+    fetch('/', {
+      method: 'POST',
+      body: formData
+    })
+    .then(() => {
+      // Show success message
+      document.getElementById('mc-success').style.display = 'block';
+      document.getElementById('mc-error').style.display = 'none';
+    })
+    .catch(() => {
+      // Show error message
+      document.getElementById('mc-success').style.display = 'none';
+      document.getElementById('mc-error').style.display = 'block';
+    });
   });
   </script>
