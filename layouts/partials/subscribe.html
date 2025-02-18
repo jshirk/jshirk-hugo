@@ -9,33 +9,33 @@
 </form>
 
 <script>
+var url = "https://script.google.com/macros/s/AKfycbxImmhBLghxWJvMJiW8bPJs5igzg_jrCrzFD-eqLHmZsqBj_HFAQ_g7kAKFtK9C1WjU9g/exec"; // Replace with your actual Web App URL
+
 document.getElementById("mc-form").addEventListener("submit", async function(event) {
-  event.preventDefault();
-  
-  var firstName = document.getElementById("fname").value;
-  var email = document.getElementById("email").value;
+event.preventDefault();
 
-  var url = "https://script.google.com/macros/s/AKfycbxImmhBLghxWJvMJiW8bPJs5igzg_jrCrzFD-eqLHmZsqBj_HFAQ_g7kAKFtK9C1WjU9g/exec"; // Replace with your actual Google Apps Script URL
+var firstName = document.getElementById("fname").value;
+var email = document.getElementById("email").value;
 
-  try {
-    let response = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ firstName: firstName, email: email })
-    });
+try {
+  let response = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ firstName: firstName, email: email })
+  });
 
-    let result = await response.text();
+  let result = await response.text();
 
-    if (result.includes("Success")) {
-      document.getElementById("mc-success").style.display = "block";
-      document.getElementById("mc-error").style.display = "none";
-      event.target.reset();
-    } else {
-      throw new Error("Subscription failed");
-    }
-  } catch (error) {
-    document.getElementById("mc-success").style.display = "none";
-    document.getElementById("mc-error").style.display = "block";
+  if (result.includes("Success")) {
+    document.getElementById("mc-success").style.display = "block";
+    document.getElementById("mc-error").style.display = "none";
+    event.target.reset();
+  } else {
+    throw new Error("Subscription failed");
   }
+} catch (error) {
+  document.getElementById("mc-success").style.display = "none";
+  document.getElementById("mc-error").style.display = "block";
+}
 });
 </script>
