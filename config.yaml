@@ -40,7 +40,7 @@ params:
   # Home Page Parameters and Intro Text  
   homeInfoParams:
     Title: Pursue wisdom. Master the ordinary. Leave a legacy.
-    Content: Hey, I’m [Jordan](/about). My writing on [faith](/categories/theology), [technology](/categories/technology), and [practical wisdom](/categories/methodology) will help you think deeply and act decisively in a chaotic world. If you're looking for powerful ideas and helpful tools for living the useful life well, you’re in the right place. You can connect with me below and subscribe to get updates in your inbox [here](http://eepurl.com/IwFaP).
+    Content: Hey, I’m [Jordan](/about). My writing on [theology](/categories/theology), [technology](/categories/technology), and [methodology](/categories/methodology) will help you think deeply and act decisively in a chaotic world. If you're looking for powerful ideas and helpful tools for living the useful life well, you’re in the right place. You can subscribe by email below, find out more [about me](https://jshirk.com/about), or check out the [latest posts](https://jshirk.com/blog).
 
   # Social Icons on Home Page     
   socialIcons: 
