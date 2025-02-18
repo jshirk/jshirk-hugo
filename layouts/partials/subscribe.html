@@ -9,33 +9,36 @@
 </form>
 
 <script>
-var url = "https://corsproxy.io/?https://script.google.com/macros/s/AKfycbwreka11_54wkTTRsYvtZEFTEKNVpYiCRJv58rcq8Ys_PN_6bf_frY_NhhjeFb7LrwQ0A/exec"; // Route request through CORS proxy
-
-document.getElementById("mc-form").addEventListener("submit", async function(event) {
-  event.preventDefault();
+  var proxy = "https://damp-rice-9abf.jshirkman.workers.dev/";
+  var googleScriptURL = "https://script.google.com/macros/s/AKfycbwreka11_54wkTTRsYvtZEFTEKNVpYiCRJv58rcq8Ys_PN_6bf_frY_NhhjeFb7LrwQ0A/exec";
   
-  var firstName = document.getElementById("fname").value;
-  var email = document.getElementById("email").value;
-
-  try {
-    let response = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ firstName: firstName, email: email })
-    });
-
-    let result = await response.text();
-
-    if (result.includes("Success")) {
-      document.getElementById("mc-success").style.display = "block";
-      document.getElementById("mc-error").style.display = "none";
-      event.target.reset();
-    } else {
-      throw new Error("Subscription failed");
+  var url = proxy + encodeURIComponent(googleScriptURL);
+  
+  document.getElementById("mc-form").addEventListener("submit", async function(event) {
+    event.preventDefault();
+  
+    var firstName = document.getElementById("fname").value;
+    var email = document.getElementById("email").value;
+  
+    try {
+      let response = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ firstName: firstName, email: email })
+      });
+  
+      let result = await response.text();
+  
+      if (result.includes("Success")) {
+        document.getElementById("mc-success").style.display = "block";
+        document.getElementById("mc-error").style.display = "none";
+        event.target.reset();
+      } else {
+        throw new Error("Subscription failed");
+      }
+    } catch (error) {
+      document.getElementById("mc-success").style.display = "none";
+      document.getElementById("mc-error").style.display = "block";
     }
-  } catch (error) {
-    document.getElementById("mc-success").style.display = "none";
-    document.getElementById("mc-error").style.display = "block";
-  }
-});
-</script>
+  });
+  </script>
