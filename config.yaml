@@ -77,9 +77,12 @@ menu:
     - name: "Contact"
       url: "/contact/"
       weight: 4
+    - name: "Tools"
+      url: "/tools/
+      weight: 5
     - name: "🔍"
       url: "/search/"
-      weight: 5
+      weight: 6
 
 # Output formats
 outputs:
