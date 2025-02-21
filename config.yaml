@@ -78,7 +78,7 @@ menu:
       url: "/contact/"
       weight: 4
     - name: "Tools"
-      url: "/tools/
+      url: "/tools/"
       weight: 5
     - name: "🔍"
       url: "/search/"
