@@ -22,7 +22,7 @@ I write about **pursuing wisdom, mastering the ordinary, and building a meaningf
 - **[Leveraging the right tools](/categories/technology/)**—how technology can serve us, not distract us, in living purposefully.  
 - **[Doing things better](/categories/methodology/)**—refining habits, systems, and mindsets to be more effective and intentional.
 
-You can subscribe by [email](http://jshirk.us2.list-manage.com/subscribe?u=494bbc345ee9ac49815fc27f7&id=96f30fa52e) so you don’t miss a post.
+You can subscribe by [email](https://jshirk.kit.com) so you don’t miss a post.
 
 ## Where do I start?
 
