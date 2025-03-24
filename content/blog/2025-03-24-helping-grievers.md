@@ -1,11 +1,12 @@
 ---
-title: A Few Things Grieving People Want You to Know (or How to Be a Good Friend to Grievers)
-author: Jordan Shirkman
+title: "A Few Things Grieving People Want You to Know"
+author: "Jordan Shirkman"
 type: post
-date: 2025-03-24T08:03:24+00:00
+date: 2025-03-24T01:03:24+00:00
 slug: /helping-grievers/
 categories:
   - Methodology
+draft: false
 ---
 
 Our family experienced a crushing loss in December, and while the pain and grief continue to weigh us down, the response of the people God has placed in our lives has astounded us—in both the best and hardest ways. 
