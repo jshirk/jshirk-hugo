@@ -148,6 +148,9 @@
 
 {{- partial "extend_head.html" . -}}
 
+<!-- Cloudflare Web Analytics -->
+ <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "39d473795edb4db1b25b5695028c0648"}'></script><!-- End Cloudflare Web Analytics -->
+
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 {{- template "_internal/google_analytics.html" . }}
