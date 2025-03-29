@@ -26,7 +26,6 @@ Sales and marketing is critical in this economy. Consumers are no longer interes
 
 ## **Three Eras**
 
-Our economy has shifted from the days when Henry Ford created the assembly line and the Model-T in _The Age of Cost_. During the late 1700s through the early 1900s, consumers had little choice. Ford was famously quoted as saying, &#8220;Any customer can have a car painted any color that he wants so long as it is black.” This was an age of cost reduction and mass production. Mass production was the fundamental this nation was built on, but we’ve since significant shifts over the past century. Developing countries began to take advantage of lower labor cots and an abundant labor pool, which meant the United States had to shift from cost reduction to quality improvements.![Image](http://farm4.static.flickr.com/3243/3123216825_4ca9d3e45c.jpg)
 
 As _The Age of Cost_ began to fade away, our economy shifted to _The Age of Quality._ Six-sigma and lean processes, largely popularized by Japanese automaker Toyota, began to shape the American economy. This was not an easy transition for our country, as we began losing ground in the manufacturing realm in the 1980s as other nations experienced industrial transformations and began perfecting processes that started in the United States. Quality continued to become more important than cost, and then our economy shifted once again.
 
@@ -36,7 +35,6 @@ Today, we’re in _The Age of Customization._ Consumers want a quality product, 
 
 We as consumers are looking for something different, but it is not always easy to find. In the Internet Age, we have become overwhelmed with information. Interruption marketing no longer works. Consumers have the choice of hundreds of televisions channels and hundreds of millions of web sites. Advertisers can no longer just place an ad on local television channels and expect to command the attention of their audience. Companies now need to gain the permission of their customers in order to sell them a product.
 
-![Image](http://farm4.static.flickr.com/3207/3845692998_81e551e50c.jpg) 
 
 So, what can companies do now that they can no longer interrupt consumers with ads when they are watching television or browsing the web? They can provide unbelievable products and services through sales and marketing to garner the attention and respect of consumers. Salespeople and marketers have the power to truly help consumers find what they are looking for, to trouble shoot their problems and to build deep, true connections through the services they provide in this free market economy.
 

@@ -79,7 +79,6 @@ Take a moment, move your hand away from the mouse, and think through what someon
 Yes, it will take more time. It might mean I'll share less links. But the ones I do share will show up with my opinion, and they will add more value to the blogger and those in the comment community.
 
 (As an aside, I think posting a comment before a retweet is okay, but I think taking the time to comment in addition is significantly more valuable.)  
-[![Image](http://jshirkman.files.wordpress.com/2010/06/likelesslovemore.jpg)](http://jshirkman.files.wordpress.com/2010/06/likelesslovemore.jpg)
 
 **The advantages of the &#8220;Like Less, Love More&#8221; movement are monumental:**
 

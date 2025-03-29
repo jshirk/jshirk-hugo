@@ -12,7 +12,6 @@ I love apps and I love finding a good deal. When those two things intersect, I c
 
 Here’s a quick roundup of my favorite apps that are on sale for Black Friday first for iOS, then for the Mac.
 
-[![Image](/images/StockSnap_1QF9TA2IIW-700x467.jpeg)](https://jshirk.com/blog/wp-content/uploads/2016/11/StockSnap_1QF9TA2IIW.jpg)
 
 ## iOS
 

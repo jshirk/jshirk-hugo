@@ -82,7 +82,6 @@ We don't want Amazon to be the only place to buy books (or anything). It's obvio
 
 I think there are three main ways to fix this, and they all need to be combined for it to really work.
 
-![Image](https://www.filepicker.io/api/file/KqzqMEamR2a3lxtLaZtr) 
 
 ### 1. Expertise
 

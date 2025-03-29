@@ -15,7 +15,6 @@ I’ve learned that in distance running, you can always go a little bit further.
 Before you know it, you’ve strung together a couple dozen “just-a-little-bit” furthers, and you’ve got an extra mile under your belt.
 
 <p style="text-align:center;">
-  ![Image](/static/images/extra-mile.jpeg)
 </p>
 
 It’s undoubtedly easier to quit.  You can say, “Well, look how far I’ve gone already.”  You might have pushed yourself hard—gone further than you ever had before,  but you didn’t go as far as you could.  You had more in the tank.  You were complacent with very good instead of **great**.  You copped out because you were looking back.  **You were looking at what you had done instead of seeing the potential in what you could do. <span style="font-weight:normal;"></span>**

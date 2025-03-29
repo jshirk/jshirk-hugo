@@ -13,7 +13,6 @@ categories:
 I couldn’t simply write a post on saying yes without following up with a saying-no post—I’d never want you to think that I’m a Yes! Man without that important, two-letter word in my vernacular.
 
 <p style="text-align:center;">
-  ![Image](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/No_sign.svg/336px-No_sign.svg.png)
 </p>
 
 At any rate, I struggle with no at times, but for good reasons (as [you saw yesterday](http://jshirkman.wordpress.com/2009/09/21/when-to-say-yes/)); however, I do work up the courage to utter the tiny word when:

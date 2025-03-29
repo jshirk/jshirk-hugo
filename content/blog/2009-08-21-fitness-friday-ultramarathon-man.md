@@ -19,7 +19,6 @@ In the United States, about 450,000 people per year run a marathon. Next January
 A lot of people say it’s crazy. I can’t disagree, but let me really tell you about crazy. Courtesy of my good friend Matt Galli, I recently read _Ultramarathon Man: Confessions of an All-Night Runner_. The book is an autobiography by [Dean Karnazes](http://en.wikipedia.org/wiki/Dean_Karnazes), a relatively ordinary guy with an unbelievable passion for running. Karno (as he is affectionately dubbed by his friends) tells his story of transforming from a regular, 8-to-5-Corporate-America citizen into the Ultramarathon Man.
 
 <p style="text-align:center;">
-  ![Image](/static/images/deankarnazesultramarathon-man.jpeg)
 </p>
 
 He details his life and how running came to consume it. It’s an inspiring tale about overcoming rational limits in an effort to physically and mentally push yourself beyond what you could ever imagine. The book has encouraged me tremendously in my running life and has challenged my thinking on a lot of things&#8211;most notably pain.

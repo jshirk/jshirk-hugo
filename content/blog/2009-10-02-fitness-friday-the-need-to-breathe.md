@@ -17,7 +17,6 @@ After a brief hiatus, Fitness Friday is back, and it couldn’t be at a more fit
 In other news, I’ve had to take it easy in my marathon training.  I’ve been hitting the pavement pretty hard, and I tweaked my ankle, which sidelined me for a few days.  My running around, in a literal and figurative sense, was slowed just a bit the last few weeks.  And you know what?  It felt great.
 
 <p style="text-align:center;">
-  ![Image](/static/images/breathe_poster.jpeg)
 </p>
 
 **It’s easy to get caught up in the day in and day out and not stop to breathe.** We run through life without looking back, without taking a break, refusing to stop and reflect&#8211;slowly but surely running ourselves into the ground.

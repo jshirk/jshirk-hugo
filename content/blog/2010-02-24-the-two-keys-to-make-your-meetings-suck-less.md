@@ -20,7 +20,6 @@ Movies are more entertaining. They have more drama and action. They are more eng
 
 Meetings are dry, boring, too long, full of updates that could be sent out in emails, and filled with PowerPoint presentations that stun you into submission.
 
-![Image](http://s3.images.com/huge.32.161652.JPG) 
 
 **It's time to start taking over meetings and making them matter.**
 

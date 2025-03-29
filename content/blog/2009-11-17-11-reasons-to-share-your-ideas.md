@@ -15,7 +15,6 @@ categories:
 We all know the Mr. Duell was slightly off in his assumption about the future. It seems more difficult than ever to come up with great new ideas because we think everything has been invented, but that is by no means the case**. There are millions of problems in the world that still need to be solved, and we aren’t even close to the end of innovation until all of life's  little  nuances are taking care of.**
 
 <p style="text-align:center;">
-  <strong>![Image](/static/images/istock_000005524302xsmall.jpeg)<br /> </strong>
 </p>
 
 Too many people today don’t share their ideas with others because of fear—fear they’ll be stolen, put into action, and end up embarrassed like Seth Green in _The Italian Job_ after his roommate stole the idea for Napster when he was napping in his dorm room.<!--more-->Here are 11 reasons why you should share your ideas (including one why no one will steal them).

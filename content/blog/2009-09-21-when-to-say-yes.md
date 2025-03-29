@@ -17,7 +17,6 @@ Believe it or not, I struggle with telling people “No.”  When important peo
 The things I’m asked range from amazing opportunities to get involved with organizations to requests to grab some java and talk about life.  I’ve got my hand in just about every cookie jar I come across, mostly because I like trying new things, partly because _I just love cookies_.
 
 <p style="text-align:center;">
-  ![Image](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/600px-Yes_check.svg.png)
 </p>
 
 At any rate, the following are times when I almost automatically say, “Yes!” to requests, and my reasoning behind it.  I say, &#8220;Yes!&#8221; to people when:
