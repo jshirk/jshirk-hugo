@@ -14,6 +14,7 @@ But even with all of these social networks, I’ve come across a new-to-me servi
 
 At its core, Goodreads is an app to manage books you’ve read, are reading, or hope to read. The premise of Goodreads is personal reading management with a twist—you can see what your friends are reading too.
 
+{{< figure src="/images/goodreads-screenshots.jpeg" alt="Goodreads Screenshot" >}}
 
 Goodreads encourages you to rate what you’ve read on a five-star scale, and after you rate 20 books, it starts suggesting other books in similar genres that you may enjoy.
 
