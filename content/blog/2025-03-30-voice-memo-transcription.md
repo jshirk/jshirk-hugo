@@ -2,7 +2,7 @@
 title: "The Fastest Way to Transcribe Something from Your iPhone—For Free"
 author: "Jordan Shirkman"
 type: post
-date: 2025-03-31T01:03:24+00:00
+date: 2025-03-30T01:03:24+00:00
 slug: /voice-memo-transcription/
 categories:
   - Technology
