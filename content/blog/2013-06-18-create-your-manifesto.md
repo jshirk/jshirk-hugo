@@ -23,7 +23,7 @@ I think it's a great practice to keep our priorities at the forefront of what we
 
 Once you make your manifesto, could you share it with us in the comments? I'd love to see what you came up with.
 
-[![Image](/static/images/pen-on-paper.jpeg)](http://https://jshirk.com/blog/create-your-manifesto)
+[![Image](/images/pen-on-paper.jpeg)](http://https://jshirk.com/blog/create-your-manifesto)
 
 ## <!--more-->How to Create Your Own Morning Manifesto
 

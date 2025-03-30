@@ -17,7 +17,7 @@ But there are people in my life–friends, family members, acquaintances–who a
 Sometimes people are already married when they meet Jesus. This post is not for them.
 
 <div id="attachment_3237" style="width: 710px" class="wp-caption aligncenter">
-  ![Image](/static/images/wedding-hands.jpeg)
+  ![Image](/images/wedding-hands.jpeg)
   
   <p id="caption-attachment-3237" class="wp-caption-text">
     Photo by Gregory Bodwell ©

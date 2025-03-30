@@ -20,7 +20,7 @@ Leading overseas is exactly like leading in your home country. Except you don't 
 
 After living in Slovenia for the last 6 months and leading a team of incredible friends as we trust God for a student-led movement following Jesus, I've learned a few things. This is the advice I'd give if I could give a pep-talk to my pre-departure self.
 
-![Image](/static/images/leaders-hands-in.jpeg) 
+![Image](/images/leaders-hands-in.jpeg) 
 
 ## 1. Acknowledge that you are under-qualified.
 

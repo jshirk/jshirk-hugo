@@ -16,7 +16,7 @@ There are people you just naturally click with. There are other people you just 
 
 We’ve been taught the Golden Rule our whole life: “Do unto others as you would have them do unto you.” While in essence this is true (you want to respect them, love them, treat them kindly, etc.), treating them exactly how you want to be treated isn’t always effective.
 
-![Image](/static/images/MBTI-Logo1.jpeg) 
+![Image](/images/MBTI-Logo1.jpeg) 
 
 Over the past year, I’ve had a lot of exposure to an out-of-this-world self-assessment known as the [Myers-Briggs Type Indicator](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) (MBTI) thanks to my friend Brandon Croke. This past Monday, [The Sales Centre at Ohio University](http://thesalescentre.com) put on an event focusing on the MBTI and how to deal work better with (or tolerate) those around you.
 

@@ -16,7 +16,7 @@ There are hand signals for bringing attention to awkwardness.
 There are websites dedicated to awkwardness.  
 Awkward is the strange love child of American culture.
 
-![Image](/static/images/awkward.jpeg) 
+![Image](/images/awkward.jpeg) 
 
 We've made it all encompassing.
 

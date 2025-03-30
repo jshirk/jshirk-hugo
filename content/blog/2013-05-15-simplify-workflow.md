@@ -23,7 +23,7 @@ tags:
 Most of the time I do that because it's more convenient to keep doing things the way I know how instead of investing the time into figuring out the _best_ way to do them.
 
 <p style="text-align: center;">
-  ![Image](/static/images/simplify-your-workflow.jpeg)
+  ![Image](/images/simplify-your-workflow.jpeg)
 </p>
 
 Here's a recent example. This is my normal workflow for creating a blog post.<!--more-->

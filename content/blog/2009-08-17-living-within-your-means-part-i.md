@@ -13,7 +13,7 @@ categories:
 In today’s world, we’re bombarded with the media, peers, advertisements, and celebrities telling us what we want.  A new car.  Nicer clothes.  A better phone.  We’ve become conditioned to chase after money, and I think it’s a condition we need to remedy.  You’ve heard money doesn’t buy happiness.  It’s true&#8211;money is not something that we should chase after.  You’ll end up disappointed.  No amount will ever be enough.
 
 <p style="text-align:center;">
-  ![Image](/static/images/make-a-budget-piggy.jpeg)
+  ![Image](/images/make-a-budget-piggy.jpeg)
 </p>
 
 The cardinal rule of living within your means is spending less than you make.  Your income has to be greater than your spending.  It’s not a novel concept, but it appears the millions of Americans who are in debt up to their eyeballs have failed to apply a simple math equation to their everyday lives.  We live in a society fixated on instant gratification—buy now, pay later.  The question we need to ask ourselves is, “At what cost?”  If I buy this new HDTV, or new bike that I probably won’t even ride, or state-of-the-art-for-a-day computer, what is it going to cost me when it’s all said and done?  Is it worth the debt?  Can I bear the cost?

@@ -21,7 +21,7 @@ I'm not a weekend warrior, but I've traveled on some of the longest flights in t
 
 This is my definitive guide to air travel, from booking to packing to flying: my whole process and all my recommendations for rocking your next flight. Whether it's a one-hour puddle jump or a 16-hour international hullabaloo, you'll be ready to travel like a pro.
 
-![Image](/static/images/airplane.jpeg) 
+![Image](/images/airplane.jpeg) 
 
 <!--more-->
 

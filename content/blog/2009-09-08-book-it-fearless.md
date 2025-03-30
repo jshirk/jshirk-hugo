@@ -14,7 +14,7 @@ Are you overwhelmed with fear?  Fear of natural catastrophes?  Fear of the unk
 
 Max Lucado’s latest piece of outright artwork, _Fearless_, gives you reason to cast away your fears.  In the book, fear is exposed what it really is: an opportunity to strengthen your faith and overcome the unwarranted sensation that makes us check under the bed for the boogie monster.
 
-![Image](/static/images/fearless-max-lucado.jpeg) 
+![Image](/images/fearless-max-lucado.jpeg) 
 
 Lucado maneuvers you through the world of fear like a guide on a jungle safari—showing us how to hack away at the unjust emotion in front of us so that we can face each day without worry.
 

@@ -25,7 +25,7 @@ We all receive more email than we know what to do with. I receive a lot of email
 Unfortunately, my friends who send a massive BCC email have no clue how many people are actually opening their emails. Knowing who is reading about your ministry (or group, company or organization) is incredibly valuable. My favorite service for large group e-mailing is MailChimp. It simply blows normal emailing out of the water, and it's incredibly easy to use.
 
 <p style="text-align: center;">
-  ![Image](/static/images/mailchimp-blog-image.jpeg)
+  ![Image](/images/mailchimp-blog-image.jpeg)
 </p>
 
 Here's why:  

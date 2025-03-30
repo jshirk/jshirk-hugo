@@ -22,7 +22,7 @@ When you're leading, I think the best way to empower team members is to give the
 
 Sometimes people do things in ways we don't think is best. That's when letting them stay flexible is hard. A sudden urge to micro-manage boils up when they say things we don't agree with. Or if they act in ways we wouldn't act.
 
-[![Image](/static/images/hammer-swing.jpeg)](https://jshirk.com/blog/fix-or-leave)
+[![Image](/images/hammer-swing.jpeg)](https://jshirk.com/blog/fix-or-leave)
 
 Sometimes they are wrong. They need to be corrected. Someone (you, if you're the leader) needs to talk with them.
 

@@ -20,7 +20,7 @@ I'm a bit of an anomaly. I'm rarely shaken by big life changes or weighty expect
 
 But if I spill some milk, break a glass and see a spam email slip through the filter and into my inbox, I'm probably going to _lose it_.
 
-![Image](/static/images/frustrated-face.jpeg) 
+![Image](/images/frustrated-face.jpeg) 
 
 I'm not sure why that is. I'm still working on figuring out why I'm fine with major shifts and obstacles but I can't overcome certain mental blocks a four year old wouldn't struggle with.
 

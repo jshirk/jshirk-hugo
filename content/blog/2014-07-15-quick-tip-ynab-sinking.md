@@ -14,7 +14,7 @@ My favorite budgeting app is [YNAB](https://jshirk.com/blog/ynab/), which has an
 
 The main idea behind YNAB is moving beyond paycheck-to-paycheck living, so they suggest spending last month’s salary this month so you can escape the rat race.
 
-![Image](/static/images/quick-tip-logo.jpeg) 
+![Image](/images/quick-tip-logo.jpeg) 
 
 This is enabled by subtracting any amount you went over by in any budgeted categories from your total salary for the next month.
 
@@ -26,7 +26,7 @@ There’s an option to have each category carry over to function as a [sinking f
 
 For example, in June we were $9.74 over on our gifts budget. So, instead of that $9 and some change coming out of our total money available to budget for July, we have it carry over in the specific gifts category and carry a slight negative balance in that specific digital envelope.
 
-![Image](/static/images/Screen-Shot-2014-07-14-at-10.27.14-PM.jpeg) 
+![Image](/images/Screen-Shot-2014-07-14-at-10.27.14-PM.jpeg) 
 
 It’s simple to enable. On the desktop version of YNAB, just go to Budget and then click on the number under the balance column. Then, click the button next to “Subtract it from next month’s category balance” instead of the “Subtract it from next month’s Available to Budget.”
 

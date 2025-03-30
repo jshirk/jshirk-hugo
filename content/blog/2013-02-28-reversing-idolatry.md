@@ -21,7 +21,7 @@ There are two analogies that have helped students I work with understand how God
 
 To start, God must become our first priority. Before we meet God, our priorities are all out of line. We live for money, travel, massive homes, and then our spouse and maybe our children fall in line later.
 
-![Image](/static/images/me-first.jpeg) 
+![Image](/images/me-first.jpeg) 
 
 If we live primarily for something or someone other than God our god can (and will) be stripped away from us. If our spouse is our god, our god can die, or leave us. If our career is our god, we could lose our job and thus lose our god.
 
@@ -36,13 +36,13 @@ When we fall in love with Jesus, God helps us move everything that was ahead of 
 
 Then God takes over the throne of our lives, and all the pegs begin to match up with the correct holes. God is first, then our spouse, children, helping others, then our career. This is a process, but it's inevitable.
 
-![Image](/static/images/god-first.jpeg) 
+![Image](/images/god-first.jpeg) 
 
 Unfortunately, when looking at only this isolated example, it may seem God is only required to take the first place in our lives.
 
 In reality, however, He is to be the all-consuming Lord of every area of our lives. So while God is first, He is also imminent over the rest of our lives. Everything we do, every person we meet, every area of our lives should be affected by our relationship with God.
 
-![Image](/static/images/god-is-imminent.jpeg) 
+![Image](/images/god-is-imminent.jpeg) 
 
 &nbsp;
 

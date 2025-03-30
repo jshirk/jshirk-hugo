@@ -10,7 +10,7 @@ categories:
 ---
 For the last few years, I’ve tried to read a book per week. That didn’t quite happen in 2014, but I’ve found two keys to getting close to that goal.
 
-![Image](/static/images/Reading-on-Kindle1.jpeg) 
+![Image](/images/Reading-on-Kindle1.jpeg) 
 
 ### 1. You have to actually read.
 

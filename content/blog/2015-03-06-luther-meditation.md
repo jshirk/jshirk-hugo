@@ -13,7 +13,7 @@ My mornings are often the strongest indicator of how successfully[footnote]Whate
 I’m currently making my way through Timothy Keller’s excellent book _[Prayer](https://www.amazon.com/Prayer-Experiencing-Awe-Intimacy-God-ebook/dp/B00INIXGIO/ref=as_sl_pc_ss_til?tag=thepoiofimp-20&linkCode=w01&linkId=JYDXJLGBIN5CPEIO&creativeASIN=B00INIXGIO)_. One idea that I’ve already put into practice comes from our Reforming friend Martin Luther.
 
 <div id="attachment_3676" style="width: 710px" class="wp-caption aligncenter">
-  ![Image](/static/images/not-martin-luther.jpeg)
+  ![Image](/images/not-martin-luther.jpeg)
   
   <p id="caption-attachment-3676" class="wp-caption-text">
     Note: I'm pretty sure this isn't Marty in a coffee shop, but I bet this guy is meditating on the Word.

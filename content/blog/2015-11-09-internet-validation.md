@@ -18,7 +18,7 @@ I’ve shared that notifications [can’t satisfy us](https://jshirk.com/blog/li
 
 Nevertheless, I continue to internally yell “Validate me!” with each post to the Internet.
 
-![Image](/static/images/computers.jpeg) 
+![Image](/images/computers.jpeg) 
 
 I’d be lying if I didn’t have the same urge with this post. If I didn’t want you to tell me that you agree or that it was really inspiring.
 

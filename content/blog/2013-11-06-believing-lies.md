@@ -17,7 +17,7 @@ Those lies normally stem from a single fact followed by a false assumption.
   * My boss wants to talk to me later this week. _I bet I'm in trouble._
   * No one commented on my blog. _I should probably stop wasting my time writing because it's not making an impact._
 
-[![Image](/static/images/foggy.jpeg)](https://jshirk.com/blog/believing-lies/)
+[![Image](/images/foggy.jpeg)](https://jshirk.com/blog/believing-lies/)
 
 **We are fantastic storytellers when it comes to writing an unhappy ending in the midst of foggy circumstances**. Here's what I've found most of the time: he's not mad, it's not your lack of faith, you're not in trouble, and you are making an impact. The human mind is a terrible thing to let frolic in the swamp of falsified bad news. We quickly dive into the worst-case-scenario end of the pool, which is rarely (if ever) what's actually happening.
 

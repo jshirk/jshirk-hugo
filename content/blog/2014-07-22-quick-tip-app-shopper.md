@@ -16,7 +16,7 @@ My wife and I joke about who spends more money on their favorite things–me on 
 
 To stretch my app budget as far as possible, I keep an eye on apps and snag them when they are on sale.
 
-![Image](/static/images/quick-tip-logo.jpeg) 
+![Image](/images/quick-tip-logo.jpeg) 
 
 The best way I’ve found to track apps and be alerted at discounts is through the app and website [App Shopper](http://appshopper.com).
 
@@ -26,7 +26,7 @@ Here’s a screenshot of my some apps currently on my wish list.
 
 &nbsp;
 
-![Image](https://jshirk.com/blog/wp-content/uploads/2014/07/Attachment-1-576x1024.jpeg) 
+![Image](https://jshirk.com/blog/images/Attachment-1-576x1024.jpeg) 
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Here’s the recent app activity for 1Password for iOS. You can find it on the r
 
 &nbsp;
 
-![Image](/static/images/Screen-Shot-2014-07-15-at-1.51.30-PM.jpeg) 
+![Image](/images/Screen-Shot-2014-07-15-at-1.51.30-PM.jpeg) 
 
 &nbsp;
 

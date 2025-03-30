@@ -16,7 +16,7 @@ Another like, favorite, retweet or comment.
 Someone else used my referral link!  
 A free set of razor blades or a book or extra space in Dropbox.
 
-[![Image](/static/images/notifications1.jpeg)](https://jshirk.com/blog/living-for-notifications)
+[![Image](/images/notifications1.jpeg)](https://jshirk.com/blog/living-for-notifications)
 
 **They are cheap substitutes for actual interaction. And I'm practically addicted to them.**
 

@@ -29,7 +29,7 @@ I recently discovered [MacSparky](http://macsparky.com), David Sparks' website. 
 
 My home screen is in constant flux. I've moved the icons around a dozen times in the last week since being back in the States (_au revoir_, MagicJack and Ljubljana Bus app). It was time to get all efficient.
 
-![Image](/static/images/photo.jpeg) 
+![Image](/images/photo.jpeg) 
 
 I normally sell you on why I love apps, but this is more on how I use them and my general iOS workflow instead of just great apps. I've been thinking a lot about workflow lately thanks to the [Mac Power Users](http://5by5.tv/mpu/) podcast (by David Sparks and Katie Floyd) and my incessant urge to be ever more productive and efficient.<!--more-->
 

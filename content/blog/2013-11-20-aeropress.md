@@ -16,7 +16,7 @@ Niki and I enjoy pretending that we're coffee snobs.[footnote]I mean this in the
   * We most regularly brew Eight O'Clock coffee, [Hazelnut](http://www.amazon.com/gp/product/B002ZOG2B0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002ZOG2B0&linkCode=as2&tag=thepoiofimp-20) variety. Not fair trade, not locally roasted, _and_ flavored. _Strike 2._
   * We most often brew coffee via a standard, (yet convenient) drip coffee maker.[footnote]We love [this](http://www.amazon.com/gp/product/B005IR4W7W/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005IR4W7W&linkCode=as2&tag=thepoiofimp-20) coffee maker. It has no pot, so it's most ideal if you have a sprayer attached to your sink to add water, but being potless is awesome.[/footnote] _Strike 3._
 
-[![Image](/static/images/brewing-with-aeropress.jpeg)](https://jshirk.com/blog/aeropress)
+[![Image](/images/brewing-with-aeropress.jpeg)](https://jshirk.com/blog/aeropress)
 
 Now, I'll make a case for us being _moderate_ coffee snobs:
 
@@ -93,22 +93,22 @@ Do you still have a pulse after a 1,000+ word introduction just for the gear? Gr
   * Water
   * Patience (not pictured)
 
-![Image](/static/images/all-gear.jpeg) 
+![Image](/images/all-gear.jpeg) 
 
 It's probably a good idea to read through these ridiculously detailed instructions before starting, because precise timing is important, and that'll be tough to do on your first read through.
 
   1. Fill up your electric kettle to around .5 liters (or 1 liter if you plan on making two cups for you and a friend/spouse/stranger) and turn it (the kettle) on. Let it magically heat up water while you continue to dance this coffee dance. (Be sure you've followed instructions for getting the plasticky taste out of the kettle if you bought the Hamilton Beach one we did. See instructions in box)
-  2. Pull out your mug _du jour_, kitchen scale and beans. Measure 15g of beans onto your scale.![Image](/static/images/beans-on-grinder.jpeg)
+  2. Pull out your mug _du jour_, kitchen scale and beans. Measure 15g of beans onto your scale.![Image](/images/beans-on-grinder.jpeg)
   3. Dump beans into grinder on a setting between fine and medium, but closer to fine. This will take some tweaking, so feel free to start anywhere and try different settings until you find the right one for you and your grinder (if you change grinder to baby in that last sentence, it feels a little like a parenting guide; however, I _do not_ recommend dumping beans into your baby.).
   4. Pull out your AeroPress. Wet the side that has the rubber plunger on it, and then insert the plunger into the plastic tube through the top hole (closest to the number 4 is). Let the plunger rest just below the #4, but enough so that none of the rubber is outside of the plastic tube).
   5. Set the AeroPress down so the round, flat plastic lip is on the counter and the hexagon shape is upward. We are using what's called the i nverted method, which I prefer, which just means we're using the AeroPress upside down, but it keeps the coffee from seeping out as it's brewing for a more accurate brew, in my opinion.  
-![Image](/static/images/just-aeropress.jpeg) 
-  6. Add your coffee grounds to the opening in the AeroPress so they rest on the plunger and go up toward the jagged edge of the AeroPress where the cap and filter will go. Shake the AeroPress a bit to get the grounds to even out.![Image](/static/images/inverted-just-with-grounds.jpeg)
+![Image](/images/just-aeropress.jpeg) 
+  6. Add your coffee grounds to the opening in the AeroPress so they rest on the plunger and go up toward the jagged edge of the AeroPress where the cap and filter will go. Shake the AeroPress a bit to get the grounds to even out.![Image](/images/inverted-just-with-grounds.jpeg)
   7. Add the 75 grams of your recently finished brewing hot water to a measuring cup.
-  8. Start your timer and add the 75 grams of water to the AeroPress and coffee grounds and let it set for 30 seconds.![Image](/static/images/1st-bit-of-water-in-press.jpeg)
-  9. Add an additional 175-200 grams (more water is a weaker cup, which I prefer) of water to your measuring cup and then the AeroPress and let the brew set for another 60 seconds, (now up to 1 and ½ minutes total). Stir the water and grounds with the provided plastic AeroPress T-Stick for 10 &#8211; 20 loops, or until the coffee grounds are well mixed with the water.![Image](/static/images/stirring-aeropress.jpeg)
+  8. Start your timer and add the 75 grams of water to the AeroPress and coffee grounds and let it set for 30 seconds.![Image](/images/1st-bit-of-water-in-press.jpeg)
+  9. Add an additional 175-200 grams (more water is a weaker cup, which I prefer) of water to your measuring cup and then the AeroPress and let the brew set for another 60 seconds, (now up to 1 and ½ minutes total). Stir the water and grounds with the provided plastic AeroPress T-Stick for 10 &#8211; 20 loops, or until the coffee grounds are well mixed with the water.![Image](/images/stirring-aeropress.jpeg)
  10. Add the plastic cap with a paper filter inside of it to the side of the AeroPress currently facing upward. Screw the cap on so that it rests under the plastic lips around the edge. Many people recommend wetting the paper filter–I don't think it makes much of a taste difference, but it's easier to get it to stay in the cap if it's wet.
- 11. Swiftly but with precision, turn the AeroPress upside down with the plastic cap on the inside of the coffee cup. If you move too slowly, coffee will start to emerge all over you and your kitchen. If you move to fast and miss your mug, same problem. Once you have it on there, put both hands on the top of the AeroPress and gently begin to press down. This should take less than 30 seconds, but there is a ton of pressure, so don't push down too quickly or you could break everything (really).![Image](/static/images/final-picture-aeropress-on-mug.jpeg)
+ 11. Swiftly but with precision, turn the AeroPress upside down with the plastic cap on the inside of the coffee cup. If you move too slowly, coffee will start to emerge all over you and your kitchen. If you move to fast and miss your mug, same problem. Once you have it on there, put both hands on the top of the AeroPress and gently begin to press down. This should take less than 30 seconds, but there is a ton of pressure, so don't push down too quickly or you could break everything (really).![Image](/images/final-picture-aeropress-on-mug.jpeg)
  12. Remove AeroPress and place in sink (because it'll be a bit drippy) and enjoy your extra-freshly brewed cup of coffee.
 
 ### The Short Version

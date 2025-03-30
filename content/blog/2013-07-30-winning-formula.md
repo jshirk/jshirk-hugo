@@ -19,7 +19,7 @@ tags:
 
 That's why ridiculous fad diets, get-rich quick schemes and overnight success are all the rage. We know what it takes to change, succeed, and win, but we know those things are _hard_.
 
-[![Image](/static/images/beakers.jpeg)](https://jshirk.com/blog/winning-formula)
+[![Image](/images/beakers.jpeg)](https://jshirk.com/blog/winning-formula)
 
 Everyone knows how to lose weight. You just need to burn more calories than you consume _over time_, and _viola_ the number on the scale starts reading lower.
 
@@ -31,7 +31,7 @@ Building a movement of university students fits here too. Helping students walk 
 
 You want an instant formula for success? Here you go.<!--more-->
 
-![Image](/static/images/effort-consistency-time.jpeg) 
+![Image](/images/effort-consistency-time.jpeg) 
 
 Effort combined with consistency over a period of time.
 

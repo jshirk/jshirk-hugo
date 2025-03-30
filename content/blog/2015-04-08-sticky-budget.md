@@ -13,7 +13,7 @@ Sticking to a plan is hard for me. I don’t like to be boxed in or [have limite
 [Last year](https://jshirk.com/blog/ynab/) I highlighted my favorite app for budgeting, [YNAB](http://ynab.refr.cc/B4QQBWJ). I can’t imagine not using it, and I wouldn’t dream of switching to anything else at this point. It’s a perfect blend of ease, features, and delight. I still whole-heartedly recommend it as the hands-down-best-budgeting app.
 
 <p style="text-align: center;">
-  ![Image](/static/images/Sticky-Budget.jpeg)<em>Sticking to a budget. Bad, I know.</em>
+  ![Image](/images/Sticky-Budget.jpeg)<em>Sticking to a budget. Bad, I know.</em>
 </p>
 
 But a fancy app does not a budget make. You can have the best app in the world, but if you don’t have the desire and discipline to take control of your cash, it’s not going to happen.

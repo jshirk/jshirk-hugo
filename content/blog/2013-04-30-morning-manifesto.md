@@ -29,7 +29,7 @@ I've printed this list out to read through each morning, before I do anything el
 
 Feel free to remind me when you see me forgetting these things. Also, I'd love to hear if you do anything to remind yourself of truth you need to hear each morning.
 
-[![Image](/static/images/morning-manifesto1.jpeg)](https://jshirk.com/blog/morning-manifesto)
+[![Image](/images/morning-manifesto1.jpeg)](https://jshirk.com/blog/morning-manifesto)
 
 <!--more-->
 

@@ -11,7 +11,7 @@ categories:
 I don't have an uncanny memory. I try hard to remember names because it communicates love and respect so tangibly, but otherwise I can barely remember what day of the week it is.
 
 <p style="text-align: center;">
-  ![Image](/static/images/string-on-finger.jpeg)
+  ![Image](/images/string-on-finger.jpeg)
 </p>
 
 At the same time, I don't think I missed a single assignment in high school or college (mostly because I'm a nerd) and I always finish my work when I say I will. How does that all happen? First and foremost, by not relying on my brain and these other seven secrets.

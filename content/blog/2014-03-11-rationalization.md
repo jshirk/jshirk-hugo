@@ -4,7 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2014-03-11T09:00:35+00:00
 slug: /rationalization/
-featured_image: /wp-content/uploads/2014/03/turned-back.jpg
+featured_image: ../images/turned-back.jpg
 standard_seo_post_meta_description:
   - "Making excuses is one of the human race's greatest superpower. Now let's stop it."
 categories:
@@ -19,7 +19,7 @@ _&#8220;It's ok to eat that whole cake–I walked on the treadmill for 15 minute
 _&#8220;It's ok to spend money I don't have–I should be getting a bonus soon.&#8221;_  
 _&#8220;It's ok to buy the latest, greatest whatever–my current one is going to die soon anyway.&#8221;_
 
-[![Image](/static/images/turned-back.jpeg)](https://jshirk.com/blog/rationalization/)
+[![Image](/images/turned-back.jpeg)](https://jshirk.com/blog/rationalization/)
 
 Some of these lies are worse than others. But we rarely admit to ourselves that we're lying. We turn our backs on truth and logic. Instead of facing truth or guilt head on, we rationalize.
 

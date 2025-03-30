@@ -22,7 +22,7 @@ It's no secret I'm a fan of online shopping. I enjoy the privilege of actually h
 
 I'm not an impulsive buyer. I read _dozens_ of reviews on Amazon before trying something (and I always start with the most negative review rated most helpful).
 
-![Image](/static/images/amazon-logo.jpeg) 
+![Image](/images/amazon-logo.jpeg) 
 
 Here are the circumstances when I _have to_ read reviews. If&#8230;
 

@@ -12,7 +12,7 @@ categories:
 ---
 No one goes skydiving without going through training. It's mandatory, it's essential and it'd be pretty foolish to launch out of a moving aircraft without knowing what you're doing.
 
-[![Image](/static/images/skydiving.jpeg)](https://jshirk.com/blog/training-success/)
+[![Image](/images/skydiving.jpeg)](https://jshirk.com/blog/training-success/)
 
 Employers that have a high emphasis on training have a high value on effectiveness, efficiency and keeping their employees. If your organization doesn't &#8220;believe in&#8221; training, that should be a red flag.
 

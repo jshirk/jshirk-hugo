@@ -15,7 +15,7 @@ For a season, I did a good job of writing down prayer requests, what I was learn
 
 &nbsp;
 
-![Image](/static/images/pencil-and-paper.jpeg) 
+![Image](/images/pencil-and-paper.jpeg) 
 
 But for nearly the last month, I’ve written down something in the form of a journal every single day.
 
@@ -130,7 +130,7 @@ That’s why I suggest the aforementioned Day One.
 
 Day One is absolutely gorgeous. The app is well-designed, available for Mac and iOS, has the ability to set reminders, use tags for simpler searching, favorite certain posts, add pictures, and add entries into the past.
 
-![Image](/static/images/day-one-stack.jpeg) 
+![Image](/images/day-one-stack.jpeg) 
 
 Honestly, I’ve started using Day One in the way I used to use Evernote because it’s simpler to navigate and I’m more likely to actually go back and look through Day One. It syncs perfectly across devices, allows you to see the days you actually wrote something at a glance, and even imports location, time, and weather data if you’d like.
 

@@ -19,7 +19,7 @@ iOS offers an option to change your search engine under Settings ? Safari ? Sear
 
 [DuckDuckGo](http://duckduckgo.com) is the only search engine in the list that [doesn’t track](https://duckduckgo.com/about) and store your search results. That means they aren’t targeting you with ads or trying to sell your data to marketers.
 
-![Image](/static/images/duckduckgo-logo.jpeg) 
+![Image](/images/duckduckgo-logo.jpeg) 
 
 I like having more control over who has my information and search history, but what sold me on DuckDuckGo is a unique feature called bangs.
 

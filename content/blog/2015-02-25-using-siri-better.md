@@ -12,7 +12,7 @@ Right now I’m writing on my iPad. But I’m not really writing. I’m dictatin
 
 Huge improvements have been made over the years, and if you’re a long-time iOS user who was tired of taking Siri’s flack in the past and haven’t revisited her, I’d say give it another go. Now, she’s even correcting words as she sees the context changing, going back earlier sentences to make sure the words are correct, to the best of her ability.
 
-![Image](/static/images/holding-iphone.jpeg) 
+![Image](/images/holding-iphone.jpeg) 
 
 I just told her, “new paragraph” and she did the equivalent of tapping return twice. [footnote]So, yes, I had to come back and edit this line.[/footnote]
 

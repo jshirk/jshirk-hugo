@@ -22,7 +22,7 @@ Within the past week, millions of resolutions have been made by people all acros
 …and the majority of people will give up by the end of the month.
 
 <p style="text-align: center;">
-  <em>![Image](/static/images/newchange.jpeg)<br /> </em>
+  <em>![Image](/images/newchange.jpeg)<br /> </em>
 </p>
 
 <p style="text-align: center;">

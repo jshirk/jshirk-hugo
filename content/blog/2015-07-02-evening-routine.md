@@ -17,7 +17,7 @@ Normally my evening routine has been to watch an episode of _The West Wing_ with
 
 That’s pretty weak as far as good habits and meaningful ends to a day go.
 
-![Image](/static/images/evening-clock.jpeg) 
+![Image](/images/evening-clock.jpeg) 
 
 I’ve been challenged by [Shawn Blanc’s](http://shawnblanc.net) _[The Focus Course](http://thefocuscourse.com)_ to start being more intentional in the way I live. One of the first assignments in the 40-day course is to simply set out your outfit for the next day.
 

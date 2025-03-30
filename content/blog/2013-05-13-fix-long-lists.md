@@ -26,7 +26,7 @@ Long lists attract people.
 
 I think lengthy lists can be valuable, especially when they contain helpful resources in niche areas. I'm pro-list, as I've crafted my fair share of them.
 
-[![Image](/static/images/long-list.jpeg)](http://https://jshirk.com/blog/fix-long-lists)
+[![Image](/images/long-list.jpeg)](http://https://jshirk.com/blog/fix-long-lists)
 
 I made a list of 14 lessons I learned from living and [leading abroad](https://jshirk.com/blog/leading-overseas/), the 28 things you need to know to [teach yourself design](https://jshirk.com/blog/teach-yourself-design/), and 30 questions to evaluate your [work performance](https://jshirk.com/blog/work-performance-questions/).
 

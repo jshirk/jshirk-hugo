@@ -24,7 +24,7 @@ A life well lived can be summed up in one sentence.
 
 Abraham Lincoln isn't known for all of his failures (often grossly exaggerated but present nonetheless)–his failed businesses, battling depression and unsuccessful attempts at a few other political offices. **He's known for abolishing slavery and reuniting the United States of America.** One sentence about a man who changed the world.
 
-[![Image](/static/images/one-sentence.jpeg)](https://jshirk.com/blog/one-sentence-life)
+[![Image](/images/one-sentence.jpeg)](https://jshirk.com/blog/one-sentence-life)
 
 His decisions were unpopular with a hefty chunk of his constituents, but we look back on him as one of the greatest presidents (and men) our country has ever been graced with.
 

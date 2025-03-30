@@ -18,7 +18,7 @@ tags:
 Prayer appears to be the least effective thing we can do. I often think to myself, “God, I have so much work to do today, there’s no way I can make the time to just talk to you.” I couldn't be more off base with that thought. Prayer is the least utilized yet most powerful weapon in our spiritual life.
 
 <p style="text-align: center;">
-  ![Image](/static/images/Screen-Shot-2013-01-13-at-11.57.36-AM.jpeg)
+  ![Image](/images/Screen-Shot-2013-01-13-at-11.57.36-AM.jpeg)
 </p>
 
 We pray to acknowledge our weakness. To ask for God’s strength and power to work through us. To move mountains. To move God. One hundred percent of our prayers are heard by God, and 100% are answered by Him as yes, no, or later.

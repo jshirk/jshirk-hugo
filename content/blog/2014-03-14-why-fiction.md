@@ -15,7 +15,7 @@ As someone who highly values learning, growing and productivity, fiction can fee
 But I've realized significant benefits from digging into fiction books over the last year, specifically Christian fiction (with a handful of dystopian novels thrown in).
 
 <p style="text-align: center;">
-  ![Image](/static/images/20140313-191914.jpeg)
+  ![Image](/images/20140313-191914.jpeg)
 </p>
 
 ## Why Fiction Rocks

@@ -32,7 +32,7 @@ _[Full disclosure: A couple books are pretty short, around 100 pages, so that's 
 So, I thought it was time for some musings on books.
 
 <p style="text-align: center;">
-  <a href="https://jshirk.com/blog/book-musings">![Image](/static/images/old-books-in-library.jpeg)</p> 
+  <a href="https://jshirk.com/blog/book-musings">![Image](/images/old-books-in-library.jpeg)</p> 
   
   <p>
     <!--more-->

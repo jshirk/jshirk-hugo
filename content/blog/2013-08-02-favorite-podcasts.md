@@ -12,7 +12,7 @@ categories:
 ---
 I hate wasting time. I'm totally on board with _not_ multi-tasking, but some things are meant to be done simultaneously. I like listening to non-fiction audiobooks (library, FTW) when I drive and podcasts when I'm doing the dishes. They make driving and dish washing much more pleasant.
 
-![Image](/static/images/podcast-icon.jpeg) 
+![Image](/images/podcast-icon.jpeg) 
 
 Before I launch into a big pile of dishes, I always queue up a podcast. _(Note: I normally do the dishes because Niki always cooks the delicious meals that made the dishes dirty. There should be a rule in families that no one can cook and do the dishes. That's the worst)_
 

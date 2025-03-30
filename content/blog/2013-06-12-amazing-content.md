@@ -27,7 +27,7 @@ Often our processes slow us down and keep us from sharing what the world needs t
 Here's how to find and curate some of the most interesting links on the web, no matter what your interests are.
 
 <p style="text-align: center;">
-  ![Image](/static/images/magnifiying-glass.jpeg)
+  ![Image](/images/magnifiying-glass.jpeg)
 </p>
 
 ## 1. [Twitter](http://twitter.com)

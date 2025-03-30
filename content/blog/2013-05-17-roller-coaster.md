@@ -28,7 +28,7 @@ Dave (yep, we're on a first-name basis) was discussing the stock market crash in
 
 &nbsp;
 
-[![Image](/static/images/roller-coaster.jpeg)](http://https://jshirk.com/blog/roller-coaster)
+[![Image](/images/roller-coaster.jpeg)](http://https://jshirk.com/blog/roller-coaster)
 
 ## Don't sell your stocks. Don't believe the sky is falling. Hold on. You're in the middle of the ride. Don't jump now.
 

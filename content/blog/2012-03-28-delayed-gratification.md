@@ -23,7 +23,7 @@ Delayed gratification isn’t something we excel at in America, and my generatio
 
 I think the hard part of delayed gratification is (wait for it, brilliance coming in _3&#8230;2&#8230;1&#8230;_) that the whole gratification process is delayed, as in not instant, not right away, not right this moment.
 
-[![Image](/static/images/delayedgratification.jpeg)](https://jshirk.com/blog/wp-content/uploads/2012/03/delayedgratification.jpg)
+[![Image](/images/delayedgratification.jpeg)](https://jshirk.com/blog/images/delayedgratification.jpg)
 
 It’s not as convenient to have to wait to go to a store to buy a CD to listen to a song as it is to download it on our phones _instantly._
 

@@ -28,7 +28,7 @@ There are certain things that you write frequently that are just a pain to keep 
 
 You can probably think of a decent amount of similar things you're constantly typing, and now you're thinking, &#8220;What a waste of time! I need to get that 3 seconds of time back and spend it doing more important things like reading blogs.&#8221; Prepare to have your mind blown by the simplicity of using a text expander.
 
-![Image](/static/images/Screen-Shot-2013-01-13-at-11.56.35-AM.jpeg) 
+![Image](/images/Screen-Shot-2013-01-13-at-11.56.35-AM.jpeg) 
 
 **A text expander magically transforms a shortcut or abbreviation into a longer word, phrase or giant block of text**. You can also use it to auto-correct commonly misspelled words (like restaurant or maintenance that the computer doesn't always auto-correct because yes, I'm _that_ bad of a speller).
 

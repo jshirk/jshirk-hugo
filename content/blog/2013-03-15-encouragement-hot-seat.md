@@ -23,7 +23,7 @@ When I was leading a Bible Study for leaders in our movement at Ohio University,
 Here's how it works. Everyone sits in a circle, and we randomly start with one member of the group. It's great if the group leader (or the one who has arranged for the The Seat_ _to happen) selects a person to start with and then sets the tone for the time.
 
 <p style="text-align: center;">
-  ![Image](/static/images/encouragement-hot-seat1.jpeg)
+  ![Image](/images/encouragement-hot-seat1.jpeg)
 </p>
 
 Say we start with Charlie. I, as the leader, spend 20-60 seconds or so telling Charlie what I admire about him, appreciate about him, and how I have seen him growing and developing. Each other person in the circle takes their turn sharing about what they see in Charlie until everyone in the group has spent time encouraging him. Then we move on to another person and the process repeats. None of this has to have a clear flow or direction&#8211;just let people start speaking as they feel led. People will naturally know when it's their turn to encourage.

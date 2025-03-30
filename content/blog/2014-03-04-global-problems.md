@@ -15,7 +15,7 @@ What good could drawing a red &#8220;X&#8221; on my hand possibly do?
 How could that help? How could it make a difference?
 
 <p style="text-align: center;">
-  ![Image](/static/images/END_IT_X.jpeg)
+  ![Image](/images/END_IT_X.jpeg)
 </p>
 
 According to the [End It Movement](http://enditmovement.com/), an awareness group and coalition of anti-slavery organizations, there are 27 million slaves in the world. More in sheer number than any other time in human history. Forty percent of those slaves are sex slaves.
@@ -36,7 +36,7 @@ Kevin DeYoung says in [Crazy Busy][2],
 
 Any problem buried this deep in sin requires a multi-faceted solution to fix. I believe that solution travels four concentric circles, all working together to find a solution. Promotion, personal choices, partnering, and prayer.
 
-![Image](/static/images/diagram-solution.jpeg) 
+![Image](/images/diagram-solution.jpeg) 
 
 Here's how I see pandemic issues being tackled, specifically in the context of human trafficking. <!--more-->
 
@@ -60,7 +60,7 @@ There are [organizations](http://enditmovement.com/#together_we_can) around the 
 
 &nbsp;
 
-![Image](/static/images/end-it-coalition.jpeg) 
+![Image](/images/end-it-coalition.jpeg) 
 
 <p style="text-align: center;">
   <em>Coalition Partners with the End It Movement</em>

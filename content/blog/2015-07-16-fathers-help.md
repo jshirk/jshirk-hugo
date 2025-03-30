@@ -13,7 +13,7 @@ After a mere three weeks, I’m already going to the well of fatherhood for spir
 
 Our daughter has made the transition to parenthood incredibly easy for us–she only cries when something is wrong–90% of the time it means her diaper is dirty or she’s hungry, which are also the only times I cry.
 
-![Image](/static/images/baby.jpeg) 
+![Image](/images/baby.jpeg) 
 
 The thing is, as she’s crying and one of us is holding her and getting ready to alleviate her hunger or discomfort, she often starts sobbing uncontrollably. We’re ready to meet her needs, we know what’s wrong, but she doesn’t have the awareness yet to understand she just needs to wait a few more seconds.
 

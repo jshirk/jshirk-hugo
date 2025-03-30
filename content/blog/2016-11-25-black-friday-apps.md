@@ -12,7 +12,6 @@ I love apps and I love finding a good deal. When those two things intersect, I c
 
 Here’s a quick roundup of my favorite apps that are on sale for Black Friday first for iOS, then for the Mac.
 
-
 ## iOS
 
 ### [Due (an alert wizard with natural language input)](https://itunes.apple.com/us/app/due-reminders-countdown-timers/id390017969?mt=8)

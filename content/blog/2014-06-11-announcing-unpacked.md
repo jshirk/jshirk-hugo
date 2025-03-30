@@ -14,7 +14,7 @@ The fear of how other people will respond can be paralyzing. So you have to deci
 
 As if the paralysis of human response wasn’t enough for a blog, I’ve started another project: a podcast.
 
-[![Image](/static/images/microphone.jpeg)](https://jshirk.com/blog/announcing-unpacked)
+[![Image](/images/microphone.jpeg)](https://jshirk.com/blog/announcing-unpacked)
 
 <h6 style="text-align: center;">
   Photo provided by <a href="http://gratisography.com">Gratisography</a>
@@ -28,7 +28,7 @@ We wanted to craft a show we wanted to listen to. In each episode, we share our 
 
 If you’re encouraged, if you get a laugh, if you feel empowered to start a conversation about things that matter, then we’ve accomplished what we set out to do.
 
-[![Image](/static/images/1500px-Mailchimp-Unpacked-Header.jpeg)](http://unpacked.co)
+[![Image](/images/1500px-Mailchimp-Unpacked-Header.jpeg)](http://unpacked.co)
 
 We released [Episode 0 – Why Start a Podcast](http://unpacked.co/0) where we take a stab at why we started a podcast and [Episode 1 – The B Word: Budgeting](http://unpacked.co/1) today.
 

@@ -23,7 +23,7 @@ tags:
 ---
 I can't help but tell everyone I know about things I love. It makes being a missionary easier, to be sure. There are also some great, relatively inexpensive things I own that I want the world to know about. These items are so well designed they can't help but bring a smile to your face when they actually do what they're supposed to do.
 
-![Image](/static/images/6-everyday-products_edited-1.jpeg) 
+![Image](/images/6-everyday-products_edited-1.jpeg) 
 
 **[Contigo Water Bottle &#8211; ~$11](http://www.amazon.com/Contigo-AUTOSEAL-Water-Bottle-Ounces/dp/B003KZKDRW/ref=sr_1_1?ie=UTF8&qid=1358407903&sr=8-1&keywords=contigo+water+bottle)**
 

@@ -24,7 +24,7 @@ When I ask others how they would define a good person, the qualifications normal
 
 I understand. That makes complete sense if good and bad held in equal tension. Simple acts that have one-level of ramifications, here on earth. A bad thing is a _withdrawal_ from our moral bank account and a good thing is a _deposit_.
 
-[![Image](/static/images/prison-fence.jpeg)](https://jshirk.com/blog/sin-is-crime)
+[![Image](/images/prison-fence.jpeg)](https://jshirk.com/blog/sin-is-crime)
 
 If I steal a candy bar, then if I give some money to charity, help an old lady cross the street, or give up my seat on a bus, than I can make up for that stolen candy bar, according to the karmic view of the world&#8211;good negates bad. If I just make sure I've got enough in my account to pay for the bad withdrawals, I'll be good to go.
 

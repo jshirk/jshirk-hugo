@@ -22,7 +22,7 @@ I'm a freak for data. I love knowing how I spend my time, tracking fitness, dona
 
 One thing I hadn't ever done a good job of was tracking my fitness. I kept a journal of my workouts for a few months. I tried a pedometer for all of three days. Then, I heard about the FitBit One and received it as a Christmas gift.
 
-![Image](/static/images/fitbit.jpeg) 
+![Image](/images/fitbit.jpeg) 
 
 The FitBit One is the fanciest pedometer you'll ever meet. It's far more than a step counter&#8211;it's a fitness data machine. It tracks your steps per day, flights of stairs you've climbed, calories burned, sleep efficiency and more.
 
@@ -45,7 +45,7 @@ Here's my review after two months of daily use.
   * **Sleep tracking.**&nbsp;You can wear the FitBit in an armband that tracks how long you slept and how many times you woke up during the night.
   * **Activity tracking.** Graphs that tell you when you were fairly, lightly and very active, as well as your time spent sedentary, wasting away in your cubicle.
 
-![Image](/static/images/fitbit-dashboard-2.jpeg) 
+![Image](/images/fitbit-dashboard-2.jpeg) 
 
 # The Bad
 
@@ -72,7 +72,7 @@ Here's my review after two months of daily use.
   * Bluetooth Computer Adapter
   * Online Dashboard
 
-![Image](/static/images/fitbit-dashboard.jpeg) 
+![Image](/images/fitbit-dashboard.jpeg) 
 
 # How small is it?
 

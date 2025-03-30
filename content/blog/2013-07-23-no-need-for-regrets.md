@@ -22,7 +22,7 @@ _This is a guest post by Mike Mobley from [Before the Cross](http://www.beforeth
 
 We all have opportunities from our past that we missed out on by not acting. Regrets can fill our lives. We can sulk in our guilt for and keep beating ourselves up, saying, &#8220;I could have done this. I could have done that.&#8221;The reality is, you won't get that same chance again. To keep living in the past shows a lack of trust in God and results in a waste of time in the present.
 
-![Image](/static/images/noneedforregretspic.jpeg) 
+![Image](/images/noneedforregretspic.jpeg) 
 
 > &#8220;Be strong and courageous. Do not fear or be in dread of them, for it is the LORD your God who goes with you. He will not leave you or forsake you.&#8221; &#8211; Deuteronomy 31:6
 

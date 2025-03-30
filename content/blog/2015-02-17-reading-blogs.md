@@ -13,7 +13,7 @@ I follow a fair number of blogs using RSS, which is a bit uncommon in 2015. The 
 I’m old school, so I thought I’d share how I read, follow, and share the best posts I find.
 
 <div id="attachment_3658" style="width: 710px" class="wp-caption aligncenter">
-  ![Image](/static/images/reading-blogs.jpeg)
+  ![Image](/images/reading-blogs.jpeg)
   
   <p id="caption-attachment-3658" class="wp-caption-text">
     A simple workflow of following blogs and saving articles Twitter > Readability > Reader | RSS > Feedly > Reader
@@ -32,9 +32,9 @@ The only time I login to Feedly is if I come across a blog I want to subscribe t
 
 I read the blogs I follow exclusively on iOS. I use [Reeder](https://appsto.re/us/COeMP.i&at=11l4uNett) ($5, universal iOS app) because it’s beautiful, connects with all my services,[footnote]Evernote, Pinboard, etc.[/footnote] and does more than I need to do without a clunky interface getting in the way of reading.
 
-![Image](/static/images/IMG_0669.jpeg) 
+![Image](/images/IMG_0669.jpeg) 
 
-![Image](/static/images/IMG_0668.jpeg) 
+![Image](/images/IMG_0668.jpeg) 
 
 I don’t use any apps to read on my Mac. The reading experience on an iPad is better because I can quickly navigate by tapping a screen to move between blogs instead of clicking around. When I read, I want to read a bunch of posts, all at once, and it feels cumbersome without a touch interface.
 

@@ -18,7 +18,7 @@ When you are trying to go somewhere faster, friction is bad because it slows you
 
 I've realized that friction applies in ways beyond the physical. For example, I like to think of friction as **effort** in the emotional sense. Asking others to do things or responding to requests from anyone involves friction–you or someone else remembering to follow through or follow up in order to accomplish a task.
 
-[![Image](/static/images/sparks-from-friction.jpeg)](https://jshirk.com/blog/using-friction)
+[![Image](/images/sparks-from-friction.jpeg)](https://jshirk.com/blog/using-friction)
 
 Friction is bad when it keeps people from following through and simultaneously a good thing when it puts up a barrier that makes it just a bit more difficult to see if someone actually wants something to happen. So, I'm constantly adding and removing friction as it suits my needs, and I think you should do the same.
 

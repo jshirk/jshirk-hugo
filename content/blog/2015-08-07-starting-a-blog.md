@@ -14,7 +14,7 @@ Choosing how and where you’ll host your blog online seems like the most import
 
 **The reality is, actually writing and consistently posting, no matter where you do it, is far and away the most critical aspect.**
 
-![Image](/static/images/JVSII4KCCK.jpeg) 
+![Image](/images/JVSII4KCCK.jpeg) 
 
 Nevertheless, you have to put your blog _somewhere_, so here are your best options for where to call home on the Internet.<!--more-->
 
@@ -42,7 +42,7 @@ Here’s what you’re working with:
   * **They just launched a way for your to use your own own domain**–that’s YourName.com–which is great if you’re into having your name on things.
   * **Your address will be medium.com/@twitterhandle,** if you don’t pay for a domain.
 
-![Image](/static/images/Medium-Screenshot.jpeg) 
+![Image](/images/Medium-Screenshot.jpeg) 
 
 I like Medium but you have no control over appearance. It’s super intuitive and free, but yeah, it’ll always be “owned” in the sense that it is medium.com by Medium and not you (unless you host it yourself, which is a different, more complicated story).
 
@@ -72,7 +72,7 @@ This is the part where free falls away. Squarespace will set you back around $8 
 
 It’s easy (mostly), beautiful (definitely), and, in my opinion, worth every penny because of the tech support alone.
 
-![Image](/static/images/Squarespace-Screenshot.jpeg) 
+![Image](/images/Squarespace-Screenshot.jpeg) 
 
 **When you pay for online services, they help you!** Which is amazing, because tossing your computer out a window because you don’t understand why your blog is broken is a real thing.
 
@@ -100,7 +100,7 @@ I have my domain name registered through Hover.com (but Site5 can do this, and i
 
 ## Wrapping Up
 
-![Image](/static/images/free-modern-simple-venn-diagram.jpeg) 
+![Image](/images/free-modern-simple-venn-diagram.jpeg) 
 
 Ultimately, it doesn’t matter what you choose. Mega-successful blogs like postsecret are on blogger and people read it. I just hate happen to hate Blogger because I’m a sucker for good design.
 

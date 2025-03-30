@@ -28,7 +28,7 @@ I like finding deals.  I'm not much for yard sales because I can't stand siftin
 
 <
 
-p style=&#8221;text-align: center;&#8221;>[![Image](/static/images/save-money-automatically.jpeg)](https://jshirk.com/blog/save-online-automatically/)
+p style=&#8221;text-align: center;&#8221;>[![Image](/images/save-money-automatically.jpeg)](https://jshirk.com/blog/save-online-automatically/)
 
 With those disclaimers out of the way, here's where I turn and how I work when it comes to finding a good deal.<!--more-->
 
@@ -48,7 +48,7 @@ I hate getting a ton of deals emails that I have to sift through. So, I use Gmai
 
 I use this specifically to generate an email from an RSS feed. Basically, if there's a deal site that I don't want to check regularly but I want to get notified immediately of certain deals (like Amazon gift cards sold at a discount, Starbucks deals, etc.) I can have IFTTT send an email when it sees certain terms in a post. Here's an example I set up for when airlines have a credit card deal for lots of free bonus miles (read: free flights). [Here's the recipe](https://ifttt.com/myrecipes/personal/3041458/share) if you want it for yourself.
 
-![Image](/static/images/IFTTT1.jpeg) 
+![Image](/images/IFTTT1.jpeg) 
 
 **Everyday products at <slickdeals.net>**
 

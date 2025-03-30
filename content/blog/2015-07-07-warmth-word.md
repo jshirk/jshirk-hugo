@@ -15,7 +15,7 @@ In fact, if you’re in a part of the world where air temperatures exceed body t
 
 But in the fall and spring and you see glorious sunlight through streaming through your window, it seems to be as warm as a summer day.
 
-![Image](/static/images/Wooden-sunlight.jpeg) 
+![Image](/images/Wooden-sunlight.jpeg) 
 
 When you head outside, however, you quickly find yourself deceived. The air is cooler than you anticipated and the sun isn’t quite as toasty as you hoped.
 

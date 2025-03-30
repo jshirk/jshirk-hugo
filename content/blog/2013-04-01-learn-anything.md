@@ -24,7 +24,7 @@ Over the last six months as we've lived abroad in Ljubljana, Slovenia, we've st
 Practically everyone in Ljubljana speaks English. Only 2 million people in the world speak Slovene, so it means the world to Slovenes when they discover we're actually attempting to learn the language. They're honored that we'd invest time to learn their language&#8211;especially since it's not essential to life here.
 
 <p style="text-align: center;">
-  ![Image](/static/images/eraser.jpeg)
+  ![Image](/images/eraser.jpeg)
 </p>
 
 In fact, that's the most difficult thing about learning the language: **you don't have to learn Slovene in order to survive.**

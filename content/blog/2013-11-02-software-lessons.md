@@ -12,7 +12,7 @@ Recently, some of my favorite apps got &#8220;upgrades.&#8221; First, Apple upda
 
 Apple added the ability to collaborate online via a web browser. As a result, to keep features consistent across all platforms, they removed features power users often relied on to make it accessible for more people on more platforms (as Seth Godin [noted](http://sethgodin.typepad.com/seths_blog/2013/10/when-free-collides-with-powerful.html)), ubiquity trumped power.)
 
-![Image](/static/images/Resposive-design-media.jpeg) 
+![Image](/images/Resposive-design-media.jpeg) 
 
 Another favorite app, Tweetbot for iPhone, received a full revamp and joined the iOS 7 club, but it ditched a few features that I used frequently. I'd guess the majority of Tweetbot users are power users (read: nerds who are particular about things), because no one pays $3 for a Twitter client when they can download a functional (albeit barely, and certainly far less _delightful_) 1st-party app for free.
 

@@ -12,7 +12,7 @@ I see the value of reflection, but I rarely set aside the time to do it properly
 
 However, inspired by the end of the year, I decided to block out time to review 2014, remember the highs and lows, and save it in a [Day One](https://itunes.apple.com/us/app/day-one/id422304217?mt=12&at=11l4uNett) journal entry for future reference.
 
-![Image](/static/images/Reflecting.jpeg) 
+![Image](/images/Reflecting.jpeg) 
 
 If you missed the boat on reflecting on 2014 when it was still 2014, fear not! It's not to late to get your rearview glances in, and I'm sharing the 7 steps I took to give the year a thorough pat-down.
 

@@ -14,7 +14,7 @@ We all have the same amount of hours in the day, but we will all have a differen
 
 In the end, however, all of our clocks will eventually strike midnight. The carriage becomes a pumpkin, the spirit leaves the body, and that’s that. For now. [footnote]Because one day, for Christians, our empty, decaying body on earth will become a glorified body–a better, fuller, more beautiful carriage than ever before.[/footnote]
 
-![Image](/static/images/watch.jpeg) 
+![Image](/images/watch.jpeg) 
 
 Day to day we are all equal, but how we spend our days is where the difference lies. A woman who dies at 60, who spent her days wisely, surely had a fuller life than a man who lives to 100 and squandered the majority of his days.
 
@@ -53,7 +53,7 @@ So what do we do about this reality? To fix the problem, we need to find the pro
     </h2>
     
     <p>
-      ![Image](/static/images/track-adjust-evaluate-diagram.jpeg)
+      ![Image](/images/track-adjust-evaluate-diagram.jpeg)
     </p>
     
     <h3>

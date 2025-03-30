@@ -12,7 +12,7 @@ _Looking for the quick and dirty winner? It’s Backblaze for speed and price. [
 
 No one needs a backup until they need a backup. It’s kind of like buying insurance–completely unnecessary until something goes wrong.
 
-![Image](/static/images/backblaze-v-crashplan.jpeg) 
+![Image](/images/backblaze-v-crashplan.jpeg) 
 
 Something most definitely broke when I spilled coffee on my laptop. Despite my best efforts to resuscitate it, [footnote]I did everything short of mouth-to-mouth, and if it would have worked, I probably would have tried that too[/footnote] my laptop was cooked. The silver lining is I was able to clean it up, disassemble the beast and sell the parts–with the disclaimer that they I baptized them in coffee–for some cash to mitigate the disaster.
 

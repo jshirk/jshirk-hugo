@@ -14,7 +14,7 @@ But there’s a new brew method in my life, and we’ve been going steady for ne
 
 Meet the Chemex.
 
-![Image](/static/images/CHEMEX_Classic_8_cup_Right.jpeg) 
+![Image](/images/CHEMEX_Classic_8_cup_Right.jpeg) 
 
 If we were judging brewers by their covers, there’s no doubt the Chemex could win a beauty contest.
 
@@ -83,7 +83,7 @@ I suggest getting started with the [Chemex and filters](http://amzn.to/1OmDhZ7) 
 
 ## Chemex and Filters
 
-![Image](/static/images/611hnIvWOkL._SL1200_.jpeg)  
+![Image](/images/611hnIvWOkL._SL1200_.jpeg)  
 Surprisingly, if you want to use a Chemex, you need to have one in your possession.
 
 For $70 you can snag the [classic 8-cup Chemex](http://amzn.to/1OmDhZ7) (for the thirsty / party people out there) and a pack of 100 filters.
@@ -100,7 +100,7 @@ If we’re getting particular, I like the [square unbleached filters](http://amz
 
 ### Kitchen Scale
 
-![Image](/static/images/71w8HaoTzL._SL1500_.jpeg)  
+![Image](/images/71w8HaoTzL._SL1500_.jpeg)  
 To start, hands down, you 100% should buy a cheap kitchen scale. It will take your coffee game to the next level overnight.
 
 Any scale with a decently wide base will do–just make sure the Chemex can rest safely on it. I also prefer a scale that measures in grams, but hey, whatever mass-measuring system that floats your boat will do. The 8-cup Chemex fits perfectly on the EatSmart Precision Pro Digital Kitchen Scale.
@@ -109,7 +109,7 @@ Any scale with a decently wide base will do–just make sure the Chemex can rest
 
 ## Thermometer
 
-![Image](/static/images/51D5UdnoCRL._SL1200_.jpeg)  
+![Image](/images/51D5UdnoCRL._SL1200_.jpeg)  
 This may seem silly, but burning your coffee is easy to do. Please, for the love, don’t pour boiling water over your grounds. That’s just wrong.
 
 This [$10 Weber one](http://amzn.to/1JZl5ot) has served us well, but be careful not to submerge it fully under the water.
@@ -120,7 +120,7 @@ As a bonus, it works as a meat thermometer too.
 
 ## A Burr Grinder
 
-![Image](/static/images/71LwzvR0HL._SL1500_.jpeg)  
+![Image](/images/71LwzvR0HL._SL1500_.jpeg)  
 Fancy burr grinders can set you back hundreds. If you want to start with a more reasonably priced grinder and you’re not afraid to use a little elbow grease, this [$22 Hario hand grinder](http://amzn.to/1OmEK1C) will get you going.
 
 We’ve been using this low-end[footnote]as far as burr grinders go[/footnote][Cuisinart Burr Grinder](http://amzn.to/1YU3bVH) for _years_. It’s not good enough for a coffee shop or espresso, but for the Chemex you’ll be just fine.
@@ -131,7 +131,7 @@ We’ve been using this low-end[footnote]as far as burr grinders go[/footnote][C
 
 ## Gooseneck Kettle
 
-![Image](/static/images/51ZPeFEe2GL._SL1100_.jpeg)  
+![Image](/images/51ZPeFEe2GL._SL1100_.jpeg)  
 For just over $40 you can add the most unnecessary yet somehow life altering tool to your coffee crafting collection: a [gooseneck kettle](http://amzn.to/1OmCJCk).
 
 Most kettles have a normal spot and pour from the top, meaning you end up with about half of the water you brewed on the floor, counter, and your toes (if you brew barefoot).

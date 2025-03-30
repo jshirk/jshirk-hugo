@@ -21,7 +21,7 @@ Here are a couple resources to make things just a tiny bit easier to follow thro
   * which app the passage will open up in on your device
   * alerts and reminders for reading
 
-&nbsp;[![Image](/static/images/img_1404.jpeg)](https://jshirk.com/blog/wp-content/uploads/2016/02/img_1404.png)&nbsp;  
+&nbsp;[![Image](/images/img_1404.jpeg)](https://jshirk.com/blog/images/img_1404.png)&nbsp;  
 It's not the prettiest app, but it gets the job done.&nbsp;
 
 There are hundreds of plans available to download through the application.
@@ -39,7 +39,7 @@ I’ve been using the [M’Cheyne Bible reading plan](http://static.esvmedia.org
 
 Fortunately, I have a smart friend named Big Al who googled “how to add extra ribbons to your bible” and made me an aftermarket ribbon marker and now my Bible looks like this.
 
-&nbsp;[![Image](https://jshirk.com/blog/wp-content/uploads/2016/02/img_1402.jpeg)](https://jshirk.com/blog/wp-content/uploads/2016/02/img_1402.jpeg)&nbsp;  
+&nbsp;[![Image](https://jshirk.com/blog/images/img_1402.jpeg)](https://jshirk.com/blog/images/img_1402.jpeg)&nbsp;  
 Here’s what you need to make your own:
 
   * a Bible with a binding (i. e. leather is ideal, but basically not a paperback)
@@ -61,5 +61,5 @@ Here’s what you need to make your own:
 
 Here’s a shot of the card sliding into the binding.
 
-&nbsp;[![Image](https://jshirk.com/blog/wp-content/uploads/2016/02/img_1401.jpeg)](https://jshirk.com/blog/wp-content/uploads/2016/02/img_1401.jpeg)&nbsp;  
+&nbsp;[![Image](https://jshirk.com/blog/images/img_1401.jpeg)](https://jshirk.com/blog/images/img_1401.jpeg)&nbsp;  
 Anything I can do to reduce the friction of actually opening up my Bible is worth that effort.

@@ -10,7 +10,7 @@ categories:
 ---
 I’m learning a second language for the second time. Normally you’d consider that a third language, but when you don’t properly learn a second language the first time (read: via high school Spanish), your second second language is really your first second language.
 
-![Image](/static/images/macbook-air-iphone-moleskin.jpeg) 
+![Image](/images/macbook-air-iphone-moleskin.jpeg) 
 
 After that clarification here are a couple tools I’ve been using to make language learning a bit more automatic on my Mac.
 
@@ -20,13 +20,13 @@ I’ve mentioned [my love of PopClip](https://jshirk.com/blog/daily-mac-apps/) b
 
 For the latter, if I wanted to know what “Ne razumem” [footnote]Don’t worry, “ne razumem” is a phrase I’ve mastered in Slovene.[/footnote]means in Slovene, I can just highlight the text and click the PopClip extension that shows the translation overhead.
 
-![Image](/static/images/PopClip-autotranslate.jpeg)![Image](/static/images/PopClip-autotranslate-2.jpeg) 
+![Image](/images/PopClip-autotranslate.jpeg)![Image](/images/PopClip-autotranslate-2.jpeg) 
 
 What’s special about the second extension with the popover is that the translation is displayed _and_ copied to your clipboard. I’ve found it better to translate from Slovene to English, thus setting English as the default option since I can guess what it means if the translation is a bit off. If I go the other direction, I’m likely to get a literal (i.e. bad) translation into Slovene.
 
 Finally, I created an extension that searches the [PONS online dictionary](http://pons.com) in English and Slovene. You can customize for any languages PONS has, and it’s saved me a ton of copying and pasting and switching windows. I just highlight the word or phrase and click the extension and it brings up the website for me. You can download [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/) to make your own extensions.
 
-![Image](/static/images/PopMaker-example.jpeg) 
+![Image](/images/PopMaker-example.jpeg) 
 
 ### 2. Using Drafts to keep track of new words
 
@@ -34,7 +34,7 @@ Another oft-praised app is [Drafts](https://jshirk.com/blog/drafts-ios/), and I 
 
 Here’s a screenshot of the action. I just use the default Evernote Drafts’ setting with the title of the note changed to my vocabulary list and change it from create to prepend, so my newest words are at the top.
 
-![Image](/static/images/IMG_4704.jpeg) 
+![Image](/images/IMG_4704.jpeg) 
 
 ### 3. Using TextExpander for non-English characters
 
@@ -48,13 +48,13 @@ That’s handy, but I never need the other versions of the letters when I’m ty
 
 On the Mac the system also creates different letters if you hold down the option button and press the letter.
 
-![Image](/static/images/Letter-S-Pop-Up.jpeg) 
+![Image](/images/Letter-S-Pop-Up.jpeg) 
 
 I never use the French c with a goatee (ç), the German little l 3 (ß) or Omega (?). So, I set TextExpander to automatically replace the Option + C or S or Z letters to replace with ?, š, and ž, or in the capital variety when I hold Shift + Option + C or S or Z.
 
 To do that, just create a new snippet in TextExpander, place the character you want to type in your target language in the Content box and the default Option + Letter character in the Abbreviation box.
 
-![Image](/static/images/TextExpander-letter-c.jpeg) 
+![Image](/images/TextExpander-letter-c.jpeg) 
 
 ### 4. Keyboard Maestro for searching words
 
@@ -70,6 +70,6 @@ Here’s a 8-second video of how it works.
 
 And here’s a screenshot of the workflow.
 
-![Image](/static/images/Amebis-Workflow.jpeg) 
+![Image](/images/Amebis-Workflow.jpeg) 
 
 ## What are your favorite tips for using technology to acquire new skills?

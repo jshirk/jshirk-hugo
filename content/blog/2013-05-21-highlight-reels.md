@@ -27,7 +27,7 @@ Someone has a cuter baby than us. A bigger house. A nicer car. A better job. A m
 **We are prone to compare because we have constant access to people to compare ourselves to.**
 
 <p style="text-align: center;">
-  ![Image](/static/images/highlight-reel.jpeg)
+  ![Image](/images/highlight-reel.jpeg)
 </p>
 
 Comparison robs us of all joy. It says, _&#8220;What I have isn't enough.&#8221;_ It's a lie, a snare, a trap. It's one I fall into incredibly often, and I'm a comparer by nature. It's a nasty sin I'm trying (by the grace of God) to root out.

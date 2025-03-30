@@ -14,7 +14,7 @@ In Revelation 3:16, Jesus says he spits lukewarm followers out of his mouth. Tha
 
 As far as credentials go, I feel particularly qualified to speak to this issue because I'm still a recovering hypocrite and former lukewarm “follower” of Jesus. This isn't meant to condemn, simply to clarify what I think it means to follow Jesus.
 
-[![Image](/static/images/AUTHENTICITY.jpeg)](https://jshirk.com/blog/authenticity)
+[![Image](/images/AUTHENTICITY.jpeg)](https://jshirk.com/blog/authenticity)
 
 ### Lukewarm followers aren't really following
 

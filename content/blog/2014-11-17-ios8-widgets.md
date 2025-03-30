@@ -10,11 +10,11 @@ categories:
 ---
 It’s been two months since the release of iOS 8, and I’ve quickly taken to using widgets in the Today View. If you’ve updated to iOS 8 but haven’t explored widgets, you’re missing out.
 
-![Image](/static/images/ios-8-widgets-x1400.jpeg) 
+![Image](/images/ios-8-widgets-x1400.jpeg) 
 
 With your phone unlocked, simply pull down from the top of your screen to see your Today View, and at the bottom click the Edit button to add widgets.[footnote]You can reach your widgets via Today View at any time, but you can only edit your widgets with your phone unlocked[/footnote]
 
-![Image](/static/images/IMG_4703.jpeg) 
+![Image](/images/IMG_4703.jpeg) 
 
 Here are the widgets I’m currently rocking.<!--more-->
 
@@ -22,7 +22,7 @@ Here are the widgets I’m currently rocking.<!--more-->
 
 My favorite calendar app’s widget is all I could hope for: a quick month view, a list of events for each day, and the ability to create a new event for a day by tapping and holding a date, which opens the full Fantastical app.
 
-![Image](/static/images/Fantastical-Widget.jpeg) 
+![Image](/images/Fantastical-Widget.jpeg) 
 
 You can scroll between months, see days which have events and which are wide open–making taking a quick peek at what you have coming up a breeze.
 
@@ -34,7 +34,7 @@ When iOS 8 released, there weren’t a ton of widgets. One app ready for iOS la
 
 There are a few different options you can enable: a calculator, device usage statistics, time zones, a monthly calendar, a currency converter, and more. As an expat living abroad, I’m constantly converting dollars to euros and vice-versa, and being able to swipe down to use currency conversions without having to unlock my phone is convenient.
 
-![Image](/static/images/WDGT-Widget.jpeg) 
+![Image](/images/WDGT-Widget.jpeg) 
 
 The app functions exclusive, as the name implies, as a widget. The app itself does nothing other than offer a few settings.
 
@@ -44,7 +44,7 @@ WDGTS is [free on the App Store](https://itunes.apple.com/us/app/wdgts-collectio
 
 Clips is a slick little clipboard utility where you can save clippings for later reference and use. [footnote]Unfortunately, I still haven’t found an easy way to get my Mac clipboard over to my iPhone or vice versa[/footnote] It’s convenient to use Clips to save a few links in a row or bits of text in sequence and then paste those clips wherever you want. It also syncs across your iOS devices with a paid upgrade.
 
-![Image](/static/images/Clips-Widget.jpeg) 
+![Image](/images/Clips-Widget.jpeg) 
 
 Copy something, swipe down and add it to Clips. You can also access your last few items you saved to Clips via the widget.
 
@@ -56,7 +56,7 @@ Clips is free [in the App Store](https://itunes.apple.com/us/app/clips-copy-past
 
 I’ve tried a myriad of weather apps and I’ve finally found my (current) favorite. I want to see the temperature, see the probability of participation, and be able prepare accordingly. I love that the WU widget shows the temperature trend and likelihood of rain throughout the day. I practically never open the app because the widget view is so convenient.
 
-![Image](/static/images/Weather-Underground-Widget.jpeg) 
+![Image](/images/Weather-Underground-Widget.jpeg) 
 
 Weather Underground is [free in the App Store](https://itunes.apple.com/us/app/weather-underground-radar/id486154808?mt=8&at=11l4uNett).
 
@@ -64,7 +64,7 @@ Weather Underground is [free in the App Store](https://itunes.apple.com/us/app/w
 
 The text manipulating phenom [whose praises I’ve sung](https://jshirk.com/blog/drafts-ios) sports a simple widget to create a fresh draft or start one from what you’ve copied from the clipboard (which can pair nicely with Clips). I haven’t gotten into the habit of using the Drafts widget as frequently as I should because I have to overcome my muscle memory of going to my home screen and opening Drafts the old (read: caveman) way.
 
-![Image](/static/images/Drafts-Widget.jpeg) 
+![Image](/images/Drafts-Widget.jpeg) 
 
 Drafts is $10 [in the App Store for the iPhone / iPad universal app](https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&at=11l4uNett).
 
@@ -74,7 +74,7 @@ If you are committed to getting serious about crossing things off your to-do lis
 
 Task syncing between the Mac and iPhone version has been wonky for me since the iOS 8 upgrade, but hopefully things will be ironed out shortly.
 
-![Image](/static/images/Omnifocus-Widget1.jpeg) 
+![Image](/images/Omnifocus-Widget1.jpeg) 
 
 &nbsp;
 
@@ -86,7 +86,7 @@ Omnifocus is in the App Store for [$20 for the iPhone version](https://itunes.ap
 
 I’m into tracking my daily step count, and Pedometer++ is perfect for that. The app itself is buried in a folder nowhere near my home screen because I have all the info I need from the widget view. I get my steps on, swipe down, and see my current status. It goes from red to orange to green in color according to how close I am to reaching my goal.
 
-![Image](/static/images/Pedometer-Widget.jpeg) 
+![Image](/images/Pedometer-Widget.jpeg) 
 
 Fun fact: My European lifestyle lends itself to walking significantly more than my American self.
 

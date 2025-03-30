@@ -19,7 +19,7 @@ I'm passionate about stewardship. I believe the Lord entrusts each of us with ce
 
 Niki and I often joke that after being disciples of Jesus, we are secondly disciples of Dave Ramsey. We both write often about budgeting. We love to give. But I still haven't perfected the balance of when to buy something and when to wait. Buying material things is very much a spiritual matter with lots of gray area.
 
-[![Image](/static/images/piggy-bank.jpeg)](https://jshirk.com/blog/christian-buying-guide)
+[![Image](/images/piggy-bank.jpeg)](https://jshirk.com/blog/christian-buying-guide)
 
 Some purchases are no-brainers. If your wife is sick, buy her the medicine she needs. If your car is out of gas, put gas in the car, man! These are easy things. Many purchases aren't just about essentials. There are countless opportunities for us to use our discretion on buying things, because we have more money than we need for meeting just our needs.
 

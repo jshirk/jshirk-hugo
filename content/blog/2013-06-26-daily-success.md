@@ -24,7 +24,7 @@ What gets measured gets improved.
 I'm reasonably obsessed with personality tests, measurements, data, information and using those tools to make better decisions. Unfortunately, I have a tendency to collect data and then do nothing with it [\*&#8221;Some day I will,&#8221;\* I assure myself] or to flat out collect the wrong data.
 
 <p style="text-align: center;">
-  ![Image](/static/images/evaluation-test.jpeg)
+  ![Image](/images/evaluation-test.jpeg)
 </p>
 
 **I normally measure the success of my day by how many things I accomplished and how many things I left unfinished. **I never check off all the boxes on any given day because I'm constantly thinking of more things I need (or would like) to do. Instead of evaluating my day by the number of boxes checked and list items crossed off, I felt led to completely change my method of evaluation.

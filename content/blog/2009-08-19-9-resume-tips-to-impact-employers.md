@@ -15,7 +15,7 @@ categories:
 At some point in your life, you will realize you need a resume.  At that point, you will probably find yourself unusually irritable.  It’s a daunting task, and if you are starting from scratch, you probably think welfare sounds better than job hunting.  You realize you either have too much or too little to put on there.  If you already have a resume, you probably don’t feel like updating it because everything barely fits as it is or you can only stretch what you did so much to fill up the entire page.  I’ve been down both roads.
 
 <p style="text-align:center;">
-  ![Image](/static/images/resume-writing-tips-resumedonkey.jpeg)
+  ![Image](/images/resume-writing-tips-resumedonkey.jpeg)
 </p>
 
 I’ve seen the whole spectrum of resumes—from half-page blurbs to 10-page sagas.  The general rule of thumb is a one-page resume if you have less than ten years of experience.  Can it be longer than a page?  Sure, but I think highlighting your experience on one page is the best solution.  When you’re reading resumes, the last thing you want to do is read a career novel in bullet form.  So, here’s my list of nine tips to make sure you’re resume stands out in the crowd.

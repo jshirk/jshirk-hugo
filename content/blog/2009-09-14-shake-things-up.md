@@ -13,7 +13,7 @@ categories:
 Going with the flow is easy.  It’s easy to sit back and watch things play out when we don’t want to get involved.  It’s easy to keep things in equilibrium and refuse to stir the waters.  It’s easy to let bad things happen if a precedent has been set.
 
 <p style="text-align:center;">
-  ![Image](/static/images/water-flowing.jpeg)
+  ![Image](/images/water-flowing.jpeg)
 </p>
 
 This past week I had a chance to hear a talk from [Colonel John Venable](http://www.cancer.org/docroot/NWS/content/NWS_2_1x_Air_Force_Pilot_Beats_Cancer.asp), a former officer in the United States Air Force.  John shared stories of his experience in the military, and he specifically highlighted a few stories about his challenges when stepping in to new positions.

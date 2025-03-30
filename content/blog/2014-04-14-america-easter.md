@@ -18,7 +18,7 @@ Christmas has even spawned its own mini-celebrations of consumerism in Black Fri
 
 Americans can get behind Christmas because no one is offended by a baby being born in Bethlehem 2,000 years ago.
 
-![Image](/static/images/america-easter.jpeg) 
+![Image](/images/america-easter.jpeg) 
 
 We can say things about Christmas like,
 

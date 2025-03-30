@@ -22,7 +22,7 @@ _or_
 
 You could be the person who always finishes projects on time, arrives 5 minutes early to everything and wears a cape and spandex when it comes to group projects.
 
-![Image](/static/images/over-confident-machine.jpeg) 
+![Image](/images/over-confident-machine.jpeg) 
 
 If you're in the first group, you don't intend to be. Some disconnect happens between when an expectation is communicated and the result that you produce.
 

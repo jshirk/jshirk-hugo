@@ -12,7 +12,7 @@ I’m always looking for faster and easier ways to do things.
 
 One of those things is searching the web for a person or term I come across but I’m not familiar with on iOS.
 
-![Image](/static/images/iphone-search.jpeg) 
+![Image](/images/iphone-search.jpeg) 
 
 If you want to look something up without using Siri[footnote]That is, not telling Siri, “Search the web for …”[/footnote] , which, is handy but in general quite shameful in public place, you have a couple of options.
 

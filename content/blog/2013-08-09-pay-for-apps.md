@@ -16,7 +16,7 @@ In the process, I've spent my fair share of digital cash on apps and software. A
 
 Sticking with free apps is absolutely their prerogative (and there are _lots_ of good ones out there), but here's a few reason why I regularly pay for apps.
 
-![Image](/static/images/app-store.jpeg) 
+![Image](/images/app-store.jpeg) 
 
 ## <!--more-->1. If you don't buy the product, you (probably) are the product.
 

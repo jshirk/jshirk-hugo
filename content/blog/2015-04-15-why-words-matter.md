@@ -14,7 +14,7 @@ Words are just as important as ever.
 
 Jokes don’t come through as clearly in text, tone is uncertain, and ambiguity reigns, especially if you try to communicate without the use of parenthetical emotional explanation or a few emoji.
 
-![Image](/static/images/writing.jpeg) 
+![Image](/images/writing.jpeg) 
 
 I’ve experienced the frustration of not having the right word frequently lately. When you’re trying to explain something in a new language, your ability to communicate is greatly hindered by your lack of vocabulary. Stories aren’t quite as funny without the right word. Meaning is muddled without the same accuracy as before. Polished statements are nearly impossible and poignancy is checked at the door of a fresh non-native tongue.
 

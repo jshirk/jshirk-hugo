@@ -27,7 +27,7 @@ If you're in a career that involves anything interpersonal, any requirement to u
 
 That's not necessarily a _bad_ thing. No, don't let work get in the way of the most important things in life, but if you really love your work, bringing it home can be good (and even enjoyable).
 
-[![Image](/static/images/unfinished-building.jpeg)](https://jshirk.com/blog/unfinished-work)
+[![Image](/images/unfinished-building.jpeg)](https://jshirk.com/blog/unfinished-work)
 
 Here's the main issue between the lines of work and life blurring together: when are you finished? I'm trying to answer that myself.
 

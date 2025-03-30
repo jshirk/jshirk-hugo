@@ -17,7 +17,7 @@ Usually, productivity is left to gurus and hackers, while theology is reserved f
 Matt Perman has written about productivity from a Christian perspective for years at [whatsbestnext.com](http://whatsbestnext.com). He helped build John Piper's Desiring God ministry, and he's more than qualified to merge theology and productivity. His book is a treat through and through, and I'll be referencing, re-reading, and recommending it for years to come.
 
 <p style="text-align: center;">
-  ![Image](/static/images/whats-best-next.jpeg)
+  ![Image](/images/whats-best-next.jpeg)
 </p>
 
 [Note: This is one of my longest posts ever. If you trust my judgment, go buy _What's Best Next_ right now, at [Amazon](http://http://www.amazon.com/Whats-Best-Next-Gospel-Transforms/dp/0310494222/ref=sr_1_1?ie=UTF8&qid=1394130505&sr=8-1&keywords=what%27s+best+next) (affiliate) or [WTS Books](http://www.wtsbooks.com/index/page/product/product_id/10220/product_name/What%27s+Best+Next%3A+How+the+Gospel+Transforms+the+Way+You+Get+Things+Done?utm_source=jshirkman&utm_medium=blogpartners). Feel free to skim and scan this review to get a glimpse into why I loved the book.]

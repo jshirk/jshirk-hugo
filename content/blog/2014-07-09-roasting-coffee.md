@@ -21,7 +21,7 @@ Without further ado, here’s how you can get neck-deep in the fresh-coffee-roas
 We snagged the [West Bend Air Crazy](http://www.amazon.com/gp/product/B0036WS1GY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0036WS1GY&linkCode=as2&tag=thepoiofimp-20&linkId=I3QH3KLCGCJ6VI2F) on Amazon for just over $20. This is what you'll use to roast your fresh coffee beans. It's far, _far_ cheaper than traditional roasting methods, and way better than heating beans up on the stove top or in your oven because of the way the hot air roasts the beans.
 
 <div id="attachment_3473" style="width: 410px" class="wp-caption aligncenter">
-  ![Image](/static/images/Popper-with-Net-e1404689354826.jpeg)
+  ![Image](/images/Popper-with-Net-e1404689354826.jpeg)
   
   <p id="caption-attachment-3473" class="wp-caption-text">
     The West Bend Air Crazy, with a net to catch chaff.
@@ -35,7 +35,7 @@ We order the [8-pound sampler](http://www.sweetmarias.com/store/coffee-list/oth
 In general, after shipping, you’ll end up paying $7 &#8211; $9 per pound, which is more than Folgers, but less than local and fancy roasters.
 
 <div id="attachment_3475" style="width: 510px" class="wp-caption aligncenter">
-  ![Image](/static/images/Sweet-Marias-e1404689379548.jpeg)
+  ![Image](/images/Sweet-Marias-e1404689379548.jpeg)
   
   <p id="caption-attachment-3475" class="wp-caption-text">
     A bag of fresh green coffee beans from Sweet Maria's.
@@ -65,7 +65,7 @@ Currently, we use:
 The beans will begin to turn brown. We like a medium to dark medium roast, but the darkness of the roast changes the flavors. We do ours pretty much to the same color, but Sweet Maria’s has suggestions for what roast to do for each bean. Also, here's Sweet Maria's [guide](https://www.sweetmarias.com/library/content/using-sight-determine-degree-roast) to what color is what type of roast. Understanding what level of roast the beans are at is hard to determine. You’ll hear beans begin to crack, and most roasts should wrap up shortly (30 to 90 seconds) after the first crack and before the second crack. If it starts to smell bad, that’s normal. If it smells _really_ bad, it’s probably time to pull the beans out.
 
 <div id="attachment_3472" style="width: 510px" class="wp-caption aligncenter">
-  ![Image](/static/images/Green-and-Brown.jpeg)
+  ![Image](/images/Green-and-Brown.jpeg)
   
   <p id="caption-attachment-3472" class="wp-caption-text">
     A comparison of the beans–before and after roasting
@@ -80,11 +80,11 @@ The beans will begin to turn brown. We like a medium to dark medium roast, but t
   4. You can put in more beans than you think. We started with only 2.5oz of beans in the popper, but now we fill the chamber ¾ of the way. It takes a little longer per batch, but overall you’re getting more roasting done this way.
   5. Don’t worry about screwing up. We haven’t burnt a single batch. Some coffees we didn’t care for us much, but almost all were better than your average cup of joe.
   6. Try a couple brew methods. A drip coffee maker is not going to do the trick. I suggest an [AeroPress](http://www.amazon.com/AeroPress-Coffee-Espresso-Maker-Filters/dp/B001HBCVX0/ref=sr_1_2?ie=UTF8&qid=1403274795&sr=8-2&keywords=aeropress) or a [Chemex](http://www.amazon.com/Chemex-8-Cup-Classic-Series-Coffeemaker/dp/B000I1WP7W/ref=sr_1_1?ie=UTF8&qid=1403274816&sr=8-1&keywords=chemex+8+cup). We’ve fallen in love with the Chemex. It takes a bit longer than AeroPress, but you can make more and it’s delicious. Some coffees taste better in one method than the other. If it tastes funky, try a different way, because a bland or boring coffee in one method could be outstanding in a different method. We explore the different methods a [bit in this podcast episode](http://unpacked.co/3).
-  7. Enjoy the process. How many hipsters roast their own coffee? Niki and I like giving away our coffee we roast as a gift with the Shark Coffee Co label. ![Image](/static/images/Shark-Coffee-Co.jpeg)
+  7. Enjoy the process. How many hipsters roast their own coffee? Niki and I like giving away our coffee we roast as a gift with the Shark Coffee Co label. ![Image](/images/Shark-Coffee-Co.jpeg)
   8. Drink the coffee within a few weeks. Some people say the taste peaks around 7 &#8211; 10 days. **Definitely wait at least overnight to let the CO2 escape** (be sure to leave the lid on a mason jar cracked to let the air escape) and feel free to brew the next morning.
 
 <div id="attachment_3474" style="width: 510px" class="wp-caption aligncenter">
-  ![Image](/static/images/Sumatra-in-Jar.jpeg)
+  ![Image](/images/Sumatra-in-Jar.jpeg)
   
   <p id="caption-attachment-3474" class="wp-caption-text">
     The finished product.

@@ -19,7 +19,7 @@ In my encounters, visions and near death experiences top the charts in what it w
 I understand where they’re coming from. They need some proof. They need an experience. Just like you need to drink a cup of the World’s Best Coffee to believe it’s the real deal.
 
 <p style="text-align: center;">
-  ![Image](/static/images/burnbush.jpeg)
+  ![Image](/images/burnbush.jpeg)
 </p>
 
 > “If Christians really believe in God, the God who created the universe, it should be no problem for Him to show Himself to me.”

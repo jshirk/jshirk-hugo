@@ -24,7 +24,7 @@ A quick calculation, Google search or dictionary reference&#8211;all of which no
 
 Unfortunately, we're rarely rewarded for being the best question _askers_&#8211;a far less common skill and one that will serve you for a lifetime.
 
-[![Image](/static/images/ASKING-answering.jpeg)](https://jshirk.com/blog/asking-vs-answering)
+[![Image](/images/ASKING-answering.jpeg)](https://jshirk.com/blog/asking-vs-answering)
 
 Anyone with an internet connection can find the right answer. Few people can asking well-crafted questions that drive conversations, create genuine connections and get to the root of problems. We haven't been trained to be good question askers, and we as a society need to fix that. **No one likes a know-it-all. Everyone loves a listener.** I think question asking is a key to humility as well, because it shows you care what others think.
 

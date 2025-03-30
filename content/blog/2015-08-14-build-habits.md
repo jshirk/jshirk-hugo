@@ -14,7 +14,7 @@ Our subconscious is constantly processing things for us so we don’t have to th
 
 Or how to be impatient with people who frustrate us or how to sit on the couch and watch Netflix instead of exercising or how to waste money on frivolous purchases.
 
-![Image](/static/images/4SGERWWL1U.jpeg) 
+![Image](/images/4SGERWWL1U.jpeg) 
 
 For the last year and a half, I’ve been thinking a lot about habits. I’ve written about [developing new ones](https://jshirk.com/blog/evening-routine/) and recorded a [podcast](http://unpacked.co/4) on habits, and I’ve encountered a [number](http://amzn.to/1HIh8wk) of [books](http://amzn.to/1JeqUNY) focusing on these tiny building blocks that dictate so much of what we do.
 

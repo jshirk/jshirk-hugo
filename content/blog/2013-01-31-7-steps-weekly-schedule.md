@@ -21,7 +21,7 @@ Naturally, my life is as organized as an elementary school recess: lots of frant
 
 Since I have a tendency to forget and lose things, I've had to train myself to spend my time more wisely. I have by no means mastered it. Time is a wild beast that can't ever be perfectly tamed. I've come up with a system to hack myself a bit and make sure I'm accomplishing the most important things, which is ultimately the goal of time management.
 
-![Image](/static/images/taming-time.jpeg)  
+![Image](/images/taming-time.jpeg)  
 1. **Do the most important thing first, every day.** Each morning I commit to reading the Bible before anything else. I'm trying to kick the habit of catching up on 100+ tweets when I wake up since I'm 6 hours ahead of most of the people I follow. I get distracted, start reading articles, and start thinking and reading and favoriting and linking and then my morning is blown. So, I've started jumping out of bed, throwing a pot of coffee on and cracking open the Word.<!--more-->
 
 2. **Make a list of the most important things to do for that day.** I know that I'm probably not going to get everything on my list done. That's ok. I'm incredibly motivated by checking things off a list (so, yes, I even add things I didn't have on my list originally _just_ to check them off). Once I make the list, I reorganize it and put the most important things first, group tasks together that can be done at the same time, and do quick ones right away to build some momentum.

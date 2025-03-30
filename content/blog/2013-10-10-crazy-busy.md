@@ -18,7 +18,7 @@ I can't remember the last time I asked someone how they were doing and &#8220;bu
 
 Busyness is cool. It's a sign of importance. It says, &#8220;I have a demanding job, family, and life&#8221; and sometimes adds, &#8220;and I'm not afraid to let you know.&#8221; It's not always in pride. In reality, most of us _are_ busy. It's a badge of honor worn proudly, and we can't help but let people see it.
 
-[![Image](/static/images/crazy-busy.jpeg)](https://jshirk.com/blog/crazy-busy)
+[![Image](/images/crazy-busy.jpeg)](https://jshirk.com/blog/crazy-busy)
 
 [Kevin DeYoung](http://thegospelcoalition.org/blogs/kevindeyoung/), one of my favorite authors, has written a &#8220;mercifully short book&#8221; about busyness–_[Crazy Busy](http://goo.gl/CIrZzh)._
 

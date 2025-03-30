@@ -21,7 +21,7 @@ Everyone has their own idea of the [the best way to use Twitter](https://jshirk.
 
 You don't need to follow all of these tips, but if you want to gain followers, be helpful, and use this tool for maximum impact, I highly suggest taking this advice to heart. There's no condemnation if you decide to eschew the rules of Twitter engagement below, but consider yourself warned: it will be really hard for me (or anyone else) to follow you if you're tweeting all crazy.
 
-![Image](/static/images/twitter-stop1.jpeg) 
+![Image](/images/twitter-stop1.jpeg) 
 
 <!--more-->
 
@@ -69,7 +69,7 @@ The beauty of Twitter is passing along valuable information. Do this often.
 
 If it's not one of those things, send a text message of it to yourself and let that be the end of it. Like this.
 
-![Image](/static/images/Screen-Shot-2013-02-23-at-7.48.38-PM.jpeg) 
+![Image](/images/Screen-Shot-2013-02-23-at-7.48.38-PM.jpeg) 
 
 ## **10. If you share from Instagram, make sure the caption isn't cut off.**
 

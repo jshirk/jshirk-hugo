@@ -14,7 +14,7 @@ You probably wouldn’t attend a peace talk from Vladimir Putin or a read a fina
 
 So why listen to a podcast from a technophile on being present and putting his phone down?
 
-![Image](/static/images/Being-Present.jpeg) 
+![Image](/images/Being-Present.jpeg) 
 
 ###### Image provided by [Death to the Stock Photo](http://deathtothestockphoto.com)
 

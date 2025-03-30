@@ -28,7 +28,7 @@ I've fallen in love with learning over the last few years. I always have somethi
 
 Below, I've compiled a list of my favorite ways to destroy boredom.
 
-![Image](/static/images/destroy-boredom.jpeg) 
+![Image](/images/destroy-boredom.jpeg) 
 
 ## **<!--more-->Subscribe to remarkable podcasts.**
 

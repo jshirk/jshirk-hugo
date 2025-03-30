@@ -30,7 +30,7 @@ _(Here's a quick synopsis of my Dollar Shave Club review: it rocks. Their blad
 
 ## The Dollar Shave Club Blade Options
 
-![Image](/static/images/Dollar-Shave-Club-Options.jpeg) <!--more-->
+![Image](/images/Dollar-Shave-Club-Options.jpeg) <!--more-->
 
 Upon your decision to test the DSC waters, you have three disposable razor options. I went with the 4x that costs $6 per month. I nixed The Humble Twin because shaving with two blades is pre-historic, but $9 a month for the Executive seemed too steep. I decided I didn't need the extra backside trimming blade, because I pretty much always cut myself with it on the Fusion. So, the 4x aka &#8220;The Lover's Blade&#8221; was the Goldilocks. And, _spoiler alert_, it's pretty much perfect.
 
@@ -38,7 +38,7 @@ Upon your decision to test the DSC waters, you have three disposable razor optio
 
 Each month DSC sends a confirmation email letting you know when your blades will ship (which is nice if you realize you want to switch to the every other month plan if you need fewer than 4-blades per month). The package arrives via USPS and took about three days to get to me in Northeast Ohio. It comes in a package that looks like this.
 
-![Image](/static/images/dollar-shave-club.jpeg) 
+![Image](/images/dollar-shave-club.jpeg) 
 
 ## The Razor Handle
 

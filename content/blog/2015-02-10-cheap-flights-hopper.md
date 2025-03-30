@@ -10,7 +10,7 @@ categories:
 ---
 I’ve long been a fan of [Kayak.com](http://kayak.com) for all of my flight booking needs, but there’s a new sheriff in town.
 
-![Image](/static/images/Hopper-Header-Image.jpeg) 
+![Image](/images/Hopper-Header-Image.jpeg) 
 
 [Hopper](https://itunes.apple.com/us/app/hopper-flight-research-predictions/id904052407?mt=8&at=11l4uNett) is a free iOS app that helps you find the best prices for flights. It’s a bit different from other apps and services because it uses algorithms to _constantly_ check flight prices. You can set “Watch Trips” which alerts you the minute prices drop or if Hopper thinks prices will go up soon. Other services only do daily searches and send email digests, while Hopper is at work constantly.
 
@@ -32,7 +32,7 @@ We don’t have any air travel plans for the foreseeable future, but I’m so en
 
 Hopper color codes upcoming dates to show you when the cheapest and most expensive times to fly. The running rabbit while results load is mesmerizing, too.
 
-![Image](/static/images/IMG_5432.jpeg) 
+![Image](/images/IMG_5432.jpeg) 
 
 It’s incredibly easy to set your dates and adjust them. Adjusting dates to find the best deals is one of the most frustrating parts of using most services, but Hopper makes it a breeze.
 
@@ -40,7 +40,7 @@ It’s incredibly easy to set your dates and adjust them. Adjusting dates to fin
 
 Depending on your flight pattern, Hopper estimates if prices are likely to rise or fall in the future, going as far as saying, “Prices will probably rise by $160 after May 6.” The proverbial question is, “When is the best time to buy,” and while it’s still not fully answered, Hopper gives you a better picture of the best buying window.
 
-![Image](/static/images/Hopper-Screenshot-08.jpeg) 
+![Image](/images/Hopper-Screenshot-08.jpeg) 
 
 ### A Quick Example
 
@@ -50,7 +50,7 @@ Kayak, with alternate airports and +/–3 days enabled, gave me a best price opt
 
 Hopper, with its suggestions, told me to snag a flight from Zagreb, Croatia (ZAG) which is only about an hour away from us and suggested alternative dates as well, and I found roundtrip flights for $560.[footnote]$560 for transatlantic action is out-of-control cheap, in case you were wondering[/footnote] That’s a $174 savings!
 
-![Image](/static/images/Hopper-Screenshot-02.jpeg) 
+![Image](/images/Hopper-Screenshot-02.jpeg) 
 
 ### Drawbacks and Wrapping Up
 

@@ -15,7 +15,7 @@ I've tried to learn guitar a half-dozen times. By <em style="line-height: 18px;"
 The furthest I've ever made it was three days in a row of practice. My new record is 5 weeks (and counting!)
 
 <p style="text-align: center;">
-  ![Image](/static/images/guitar.jpeg)
+  ![Image](/images/guitar.jpeg)
 </p>
 
 What changed? Well for one, my level of effort. For the rest, these are my lessons of learning guitar that apply to pretty much anything.

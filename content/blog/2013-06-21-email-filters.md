@@ -28,7 +28,7 @@ Here's what I do. This process is for anyone using Gmail or a Google Apps accoun
 I'll share the general guidelines first and then get into the nitty gritty.
 
 <p style="text-align: center;">
-  ![Image](/static/images/email-key.jpeg)
+  ![Image](/images/email-key.jpeg)
 </p>
 
 ## Regaining Control of Your Inbox Through Filters and Labels
@@ -45,7 +45,7 @@ Only leave email that needs a response or some type of follow up in your actual 
 
 I filter every email from brands, businesses, blog subscriptions, receipts, etc. into one label (essentially a folder) I call _Newsletters_. You can call it whatever you want.
 
-![Image](/static/images/Screen-Shot-2013-06-12-at-8.47.51-PM.jpeg) 
+![Image](/images/Screen-Shot-2013-06-12-at-8.47.51-PM.jpeg) 
 
 I use filters (which I'll explain shortly) to send everything that's not a direct personal communication from another human being into this Newsletters label. Those emails skip my inbox and go directly to this label, so I'm not interrupted by deals from Southwest.
 
@@ -53,7 +53,7 @@ To create a label, which in this situation will work as a folder for emails, fol
 
 &nbsp;
 
-![Image](/static/images/Screen-Shot-2013-06-12-at-8.48.46-PM.jpeg) 
+![Image](/images/Screen-Shot-2013-06-12-at-8.48.46-PM.jpeg) 
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Let's say a random business newsletter that _by law_ requires an option to unsub
 
 &nbsp;
 
-![Image](/static/images/unsubscribe.jpeg) 
+![Image](/images/unsubscribe.jpeg) 
 
 &nbsp;
 
@@ -87,7 +87,7 @@ Let's say a random business newsletter that _by law_ requires an option to unsub
 
 &nbsp;
 
-![Image](/static/images/Screen-Shot-2013-06-12-at-8.55.07-PM.jpeg) 
+![Image](/images/Screen-Shot-2013-06-12-at-8.55.07-PM.jpeg) 
 
 &nbsp;
 

@@ -24,7 +24,7 @@ Unless you're a caveman, you probably put your money in some type of bank. You m
 
 I consider myself a bit of a bank connoisseur. Currently, we have five financial institutions at our disposal, and yes, that is too many. If it wasn't for my rational wife, we'd have even more because I'm a bank addict (further confirming I'm an absolute nerd).
 
-![Image](/static/images/schwab-ally.jpeg) 
+![Image](/images/schwab-ally.jpeg) 
 
 From purely anecdotal evidence, lots of people have banks they are moderately happy or even unhappy with, but they don't know what their other options are or don't have time to research new options. Friends, your banking problem is about to get solved.
 

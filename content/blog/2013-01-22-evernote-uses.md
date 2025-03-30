@@ -25,7 +25,7 @@ Imagine a junk drawer that had a search bar. You throw everything you'll ever ne
 
 Meet your digital junk drawer: [Evernote][1].
 
-![Image](/static/images/evernote.jpeg) 
+![Image](/images/evernote.jpeg) 
 
 I tried to use Evernote a few years ago and I gave up on it fairly quickly. I was using it all wrong. I found if you aren't using it for everything it's more of a hassle than a help. It should become your go-to app for absolutely everything that you're writing, archiving, and referencing digitally.
 

@@ -16,7 +16,7 @@ tags:
 ---
 There's a new most-used app on my iPhone.
 
-Upon first inspection it seems to be a simple note-taking app. But underneath the hood it's the equivalent of a hybrid electric car getting over 200 miles per gallon. I came across [Drafts for iOS](https://itunes.apple.com/us/app/drafts/id502385074?mt=8&at=11l4uN) thanks to David Sparks of [MacSparky](http://macsparky.com). I've [mentioned](https://jshirk.com/blog/iphone-home-screen/) the app before, but I thought I'd share more in-depth about how I've come to use and love it and how it's made it's way into the illustrious iPhone dock.![Image](/static/images/drafts-header.jpeg) First, here's a sampling of what I use it for. I'll get into the specifics a bit further down:
+Upon first inspection it seems to be a simple note-taking app. But underneath the hood it's the equivalent of a hybrid electric car getting over 200 miles per gallon. I came across [Drafts for iOS](https://itunes.apple.com/us/app/drafts/id502385074?mt=8&at=11l4uN) thanks to David Sparks of [MacSparky](http://macsparky.com). I've [mentioned](https://jshirk.com/blog/iphone-home-screen/) the app before, but I thought I'd share more in-depth about how I've come to use and love it and how it's made it's way into the illustrious iPhone dock.![Image](/images/drafts-header.jpeg) First, here's a sampling of what I use it for. I'll get into the specifics a bit further down:
 
   * Writing reminders for myself
   * Taking down notes and quotes from (library) books I'm reading
@@ -81,7 +81,7 @@ Here are a few of my favorite recipes that I've cooked up under custom actions.
 
   * **Add to blog post ideas.** I'm always thinking of new ideas I'd like to write about. This adds it to my one running list. I use these same settings to add things to my wish list of purchases for myself, financial updates I need to make to our budget that I reference in Evernote, a list of running ideas, great quotes and my reading list. Here's a screenshot of how I've set it up and a few tips.
 
-![Image](/static/images/drafts-to-evernote.jpeg) 
+![Image](/images/drafts-to-evernote.jpeg) 
 
   * Make sure under title you have typed the name of the note you have in Evernote _exactly_ the same way into Drafts. If you ever change the name of the note in Evernote, you'll need to update it in drafts or instead of adding to your note it will create a new note.
   * Type the notebook name exactly as you have it

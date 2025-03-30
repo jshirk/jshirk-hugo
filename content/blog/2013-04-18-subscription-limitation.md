@@ -24,7 +24,7 @@ It's obvious by the success of Spotify ($10 a month for all the ad-free music yo
 Businesses love subscriptions because they generate recurring income with no added costs.&nbsp;While they are beautiful for business, costs compound quickly for consumers.
 
 <p style="text-align: center;">
-  ![Image](/static/images/subscription-limitation.jpeg)
+  ![Image](/images/subscription-limitation.jpeg)
 </p>
 
 We all have a finite amount of subscriptions we can support based on our income, but we can transpose the subscription-model idea to our time as well.

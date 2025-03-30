@@ -20,7 +20,7 @@ _(Confession: I just used the mouse and now I'm kicking myself. I definitely hav
 
 If you're ready to be so fast and so furious, so you can get back to the things that matter, check out my favorite shortcuts below.
 
-[![Image](/static/images/keyboard.jpeg)](https://jshirk.com/blog/no-mouse-mac)
+[![Image](/images/keyboard.jpeg)](https://jshirk.com/blog/no-mouse-mac)
 
 I haven't included every keyboard shortcut, but only the ones that I find the most helpful. I'd love to hear what some of your favorite shortcuts are in the comments.<!--more-->
 

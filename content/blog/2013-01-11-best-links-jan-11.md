@@ -22,7 +22,7 @@ tags:
 
 Sometimes the Internet features pretty neat things. I sift through all the junk and leave you with the weekly gold, right here. Enjoy.
 
-![Image](/static/images/Screen-Shot-2013-01-13-at-11.58.58-AM.jpeg) 
+![Image](/images/Screen-Shot-2013-01-13-at-11.58.58-AM.jpeg) 
 
 [charity: water Project Photos and Stories](http://mycharitywater.org/p/myprojects?member_id=47426)
 

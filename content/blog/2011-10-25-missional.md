@@ -17,7 +17,7 @@ Isn't it funny how those who clean houses for a living have dirty homes? Or how 
 It seems backwards, but I'm an offender myself. **I'm a missionary who isn't missional.**
 
 <p style="text-align: center;">
-  ![Image](/static/images/newnewton.jpeg)
+  ![Image](/images/newnewton.jpeg)
 </p>
 
 Talking with college students about Jesus is my day job, and I've recently realized I have a tendency to leave my work on campus. I have a heart to reach Ohio University for Jesus, but I've managed to forget my duty to share my faith outside of my vocation.

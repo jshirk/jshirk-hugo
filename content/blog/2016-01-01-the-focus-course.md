@@ -18,7 +18,7 @@ Jim Elliot’s quote continues to resonate with me.
 
 I haven’t come close to fully living that out yet. But I’m working on it, with a lot of help from _[The Focus Course](https://thefocuscourse.com/?ref=4)_ by Shawn Blanc. [Shawn](http://shawnblanc.net) is a prolific writer about creativity, focus, intentionality and runs a few of my favorite websites: [Tools and Toys](http://toolsandtoys.net) and [The Sweet Setup](http://thesweetsetup.com).
 
-![Image](/static/images/the-focus-course.jpeg) 
+![Image](/images/the-focus-course.jpeg) 
 
 ## What is _The Focus Course_?
 
@@ -67,7 +67,7 @@ Shawn continues to improve the course and invest in it heavily. Shawn recently r
 
 It’s beautifully designed and you can cruise through the course with any device. My personal preference is on iOS. You’ll be able to see all the modules you’ve completed and see your progress as you go through. There’s also a members forum section where you can provide feedback, connect with others, and share what you’re learning and processing.
 
-![Image](/static/images/image53-1.jpeg) 
+![Image](/images/image53-1.jpeg) 
 
 ## Favorite Aspects
 

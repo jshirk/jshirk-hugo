@@ -26,7 +26,7 @@ This isn't a perfect process, but it is a way to equip yourself in answering qu
 Instead of answering specific questions, I'd rather share ways to prepare to answer tough questions and pass along a few resources you can start checking out today.
 
 <p style="text-align: center;">
-  ![Image](/static/images/answering-questions.jpeg)
+  ![Image](/images/answering-questions.jpeg)
 </p>
 
 ## The Process<!--more-->

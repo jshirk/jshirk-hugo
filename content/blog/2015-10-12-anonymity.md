@@ -18,7 +18,7 @@ And why is that?
 
 **Because it's anonymous.** [footnote]Ok, not really 100% anonymous, but anonymous enough to be the righthand man of foolishness.[/footnote]
 
-![Image](/static/images/traffic.jpeg) 
+![Image](/images/traffic.jpeg) 
 
 It's the same reason that we wish the most horrible kinds of evil on that person who cut us off in traffic.
 

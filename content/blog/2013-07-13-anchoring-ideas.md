@@ -28,7 +28,7 @@ I recently read the free ebook [_The Myth of the Garage_](http://www.amazon.com/
 > 
 > [A]nchoring is easier than explaining from scratch&#8230;
 
-![Image](/static/images/anchor-on-shore.jpeg) 
+![Image](/images/anchor-on-shore.jpeg) 
 
 Anchoring is latching your idea to something that already exists and using that as a launching pad. Of course, you can't just say &#8220;_We're like Starbucks_.&#8221; You need what the Heath brothers call &#8220;a twist.&#8221;
 

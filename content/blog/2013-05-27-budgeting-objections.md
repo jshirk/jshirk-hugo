@@ -20,7 +20,7 @@ The idea of creating a budget turns people into TSA Agents because they are not 
 
 Budgeting carries negative connotations because it is restricting and difficult (like eating healthy food and exercising regularly, another _awful_ thing smart people suggest).
 
-[![Image](/static/images/overruled-budgeting-myths.jpeg)](http://https://jshirk.com/blog/budgeting-objections)
+[![Image](/images/overruled-budgeting-myths.jpeg)](http://https://jshirk.com/blog/budgeting-objections)
 
 **We don't like doing hard things**. So of course budgeting is something we are _absolutely not_ interested in.
 

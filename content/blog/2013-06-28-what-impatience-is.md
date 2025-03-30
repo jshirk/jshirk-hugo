@@ -22,7 +22,7 @@ That's a nasty thought, but it's undoubtedly one that crosses my mind more often
 
 I've long-confessed that I'm impatient. My honesty about my lack of patience made my feel ok that I was a ticking time bomb.
 
-![Image](/static/images/impatient-kid.jpeg) 
+![Image](/images/impatient-kid.jpeg) 
 
 As I reflected back on [my time overseas](https://jshirk.com/blog/leading-overseas/) in Slovenia, I realized that one blatant sin that summed up my whole year was _impatience_.
 

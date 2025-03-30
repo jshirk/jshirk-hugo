@@ -14,7 +14,7 @@ Responsive design, web design that enables websites to automatically resize and 
 >   A full-sized, desktop-oriented web page displayed on my much smaller phone screen makes standard web font turn into an eye exam.
 > </p>
 
-[![Image](/static/images/responsive-screens.jpeg)](https://jshirk.com/blog/responsive-ministry)
+[![Image](/images/responsive-screens.jpeg)](https://jshirk.com/blog/responsive-ministry)
 
 Practically any major website you can think of has responsive design enabled, and even mom and pop sites (like this one) can figure out responsive design with a template or a few simple coding tweaks. Nearly a third of all traffic to my blog comes from mobile devices, and serving up content on a mobile device the same way I would to someone using a laptop or desktop computer is frustrating for the user. It communicates, &#8220;I know this looks like crap, but it's better than nothing.&#8221;
 
@@ -22,7 +22,7 @@ Practically any major website you can think of has responsive design enabled, an
 
 ## The Evangelism Model
 
-Our head of research and development for Cru, Keith Davy, developed a concept called [_The Evangelism Model_](http://crupressgreen.com/wp-content/uploads/2012/03/Evangelism-Design.pdf). Keith walks through five components in the model, including The Master, the Message, the Messengers, the Masses (the world as an audience) and effective Methods. The Master, the Message and the Messengers always remain the same. The _Master_, God the Father, is ultimately sovereign and in control. His _Message_ of salvation, the gospel, to all who believe in Jesus will always be the same: repent and believe (no matter what the emphasis du jour—gospel-centered, missional, social justice, etc. is). The Messengers, although they change _individually_, will _corporately_ remain the same as God's people, the Church around the world.
+Our head of research and development for Cru, Keith Davy, developed a concept called [_The Evangelism Model_](http://crupressgreen.com../images/Evangelism-Design.pdf). Keith walks through five components in the model, including The Master, the Message, the Messengers, the Masses (the world as an audience) and effective Methods. The Master, the Message and the Messengers always remain the same. The _Master_, God the Father, is ultimately sovereign and in control. His _Message_ of salvation, the gospel, to all who believe in Jesus will always be the same: repent and believe (no matter what the emphasis du jour—gospel-centered, missional, social justice, etc. is). The Messengers, although they change _individually_, will _corporately_ remain the same as God's people, the Church around the world.
 
 But a few things do change: the communication Methods and the Masses<sup>1</sup> who will hear.
 

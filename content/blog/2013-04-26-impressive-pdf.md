@@ -23,7 +23,7 @@ If you've ever wrestled with Microsoft Word for an hour trying to line up a few 
 
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?--> At some point, everyone needs to make a PDF with pictures, lots of different text boxes and other vital information. We do this every month for our newsletter we send out to our ministry partners. It looks like this.
 
-![Image](/static/images/newsletter-example.jpeg) 
+![Image](/images/newsletter-example.jpeg) 
 
 Our monthly letters contain only two rounded rectangles (one at the top and bottom with our information), three main text boxes (for our main story, a box for prayer requests, and a caption for our photos) and two to three photos. It's really that easy. Here's how you can make a slick 1-page PDF in 20 minutes flat.
 
@@ -50,7 +50,7 @@ You can easily align pictures, boxes and text to create a super clean, professio
   5. Choose custom slide size.
   6. Make the dimensions 768 width x 1024 height (for a standard American 8.5&#8243; x 11&#8243; paper size)
 
-![Image](/static/images/keynote-inspector.jpeg) 
+![Image](/images/keynote-inspector.jpeg) 
 
 Now it's time to rock the design.
 
@@ -62,25 +62,25 @@ To add pictures, just drag and drop them in from your desktop or other folder or
 
 Let's say we start with four boxes.
 
-![Image](/static/images/Keynote-1.jpeg) 
+![Image](/images/Keynote-1.jpeg) 
 
 Select all the objects you'd like to align (by holding shift and clicking each item, or in this case clicking Command + A to select all).
 
 Next, right click and choose Align Objects. Now you have a six options for aligning your objects perfectly.
 
-![Image](/static/images/Keynote-6.jpeg) 
+![Image](/images/Keynote-6.jpeg) 
 
 Top &#8211; Middle &#8211; Bottom are _horizontal_ alignments, so they will display this way if I choose middle.
 
-![Image](/static/images/Keynote-4.jpeg) 
+![Image](/images/Keynote-4.jpeg) 
 
 The other set of alignment options are Left &#8211; Center &#8211; Right which are vertical alignments, so they will line up like this if I choose center.
 
-![Image](/static/images/Keynote-5.jpeg) 
+![Image](/images/Keynote-5.jpeg) 
 
 Now, let's get these boxes equally spaced out. To do that, select all objects again and right click, and choose Distribute > Vertically. Then, we'll have boxes nice and equally spread out on the page.
 
-![Image](/static/images/Keynote-3.jpeg) 
+![Image](/images/Keynote-3.jpeg) 
 
 You can align text boxes, shapes, pictures&#8211;whatever you insert into your Keynote document, just like I showed you above. It's incredibly easy to use and you can make sure things are lined up perfectly to create a crisp, clean PDF.
 
@@ -103,7 +103,7 @@ Once you've locked down your design with perfect alignment, the final key is exp
 
 It seems a bit complicated at first, but once you get the hang of what to check and uncheck where, with a mere 15 seconds at the front-end and back-end of your creation you'll have a PDF made like a boss.
 
-![Image](/static/images/keynote-print-options-PDF.jpeg) 
+![Image](/images/keynote-print-options-PDF.jpeg) 
 
 I'm sure you can do similar things in Powerpoint, but if you have a Mac, Keynote is worth the money for presentations and PDF creations.
 

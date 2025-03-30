@@ -17,7 +17,7 @@ tags:
 ---
 I've mentioned to a number of friends what a significant impact the book _A Praying Life_ by Paul Miller has had on me in the last three months. It's now the book I recommend and give away the most often. God used it in significant ways to change me and draw me to Jesus.
 
-[![Image](/static/images/a-praying-life.jpeg)](https://jshirk.com/blog/a-praying-life)
+[![Image](/images/a-praying-life.jpeg)](https://jshirk.com/blog/a-praying-life)
 
 I've tried [prayer systems](https://jshirk.com/blog/organizing-prayers/) that I've concocted that I haven't stuck with. I've wanted to be a better pray-er, but I often felt helpless and defeated. Miller suggested a simple system of 3&#215;5 note cards with a person's name on each card alongside a few requests and a specific verse of scripture. That simple system has worked for me, and I reference the cards multiple times per week. Here are my cards, based mostly on Miller's suggestions:
 

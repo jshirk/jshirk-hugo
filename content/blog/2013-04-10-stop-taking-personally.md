@@ -26,7 +26,7 @@ _ get over_ myself and stop taking everything like it's a personal attack. It'
 [Before we get too far, let me say this post isn't meant to excuse racism or sexism or any other -ism out there. Of course oppression should be fought against. We're evaluating taking things _personally_ at a (here it comes) _personal_ level. Attacks based not on your identity, but rather your personality.]
 
 <p style="text-align: center;">
-  ![Image](/static/images/keep-calm-and-get-over-yourself.jpeg)
+  ![Image](/images/keep-calm-and-get-over-yourself.jpeg)
 </p>
 
 Some things roll off my back with ease&#8211;especially when an anonymous poster says something silly on my blog or when someone I don't know makes a harsh comment (like the time I was partially verbally assaulted at a Czech symphony performance by some teenage kid. Oye). When it comes to people I care about though, it seems like my heart beats outside my skin, completely exposed and easily targeted for unintentional attack. I know I need to [believe the best][1] about the people closest to me, but for some reason, I draw conclusions and make unfair inferences that totally miss the mark.

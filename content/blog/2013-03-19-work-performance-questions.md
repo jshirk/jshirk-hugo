@@ -19,7 +19,7 @@ tags:
 Feedback is one of our greatest assets in life. Unfortunately, we don't always get it as often as we'd like or sometimes at all. Instead of waiting for someone to give me insight, I crafted 30 questions to ask myself to see how I'm doing from my perspective. Hopefully these questions will help you become more self-aware and more effective in the work you're doing.
 
 <p style="text-align: right;">
-  ![Image](/static/images/job-self-evaluation.jpeg)
+  ![Image](/images/job-self-evaluation.jpeg)
 </p>
 
 <!--more-->

@@ -10,7 +10,7 @@ categories:
 ---
 I used to wake up a bit sluggish and slowly wake up to the sweet, yet distracting, sounds of Twitter chirps.
 
-![Image](/static/images/sleeping-on-sidewalk.jpeg) 
+![Image](/images/sleeping-on-sidewalk.jpeg) 
 
 After finding my seemingly optimal amount of sleep, mostly through trial and error [footnote] around 7.5 hours and I’m waking up before my alarm[/footnote]a few things have been significant in getting better sleep –something more people than I realized seem to struggle with.
 

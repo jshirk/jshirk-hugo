@@ -22,7 +22,7 @@ This won’t be a perfect or fancy description, and it may not even be technical
 
 **Aperture is a fancy word for how much light the lens lets in.** This is measured in something fancy called an f-stop, which normally looks like this: **f/2.2**. The smaller the number, the more light that is let in. You can think of it like the lens starting out as open as possible, then as you move on to higher numbers the lens allows less and less light in, until it shrinks down to the size of a pin hole.
 
-![Image](/static/images/Apertures.jpeg) 
+![Image](/images/Apertures.jpeg) 
 
 <p style="text-align: center;">
   <em>Notice that the lower f-stop has a more open aperture, while the higher f-stop (f/16) has a much more closed aperture. Photo courtesy of <a href="http://commons.wikimedia.org/wiki/User:Mohylek">Mohylek</a> </em>
@@ -30,7 +30,7 @@ This won’t be a perfect or fancy description, and it may not even be technical
 
 Practically, this means that if you have low light, you should use an f-stop with a lower number. A lower f-stop also means things close to you (the foreground) will be in focus while things in the background will be out of focus, giving you that sweet blurred effect that makes things up front pop.
 
-![Image](/static/images/Flowers-low-aperature.jpeg) 
+![Image](/images/Flowers-low-aperature.jpeg) 
 
 <p style="text-align: center;">
   <em>Here’s a photo with a low aperture (f/2.8) and a focused foreground (up-close) very blurry background. This photo has a shallow depth of field.</em>
@@ -44,7 +44,7 @@ I’m sure there is an awesome, science answer for why this happens, but I’m h
 
 Lower f-stop is better for portraits, because the background is blurred (as long as you're focusing on something up-close), but you need to make sure you have enough light or the photo will turn out too dark.
 
-![Image](/static/images/Mountains.jpeg) 
+![Image](/images/Mountains.jpeg) 
 
 <p style="text-align: center;">
   <em>This photo has a greater depth of field, so things further away are more in focu</em>s.
@@ -58,7 +58,7 @@ This is probably the easiest concept to understand, because the numbers can be e
 
 Fast shutter speeds–**1 / a big number**–means things will be caught in the action. If you took a picture of a fan that was spinning quickly, and you couldn’t make out the single blades by your eye, a camera at 1/500 could catch the individual blades. Fast shutter speed is great for sports photos or moving kids.
 
-![Image](/static/images/shutter-speed.jpeg) 
+![Image](/images/shutter-speed.jpeg) 
 
 <p style="text-align: center;">
   <em>The photo on the left shows what it looks like to use a slow shutter speed (1 second+). The photo on the right uses a faster shutter speed (but not fast enough to have the cars completely focused.</em>
@@ -70,7 +70,7 @@ If you have a slow shutter speed (anything slower than 1/50 and then up into the
 
 A few more examples with shutter speed: if you want to make rivers and waterfalls look like they are rushing, use a slower shutter speed (making sure you have a tripod). This rushed water effect happens because everything else in the photo is still, but the water is moving, and because the camera has a multi-second shutter speed, it makes the water look like it’s moving, even in a still photo.
 
-![Image](/static/images/nature-water-forest-brook.jpeg) 
+![Image](/images/nature-water-forest-brook.jpeg) 
 
 <p style="text-align: center;">
   <em>This photo shows a waterfall using a slow shutter speed for the rushing water effect.</em>
@@ -104,6 +104,6 @@ There are lots of settings on cameras to prioritize different settings over othe
 
 Try browsing Flickr.com to see other photographers’ photos for inspiration, but also to check their settings. When you scroll down, you’ll see the settings in the bottom right corner, so you can get a feel for how different settings change pictures.
 
-![Image](/static/images/Screen-Shot-2015-05-29-at-7.29.00-AM.jpeg) 
+![Image](/images/Screen-Shot-2015-05-29-at-7.29.00-AM.jpeg) 
 
 You’ll always be able to take better pictures using manual settings instead of automatic, because the camera doesn’t know what your goal of the photo is. If you never move beyond automatic settings, you’ll never be pleased with your fancy camera.

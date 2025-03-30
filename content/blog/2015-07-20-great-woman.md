@@ -12,7 +12,7 @@ I’ll never be a great woman. Fortunately I’m married to one, so my first-han
 
 I can’t tell my wife often enough how much better (and better off) I am because of her influence on my life.
 
-![Image](/static/images/Niki-and-Raegan.jpeg) 
+![Image](/images/Niki-and-Raegan.jpeg) 
 
 Today she’s celebrating 27 years of living on this planet, and I wanted to share the significant lessons she’s helped me learn and ways she’s still helping me grow.
 

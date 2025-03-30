@@ -16,7 +16,7 @@ One of my favorite bloggers, [Tim Challies](http://challies.org), created the 20
 
 Here’s a link to the [2016 Reading Challenge](http://www.challies.com/resources/the-2016-reading-challenge). He’s got plans for 13, 26, 52, and 104 books. You can click the image below for a larger view.
 
-![Image](/static/images/web-2016-reading-challenge-red-700x933.jpeg)
+![Image](/images/web-2016-reading-challenge-red-700x933.jpeg)
 
 I’m currently tackling the 52 book challenge, aiming for a book a week to keep pace.
 

@@ -12,7 +12,7 @@ My parents are Christians. They love the Lord and, as essentially first-generati
 
 However, an official time of family worship was never a “thing” in our family–I honestly don’t think the thought crossed anyones mind. We did our own things for spiritual growth–Bible reading and private prayer–and we went to church together on Sundays. But we never cracked open the Word together or as a family worshipped outside of church.
 
-![Image](/static/images/guitar-worship.jpeg) 
+![Image](/images/guitar-worship.jpeg) 
 
 Some friends who regularly practice family worship encouraged us to make it a cornerstone of our family as well. I highly recommend [A Neglected Grace: Family Worship in the Christian Home](http://www.amazon.com/gp/product/1781912033/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1781912033&linkCode=as2&tag=thepoiofimp-20&linkId=ONLFM42PT3FF3JKL) by Jason Helopoulos. It was a major encouragement to me and my wife, and Helopoulos clearly spells out the sweet grace of worshipping together, as a family, regularly, and how to do it, practically.
 

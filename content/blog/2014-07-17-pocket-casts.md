@@ -30,7 +30,7 @@ This app is beautiful–completely stunning in every way. The design is what fir
 
 Pocket Casts incorporates the colors of the podcast artwork into the buttons and player for each show, which is a tiny but awesome design touch.
 
-![Image](/static/images/5by5@2x.jpeg) 
+![Image](/images/5by5@2x.jpeg) 
 
 When you’re perusing your other podcasts but already have a ’cast playing, there’s a nice little bar at the bottom that enables you to return to your currently playing podcast, which is handy and convenient.
 

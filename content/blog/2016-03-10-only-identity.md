@@ -12,7 +12,7 @@ Who are you?
 
 That’s a broad question. Perhaps a narrower but maybe not easier-to-answer question is, “Where do you primarily find your identity?”
 
-![Image](/static/images/identity-700x467.jpeg)
+![Image](/images/identity-700x467.jpeg)
 
 Here are some options:
 

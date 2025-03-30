@@ -20,7 +20,7 @@ But David Allen insists that those who use GTD to its full potential are faithfu
 
 **The weekly review is the time for you to get caught up, process everything, and prepare for the week ahead.** Go into your office, shut the door, turn off your phone and close off communication to the rest of the world. Make sure you’re on the right path and that you’re not just grinding things out without knowing why you’re doing your work.
 
-[![Image](/static/images/Holding-Map.jpeg)](https://jshirk.com/blog/weekly-review/)
+[![Image](/images/Holding-Map.jpeg)](https://jshirk.com/blog/weekly-review/)
 
 &nbsp;
 

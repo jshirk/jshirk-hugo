@@ -10,7 +10,7 @@ categories:
 ---
 Just over a month ago, I was the best man in my cousin’s wedding. It was the first time I was an official right-hand man. As far as I know, I didn’t completely blow it.
 
-[![Image](/static/images/Best-Man-Toast-600px.jpeg)](https://jshirk.com/blog/wedding-toast/)
+[![Image](/images/Best-Man-Toast-600px.jpeg)](https://jshirk.com/blog/wedding-toast/)
 
 The best man has two jobs on the wedding day. 1. Put out fires. 2. Give a good speech. In reality, it’s a pretty simple job description with high expectations. [footnote]We had no fires, so I had it easy.[/footnote]
 

@@ -57,7 +57,7 @@ I didn't do this on my own. It didn't happen because I'm special. In fact, I did
 Nonetheless, thanks to the grace of God, lives were still changed, people contributed to something that saved lives, and we all got to be a part of something really special.
 
 <div id="attachment_1520" style="width: 560px" class="wp-caption aligncenter">
-  ![Image](/static/images/charity-water-infographic.jpeg)
+  ![Image](/images/charity-water-infographic.jpeg)
   
   <p id="caption-attachment-1520" class="wp-caption-text">
     charity: water project infographic

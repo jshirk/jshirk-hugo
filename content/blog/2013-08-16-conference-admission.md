@@ -14,7 +14,7 @@ Last week I attended a simulcast of the Global Leadership Summit. Here is practi
 
 My jaw hurts from all of the leadership information I've been chewing on.
 
-![Image](/static/images/conference.jpeg) 
+![Image](/images/conference.jpeg) 
 
 As I was midway through the two-day conference, I thought to myself,
 

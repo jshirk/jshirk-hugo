@@ -14,7 +14,7 @@ Unfortunately, the default settings for the world’s largest social network in
 
 Thankfully, you’ve got options for tailoring your timeline so you don’t have to give up on it all together.[footnote]Unless you want to, and in that case, you’ve got my utmost respect.[/footnote]
 
-![Image](/static/images/computer.jpeg) 
+![Image](/images/computer.jpeg) 
 
 Facebook has an interesting dilemma–the more posts they show, the more likely you are to return. However, if they only show you crap you don’t give a hoot about, you’ll give up. So, they have to make it so you can tweak what you see, but not so much that they can’t sell ad space. This is the problem of being a product instead of buying a product.
 
@@ -32,16 +32,16 @@ Inside of this method are two options. If you still want to see posts from this 
   2. Next, click “I don’t want to see this”.
   3. Finally, click “See less” and fill in the blank of the page or friend who posts a little too much for your liking.
 
-![Image](/static/images/01-I-dont-want-to-see-this.jpeg) 
+![Image](/images/01-I-dont-want-to-see-this.jpeg) 
 
-![Image](/static/images/01.5-I-dont-want-to-see-this-follow-up.jpeg) 
+![Image](/images/01.5-I-dont-want-to-see-this-follow-up.jpeg) 
 
 If you want to completely stop seeing posts from this person or page, you’ll unfollow them through these two steps. You’ll remain friends or continue liking the page, but their posts won’t show up in your news feed.
 
   1. Click the tiny down arrow in the top right corner of a post.
   2. Click “Unfollow” + the name-of-the-person-whom-you-have-now-written-off-without-their-knowledge.
 
-![Image](/static/images/02-Unfollwo-via-timeline.jpeg) 
+![Image](/images/02-Unfollwo-via-timeline.jpeg) 
 
 ## 2. Search and Destroy (Desktop and Mobile)
 
@@ -50,11 +50,11 @@ When I told you that you no longer had to see posts from people, did a certain p
   1. Search for that ex-girlfriend / ex-boyfriend / ex-bestfriend / or Keyboard Politician [footnote]The politically pontificating equivalent of an armchair quarterback[/footnote] in the Facebook search bar.
   2. In banner-photo area of that person on the desktop version of Facebook, click on the button that says “Following” with a check mark. That will unfollow the page.
 
-![Image](/static/images/03-Unfollow-via-page.jpeg) 
+![Image](/images/03-Unfollow-via-page.jpeg) 
 
 If you’re currently _not_ following that page or person, you’ll see “+ Follow” on the page–that means you've already unfollowed that person or page. You can always go back and follow friends and pages again after particularly disgusting sports performances or potent political periods.
 
-![Image](/static/images/04-Follow-via-page.jpeg) 
+![Image](/images/04-Follow-via-page.jpeg) 
 
 This works on mobile as well, but it's slightly different. Once you're on the page of a friend (or page you follow) click where it says &#8220;Friends&#8221; and choose Unfollow. For a Page, click where it says Liked and click Unfollow.
 
@@ -67,9 +67,9 @@ Facebook settings are more confusing than the US Tax Code. Fortunately, my-ever-
   3. Unfollow people from the top list “Seen Most Last Week” or click on People on the left side to see a longer list of Seen Most Last Week, or the second list Alphabetical Order.
   4. Click Unfollow on every poor friend who you no longer want to see in your news feed.
 
-![Image](/static/images/05-Settings.jpeg) 
+![Image](/images/05-Settings.jpeg) 
 
-![Image](/static/images/06-Following-settings.jpeg) 
+![Image](/images/06-Following-settings.jpeg) 
 
 Obviously you'll see the names and pictures of your friends here, but I removed them for privacy sake.
 

@@ -23,7 +23,7 @@ One of the most challenging Bible passages to me is in Psalm 1:2. It says:
 I'm deliberate about spending time in God's Word each morning&#8211;a spiritual discipline that's taken me a long time to develop. I know if I try to tackle my day without feasting on God's Word, it's nearly impossible for me to walk in His Spirit. If I go a few days without spending time reading and mediating on the Bible, _look out_.  At that point, my sin has gravitated to the surface and is bursting out of my skin.
 
 <p style="text-align: center;">
-  ![Image](/static/images/open-bible.jpeg)
+  ![Image](/images/open-bible.jpeg)
 </p>
 
 Something I've done a poor job of is spending time mediating on God's word at night. First, let's define what mediation is. I love what [John Piper](http://www.desiringgod.org/resource-library/sermons/meditate-on-the-word-of-the-lord-day-and-night) says,
@@ -42,7 +42,7 @@ As I mentioned, scripture memorization is a fail-proof way to meditate on God's 
 
 Ultimately, I want to take God's Word to heart, store it in my heart, and let it reshape my heart&#8211;day and night.
 
-![Image](/static/images/fighter-verse-side-by-side.jpeg) 
+![Image](/images/fighter-verse-side-by-side.jpeg) 
 
 ## Question: How do you meditate on God's Word day and night?
 

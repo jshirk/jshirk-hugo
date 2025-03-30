@@ -10,9 +10,9 @@ categories:
 ---
 Command + F is a helpful shortcut to remember; it allows you to search and find a word or phrase in a document. It works just about anywhere you can find text on a Mac. [footnote]For my Windows friends, that’s Control + F.[/footnote]
 
-![Image](/static/images/Command-F.jpeg) 
+![Image](/images/Command-F.jpeg) 
 
-![Image](/static/images/?-F.jpeg)![Image](/static/images/?-F.jpeg) 
+![Image](/images/?-F.jpeg)![Image](/images/?-F.jpeg) 
 
 Normally, when I’m trying to refer back to a website, especially one that is poorly organized, I use Command + F to find text quickly. For a long time, I didn’t think this was possible on an iPhone or iPad because, well, there isn’t a Command button.
 

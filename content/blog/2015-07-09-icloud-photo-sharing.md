@@ -29,7 +29,7 @@ Here’s how to set up a photo stream to share with your family and best buds.
   5. Tap **Create**.
   6. Open your album and click the **+** in the gray box to add photos.
 
-![Image](https://jshirk.com/blog/wp-content/uploads/2015/07/Setting-up-Photo-Stream.gif) 
+![Image](https://jshirk.com/blog/images/Setting-up-Photo-Stream.gif) 
 
 &nbsp;
 
@@ -39,7 +39,7 @@ If there are (sadly) some windows or Android users in your life whom you still l
   2. Scroll down to the **Public Website** option and click the button so it is green or enabled.
   3. Click the **Share Link** button that appears after enabling the public website and email or message it to whoever you please.
 
-![Image](https://jshirk.com/blog/wp-content/uploads/2015/07/Creating-public-link.gif) 
+![Image](https://jshirk.com/blog/images/Creating-public-link.gif) 
 
 Anyone who has that link can see the photos, so make sure you only share it with those you want to see it. Make sure they also understand anyone with the link can see it so they don’t post it publicly.
 

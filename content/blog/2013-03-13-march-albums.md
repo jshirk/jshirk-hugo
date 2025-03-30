@@ -24,7 +24,7 @@ tags:
 ---
 I like making my ears happy. You may enjoy making your ears happy too. Here's my (eclectic) mix of what's on my digital turntable, bringing sweet joy to all who listen. Click the album images for a link to Amazon MP3s.
 
-[![Image](/static/images/hillsong-united-zion.jpeg)](http://www.amazon.com/Zion-Deluxe-Edition/dp/B00BA5CCSW/ref=ntt_mus_ep_dpi_1)
+[![Image](/images/hillsong-united-zion.jpeg)](http://www.amazon.com/Zion-Deluxe-Edition/dp/B00BA5CCSW/ref=ntt_mus_ep_dpi_1)
 
 ## Zion &#8211; Hillsong United
 
@@ -38,7 +38,7 @@ I've always preferred Hillsong United's studio albums (like _Aftermath) _to th
 
 &nbsp;
 
-## [![Image](/static/images/kb-weight-glory.jpeg)](http://www.amazon.com/Weight-Glory/dp/B008FGLRSK/ref=sr_shvl_album_1?ie=UTF8&qid=1362511985&sr=301-1)
+## [![Image](/images/kb-weight-glory.jpeg)](http://www.amazon.com/Weight-Glory/dp/B008FGLRSK/ref=sr_shvl_album_1?ie=UTF8&qid=1362511985&sr=301-1)
 
 ## **Weight & Glory &#8211; KB**
 
@@ -54,7 +54,7 @@ A partner in the 116 Clique with Lecrae, KB rapped on a handful of other singles
 
 &nbsp;
 
-## [![Image](/static/images/alt-j-awesome-wave.jpeg)](http://www.amazon.com/An-Awesome-Wave/dp/B00BK5D95C/ref=sr_shvl_album_1?ie=UTF8&qid=1362512005&sr=301-1)
+## [![Image](/images/alt-j-awesome-wave.jpeg)](http://www.amazon.com/An-Awesome-Wave/dp/B00BK5D95C/ref=sr_shvl_album_1?ie=UTF8&qid=1362512005&sr=301-1)
 
 ## An Awesome Wave &#8211; alt-J
 
@@ -68,7 +68,7 @@ One of my favorite Alternative albums from last year. This is alt-J's debut albu
 
 &nbsp;
 
-## [![Image](/static/images/ben-howard-every-kingdom.jpeg)](http://www.amazon.com/Every-Kingdom/dp/B009ZRY0IC/ref=sr_shvl_album_2?ie=UTF8&qid=1362512033&sr=301-2)
+## [![Image](/images/ben-howard-every-kingdom.jpeg)](http://www.amazon.com/Every-Kingdom/dp/B009ZRY0IC/ref=sr_shvl_album_2?ie=UTF8&qid=1362512033&sr=301-2)
 
 ## Every Kingdom &#8211; Ben Howard
 
@@ -84,7 +84,7 @@ One of my favorite Alternative albums from last year. This is alt-J's debut albu
 
 &nbsp;
 
-[![Image](/static/images/geographer-myth.jpeg)](http://www.amazon.com/Myth/dp/B0078R6SAO/ref=sr_shvl_album_1?ie=UTF8&qid=1362512055&sr=301-1)
+[![Image](/images/geographer-myth.jpeg)](http://www.amazon.com/Myth/dp/B0078R6SAO/ref=sr_shvl_album_1?ie=UTF8&qid=1362512055&sr=301-1)
 
 ## Myth &#8211; Geographer
 

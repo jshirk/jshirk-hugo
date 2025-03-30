@@ -12,7 +12,7 @@ I’m a fan of social media. I use it daily. Twitter is what I open instead of t
 
 Technology has opened up a world of connections impossible just a few decades (years?) ago. In 1980, if you wanted to tell your friends that someone at Starbucks ordered an outrageous drink, you would have had to call each friend, one by one. Or written a letter. Or waited until you saw them in person. Now, hundreds and thousands of people can see whatever you want to share with them, split seconds after it happens.
 
-[![Image](/static/images/Pondering-with-Keyboard.jpeg)](https://jshirk.com/blog/christian-social-media/)
+[![Image](/images/Pondering-with-Keyboard.jpeg)](https://jshirk.com/blog/christian-social-media/)
 
 <h6 style="text-align: center;">
   Photo courtesy of <a href="http://deathtothestockphoto.com">Death to the Stock Photo</a>

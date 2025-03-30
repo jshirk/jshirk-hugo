@@ -14,7 +14,7 @@ I’m a chronic checker of email and social media, and though these things can b
 
 So I came up with a list of things I can do instead of checking my email or Twitter or Facebook. I hope it’ll be helpful.
 
-![Image](/static/images/34ACZSYTOF.jpeg) 
+![Image](/images/34ACZSYTOF.jpeg) 
 
 It’s hard to flat out stop something, so let that _checky urge_ be a cue for you to do something different. Also, it can’t be too hard of a thing or you won’t do it instead.
 

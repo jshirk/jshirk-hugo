@@ -12,7 +12,7 @@ _Before you get into this post, know that it’s a 2,400+ word labor of love. Th
 
 I’ve written about the [need](https://jshirk.com/blog/1password/) for serious security in our digital lives. It’s too easy for thieves to swipe passwords, bank account numbers, and critical information that could create a crapstorm of chaos, frustration, and loss for us.
 
-![Image](/static/images/locks.jpeg) 
+![Image](/images/locks.jpeg) 
 
 **Fortunately, there’s an added layer of security that’s equivalent to bringing your toughest friend to back you up in a schoolyard brawl. It’s called 2-step verification (2SV) or sometimes two-factor authentication**.
 
@@ -62,7 +62,7 @@ I cannot possibly strike into you the fear-of-God about losing your recovery cod
 
 [1Password](https://jshirk.com/blog/1password) makes saving your one-time recovery codes a cakewalk–just save your recovery code under your login details for whatever app you’ve enabled 2SV with, like this:
 
-![Image](/static/images/Google-Codes-Screenshot.jpeg) 
+![Image](/images/Google-Codes-Screenshot.jpeg) 
 
 I wouldn’t recommend going with 2SV route without a solid password manager, like 1Password. It might be a good idea to give your recovery codes to a spouse or trusted relative to hold onto. If you print them out, as many services suggest, and your house burns down with all of your codes and devices, you’ve increased your nightmare.
 

@@ -25,7 +25,7 @@ Here's  my version of our engagement to show I'm qualified to give you insight:
 
 &nbsp;
 
-![Image](/static/images/proposal.jpeg) 
+![Image](/images/proposal.jpeg) 
 
 If you want the full details from Niki, here's [her perspective](https://sites.google.com/site/shirkmans/home).
 

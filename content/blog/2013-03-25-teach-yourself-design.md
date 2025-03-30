@@ -28,7 +28,7 @@ I love designing invitations, advertisements, t-shirts, thank-you cards and docu
 &nbsp;
 
 <p style="text-align: center;">
-  ![Image](/static/images/teach-yourself-design.jpeg)
+  ![Image](/images/teach-yourself-design.jpeg)
 </p>
 
 &nbsp;
@@ -77,7 +77,7 @@ Every time I encounter a blog element or design I like online, I screenshot the 
 &nbsp;
 
 <p style="text-align: center;">
-  ![Image](/static/images/Chris-Brogan-Landing-Page1.jpeg)
+  ![Image](/images/Chris-Brogan-Landing-Page1.jpeg)
 </p>
 
 &nbsp;
@@ -150,7 +150,7 @@ This is ridiculously easy and an awesome gateway drug to design. Here's an examp
 &nbsp;
 
 <p style="text-align: center;">
-  ![Image](/static/images/retreat-image-fixed.jpeg)
+  ![Image](/images/retreat-image-fixed.jpeg)
 </p>
 
 &nbsp;
@@ -164,7 +164,7 @@ If you have a good picture, throwing text on it and lining things up is super si
 &nbsp;
 
 <p style="text-align: center;">
-  ![Image](/static/images/Old-Awful-Header.jpeg)
+  ![Image](/images/Old-Awful-Header.jpeg)
 </p>
 
 _Yikes_. This hurts my spleen. It's _awful_. Some day, I'll think my current blog design is the worst ever, but it's a progression. You don't ever arrive in design, it's a continuum of improvement that you grow in.
@@ -182,7 +182,7 @@ A bit more details on this: the more dots (DPI or dots per inch) the larger some
 &nbsp;
 
 <p style="text-align: center;">
-  ![Image](/static/images/bake-sale-slide.jpeg)
+  ![Image](/images/bake-sale-slide.jpeg)
 </p>
 
 &nbsp;
@@ -216,7 +216,7 @@ Here's a basketball advertisement I made. The top font I used reminds me of writ
 &nbsp;
 
 <p style="text-align: center;">
-  ![Image](/static/images/basketball-slide.jpeg)
+  ![Image](/images/basketball-slide.jpeg)
 </p>
 
 **I'm not brilliant, I'm just practical.** Connect things that work well together.
@@ -238,7 +238,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
 <div id='gallery-1' class='gallery galleryid-2370 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      ![Image](/static/images/slovenia-summer-project.jpeg)
+      ![Image](/images/slovenia-summer-project.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2389'>
@@ -248,7 +248,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      ![Image](/static/images/summer-project-black-t-shirt-design.jpeg)
+      ![Image](/images/summer-project-black-t-shirt-design.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2392'>
@@ -258,7 +258,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      ![Image](/static/images/180-t-shirt.jpeg)
+      ![Image](/images/180-t-shirt.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2387'>
@@ -270,7 +270,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      ![Image](/static/images/radical-unity.jpeg)
+      ![Image](/images/radical-unity.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2388'>
@@ -280,7 +280,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      ![Image](/static/images/gods-that-fail.jpeg)
+      ![Image](/images/gods-that-fail.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2394'>
@@ -290,7 +290,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      ![Image](/static/images/Christmas-Card-2011.jpeg)
+      ![Image](/images/Christmas-Card-2011.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2391'>
@@ -302,7 +302,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      ![Image](/static/images/Christmas-Card-2012.jpeg)
+      ![Image](/images/Christmas-Card-2012.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2393'>
@@ -312,7 +312,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      ![Image](/static/images/charity-water-infographic.jpeg)
+      ![Image](/images/charity-water-infographic.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2390'>
@@ -322,7 +322,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      ![Image](/static/images/Cost-of-College-Infographic.jpeg)
+      ![Image](/images/Cost-of-College-Infographic.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2395'>
@@ -334,7 +334,7 @@ Finally, to up my street cred a bit, here's a gallery of some of my other creati
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      ![Image](/static/images/easter-party-header.jpeg)
+      ![Image](/images/easter-party-header.jpeg)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-2405'>

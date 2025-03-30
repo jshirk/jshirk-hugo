@@ -12,7 +12,7 @@ I’ve been enjoying Wayne Grudem’s [_Politics &#8211; According to the Bible_
 
 I love America. I think it’s one of the greatest nations on the planet. We enjoy many freedoms, our enterprising nature has done boatloads of good for the world, we created the iPhone and we have the amazing convenience of Amazon Prime–and that's just off the top of my head.
 
-[![Image](/static/images/American-Flag.jpeg)](https://jshirk.com/blog/christian-patriotism)
+[![Image](/images/American-Flag.jpeg)](https://jshirk.com/blog/christian-patriotism)
 
 So, America is pretty great. But should we bleed red, white and blue? Should we enjoy firework displays and suffer through _God Bless the USA_ for the 100th time with smiles plastered to our faces? Should I simply go on without a celebration or should I get a bald eagle wrapped in Old Glory tattooed across my back?
 

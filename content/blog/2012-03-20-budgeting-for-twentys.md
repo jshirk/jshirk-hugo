@@ -23,7 +23,7 @@ tags:
 
 My wife [Niki](http://nshirkman.wordpress.com) and I took the 13-week [Financial Peace University](http://www.daveramsey.com/fpu) course by Dave Ramsey and decided to put a budget into action when we got married. We've been following it faithfully for the last 7 months, and it’s been unbelievably freeing.
 
-[![Image](/static/images/Empty-Pocket.jpeg)](https://jshirk.com/blog/wp-content/uploads/2012/03/Empty-Pocket.jpg)
+[![Image](/images/Empty-Pocket.jpeg)](https://jshirk.com/blog/images/Empty-Pocket.jpg)
 
 There are lots of great tools for knowing where your money is going (I personally use [Mint.com](http://mint.com) because the graphs are just so pretty), but these tools are often reactive instead of proactive, which means by the time you see how much you've spent it’s already too late.
 

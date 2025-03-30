@@ -17,7 +17,7 @@ One interesting aspect of the Christian life is how some components are absolute
 
 are really critical if you want to call yourself a Christian, but that’s by no means an exhaustive list. If you throw those components out, it’s kind of like saying you want to bake chocolate chip cookies but not use chocolate, eggs, flour, butter, sugar or an oven. You can call those cookies, but I think us orthodox-chocolate-chip-cookie eaters are going to think you’re pretty off-base.
 
-![Image](/static/images/3-steps.jpeg) 
+![Image](/images/3-steps.jpeg) 
 
 Other things are a lot less critical, but are (sometimes) worth discussing. Can you be a faithful Christian and…
 

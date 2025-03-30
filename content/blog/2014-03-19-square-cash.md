@@ -16,7 +16,7 @@ We live in a world where cash is on it's way out the door. While I'm still a fan
 
 Enter [Square Cash](http://square.com/cash).
 
-[![Image](/static/images/photo-3.jpeg)](https://jshirk.com/blog/square-cash/)
+[![Image](/images/photo-3.jpeg)](https://jshirk.com/blog/square-cash/)
 
 You can now pay your friends with a simple email, processed by one of the leaders in mobile payments–[Square][3].
 
@@ -49,7 +49,7 @@ $36.41, in our example.
 I normally explain what the payment is for (January Utilities).
 
 <div id="attachment_3192" style="width: 610px" class="wp-caption aligncenter">
-  ![Image](/static/images/photo-1.jpeg)
+  ![Image](/images/photo-1.jpeg)
   
   <p id="caption-attachment-3192" class="wp-caption-text">
     Your email paying a friend with Square Cash.
@@ -66,7 +66,7 @@ The first time through you'll get an email from Square asking you to register (a
 
 You'll plug in your debit card info and then be asked to link your account with your Facebook account (which I recommend because it allows you to go above the normal $250 transfer limit). If you don't have Facebook, you'll be limited in how much you can transfer.
 
-![Image](/static/images/photo-2.jpeg) 
+![Image](/images/photo-2.jpeg) 
 
 ### 8. Confirm the payment
 

@@ -12,7 +12,7 @@ Four years ago I created a [charity: water campaign](http://mycharitywater.org/j
 
 &nbsp;
 
-![Image](/static/images/charitywater_vertical_white.jpeg) 
+![Image](/images/charitywater_vertical_white.jpeg) 
 
 Through the generosity of friends, family, blog readers, and maybe even you, we raised $5,004 and helped build a few wells in Africa. If you’re curious, here’s an [infographic](https://jshirk.com/blog/charity-water-update-infographic/) I made about the project.
 

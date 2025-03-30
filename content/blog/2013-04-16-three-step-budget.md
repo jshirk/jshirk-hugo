@@ -23,7 +23,7 @@ tags:
 Prepare for the tricks of budgeting to be demystified as we pull back the curtain to enable you to make your own cash-flow plan with ease. There are a lot of tasks here, but they all fall under three main steps (via [_The Prestige_](http://www.imdb.com/title/tt0482571/))&#8211;the Pledge, the Turn, and the Prestige.
 
 <p style="text-align: center;">
-  ![Image](/static/images/three-step-budget-for-more-cash-in-your-hand1.jpeg)
+  ![Image](/images/three-step-budget-for-more-cash-in-your-hand1.jpeg)
 </p>
 
 ## The Pledge

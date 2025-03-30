@@ -24,7 +24,7 @@ Unfortunately, Amazon and Apple don't make saving your notes in a clean format s
 
 If you are just looking to get all of your notes and save them in a document, PDF or paper copy (because you hate trees and have filing cabinets from the 1980s) here's the quick and dirty process.
 
-![Image](/static/images/kindle-ibooks-notes.jpeg) 
+![Image](/images/kindle-ibooks-notes.jpeg) 
 
 <!--more-->
 

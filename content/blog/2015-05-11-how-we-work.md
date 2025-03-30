@@ -19,7 +19,7 @@ For many of us who are knowledge workers,[footnote]That is to say, basically any
 
 Stephen Covey broadly popularized an idea originally attributed to president Dwight Eisenhower. It’s a matrix of the and the important.
 
-![Image](/static/images/Urgent-imporant.jpeg) 
+![Image](/images/Urgent-imporant.jpeg) 
 
 Quadrants 1 and 3 is where many of us spend most of our time–dealing with problems that need fixed immediately and then bouncing from that do dealing with unimportant problems that someone thinks also needs solved immediately. <!--more-->
 

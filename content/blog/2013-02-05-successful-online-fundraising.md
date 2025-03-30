@@ -24,7 +24,7 @@ I recently [gave an update on a charity: water project](https://jshirk.com/blog/
 
 Some of you may wonder how it happened. Outside of a lot of prayer and generosity, it was a simply telling a compelling story (over and over again) that people wanted to be a part of. Below are the 12 steps I took to create a successful online fundraising campaign.
 
-![Image](/static/images/successful-fundraising.jpeg) 
+![Image](/images/successful-fundraising.jpeg) 
 
 Some of these steps may be out of your control, some may need tweaked for your campaign, and some may need thrown out all together. Nonetheless, best of luck on your exciting adventure. <!--more-->
 

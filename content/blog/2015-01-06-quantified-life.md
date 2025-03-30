@@ -12,7 +12,7 @@ I’m a data nerd. I love analyzing information, finding patterns, and seeing co
 
 In 2015, I’m purusing a more quantified life. If I know what I’m doing–tracking fitness, food, habits, thought patterns, sleep, spending, accomplishments–I can evaluate how I’m doing in pursuing goals and how effectively systems I’ve put into place to achieve things is working.
 
-![Image](/static/images/Tracking.jpeg) 
+![Image](/images/Tracking.jpeg) 
 
 In general, I prefer specific apps that perform a single function. Technically, I could keep track of all this information in Evernote, but after deleting hundreds of worthless notes in the past few days, I’ve opted for a different, better option. Each app does one (ok, maybe two) things exceptionally well, and I know exactly what I’m doing when I open it. [footnote]That means I don’t have the walk-up-to-the-refrigerator-and-forget-why-I’m-there feeling.[/footnote]
 

@@ -21,7 +21,7 @@ Base hits win games. I'm not much of a baseball fan, but I know that getting on 
 
 In fact, overnight success isn't ideal. Here are a few problems with attempting home runs every at bat.
 
-![Image](/static/images/baseball.jpeg) 
+![Image](/images/baseball.jpeg) 
 
 ## The problem with swinging for the fences
 

@@ -12,7 +12,7 @@ categories:
 ---
 Mediocrity is the new &#8220;world changing&#8221;. Not everyone has the gusto to strive for this type of life, but for those who have the courage to not make a difference here's how to get started.
 
-[![Image](/static/images/mediocrity.jpeg)](https://jshirk.com/blog/mediocrity-guide)
+[![Image](/images/mediocrity.jpeg)](https://jshirk.com/blog/mediocrity-guide)
 
 ## Get into debt
 

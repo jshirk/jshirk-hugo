@@ -26,7 +26,7 @@ It's more than a rushed supplication. **It's an indicator of a deeper issue.**
 **I'm impatient.** I'm too impatient to take a half a minute to thank God for his provision. I'm too impatient to consistently and continually seek God in prayer. I'm too impatient to ignore a phone call or text or tweet, so instead I choose to interrupt a conversation with a real, live human being that I'm talking to face-to-face. I'm too impatient to sit down for 20 minutes and write a single blog post in one sitting (this line is being added in during round three). And I'm certainly _far_ too impatient to deal with customer service over the phone.
 
 <address style="text-align: center;">
-  ![Image](/static/images/smallstopwatch.jpeg) Image provided by <a href="http://www.sxc.hu/photo/256328">stock.xchng</a>
+  ![Image](/images/smallstopwatch.jpeg) Image provided by <a href="http://www.sxc.hu/photo/256328">stock.xchng</a>
 </address>
 
 **It's hard to be patient** (mostly because of the whole waiting thing).

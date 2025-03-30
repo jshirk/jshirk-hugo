@@ -25,7 +25,7 @@ I gave up on major news outlets a long time ago. I haven't had cable in years. I
 
 I don't need news from traditional sources. I heard that Osama Bin Laden had been killed, about the tragedy at Sandy Hook, and that Ohio University beat Michigan in the NCAA Men's Basketball tournament in 2012&#8211;all from Twitter.
 
-![Image](/static/images/getting-the-most-out-of-twitter2.jpeg) 
+![Image](/images/getting-the-most-out-of-twitter2.jpeg) 
 
 I think most people give up on Twitter or dismiss it all together because they think it's best used to find out when your friends have to take a leak or to tweet pictures of omelets. I think if you use Twitter as an information gathering tool as I suggest below you'll find it will quickly become your favorite news and resource tool.
 

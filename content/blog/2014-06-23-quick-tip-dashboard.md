@@ -12,11 +12,11 @@ tags:
 ---
 _This is a new segment of tips I’ll publish each Tuesday that only take a minute to read and implement. Kudos to one of my favorite websites, [The Sweet Setup](http://thesweetsetup.com/category/quick-tip/) for their [quick tips](http://thesweetsetup.com/category/quick-tip/) and inspiration for these posts._
 
-[![Image](/static/images/quick-tip-logo.jpeg)](https://jshirk.com/blog/quick-tip-dashboard)
+[![Image](/images/quick-tip-logo.jpeg)](https://jshirk.com/blog/quick-tip-dashboard)
 
 The Mac Dashboard (the screen to the left of all your other screens and has widgets you can add to it) has become a ghost town. I’ve almost seen a tumbleweed roll across mine. Since I have an affinity for getting rid of stuff I don’t need, I dug into how to nix the Dashboard.
 
-![Image](/static/images/dashboard.jpeg) 
+![Image](/images/dashboard.jpeg) 
 
 It’s fairly simple, and you can do it too! My thanks to [HowToGeek](http://www.howtogeek.com/tips/how-to-disable-the-useless-dashboard-on-mac-os-x/) for this info.
 
