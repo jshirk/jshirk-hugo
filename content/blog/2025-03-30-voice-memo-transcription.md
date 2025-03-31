@@ -26,7 +26,7 @@ More than once, I’ve been pleasantly surprised when ChatGPT not only tidied up
 ⸻
 
 Step-by-Step Guide to Transcribe and Clean Up Your Voice Memo
-1.	Open the Voice Memo app.
+1.	Open the Voice Memos app.
 2.	Record your voice memo, then hit stop when you’re done.
 3.	Tap and hold the voice memo, then select “Copy Transcript.”
 4.	Paste the transcript into ChatGPT (or your AI robot of choice) and ask it to clean it up with specific instructions (see below)
