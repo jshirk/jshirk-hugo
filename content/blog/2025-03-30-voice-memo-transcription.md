@@ -28,7 +28,7 @@ More than once, I’ve been pleasantly surprised when ChatGPT not only tidied up
 Step-by-Step Guide to Transcribe and Clean Up Your Voice Memo
 1.	Open the Voice Memos app.
 2.	Record your voice memo, then hit stop when you’re done.
-3.	Tap and hold the voice memo, then select “Copy Transcript.”
+3.	Tap the three dots to the right of the memo and tap “Copy Transcript.”
 4.	Paste the transcript into ChatGPT (or your AI robot of choice) and ask it to clean it up with specific instructions (see below)
 5.	Enjoy your polished, ready-to-send message. No extra tweaks required!
 
@@ -44,7 +44,5 @@ Instructions for ChatGPT:
 7.	Don’t explain yourself: Just give me the cleaned-up text, no need to explain what you did so that I can easily paste the result elsewhere without explainers. 
 
 I’ve also created an iOS shortcut to streamline this process even more. After you record your voice memo and copy the transcript, simply hit the shortcut button. In seconds, you’ll have your cleaned-up result ready to copy, review, and send. Here's a [link to the iOS shortcut](https://www.icloud.com/shortcuts/3f92bc5866854259b348a17c8a124c6c).
-
-P. S. If anyone is smarter than me and knows how to get the transcript to auto-copy when you start the shortcut or when it ends, please share your wizardry with me.
 
 Cheers to faster (free!) text production using just your voice—and having polished, ready-to-go messages with no extra effort.
