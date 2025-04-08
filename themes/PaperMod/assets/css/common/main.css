@@ -1,117 +1,121 @@
 .main {
-    position: relative;
-    min-height: calc(100vh - var(--header-height) - var(--footer-height));
-    max-width: calc(var(--main-width) + var(--gap) * 2);
-    margin: auto;
-    padding: var(--gap);
+  position: relative;
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: auto;
+  padding: var(--gap);
 }
 
 .page-header h1 {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .pagination {
-    display: flex;
+  display: flex;
 }
 
 .pagination a {
-    color: var(--theme);
-    font-size: 13px;
-    line-height: 36px;
-    background: var(--primary);
-    border-radius: calc(36px / 2);
-    padding: 0 16px;
+  color: var(--theme);
+  font-size: 13px;
+  line-height: 36px;
+  background: var(--primary);
+  border-radius: calc(36px / 2);
+  padding: 0 16px;
 }
 
 .pagination .next {
-    margin-inline-start: auto;
+  margin-inline-start: auto;
 }
 
-
 .social-icons a {
-    display: inline-flex;
-    padding: 10px;
+  display: inline-flex;
+  padding: 10px;
 }
 
 .social-icons a svg {
-    height: 26px;
-    width: 26px;
+  height: 26px;
+  width: 26px;
 }
 
 code {
-    direction: ltr;
+  direction: ltr;
 }
 
 div.highlight,
 pre {
-    position: relative;
+  position: relative;
 }
 
 .copy-code {
-    display: none;
-    position: absolute;
-    top: 4px;
-    right: 4px;
-    color: rgba(255, 255, 255, 0.8);
-    background: rgba(78, 78, 78, 0.8);
-    border-radius: var(--radius);
-    padding: 0 5px;
-    font-size: 14px;
-    user-select: none;
+  display: none;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(78, 78, 78, 0.8);
+  border-radius: var(--radius);
+  padding: 0 5px;
+  font-size: 14px;
+  user-select: none;
 }
 
 div.highlight:hover .copy-code,
 pre:hover .copy-code {
-    display: block;
+  display: block;
 }
 
-/* Center the subscribe form */
-form[name="subscribe-form"] {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    max-width: 400px;
-    margin: auto; /* Centers the form horizontally */
-    padding: 20px;
-    background: var(--contentBg);
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+.logo-light {
+  display: inline;
 }
 
-/* Style input fields */
-form[name="subscribe-form"] input {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid var(--border);
-    border-radius: 5px;
-    background: var(--contentBg);
-    color: var(--text);
+.logo-dark {
+  display: none;
 }
 
-/* Style the subscribe button */
-form[name="subscribe-form"] button {
-    background-color: black; /* Makes button black */
-    color: white; /* Makes text white */
-    padding: 10px 16px;
-    font-size: 16px;
-    font-weight: bold;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s ease-in-out;
-    width: 100%;
+html.dark .logo-light {
+  display: none;
 }
 
-/* Darker black on hover */
-form[name="subscribe-form"] button:hover {
-    background-color: #333;
+html.dark .logo-dark {
+  display: inline;
 }
 
-/* Success and error messages */
-#mc-success, #mc-error {
-    font-size: 14px;
-    margin-top: 10px;
-    text-align: center;
+html:not(.dark) .logo-light {
+  display: inline;
+}
+
+html:not(.dark) .logo-dark {
+  display: none;
+}
+
+.logo-wrapper img {
+  vertical-align: middle;
+}
+
+.logo-switches {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+#theme-toggle {
+  margin-left: 1rem;
+  padding: 4px;
+}
+
+.header .logo .site-title {
+  font-weight: 700;
+  font-size: 1.6rem;
+  margin-left: 0.4rem;
+  line-height: 1;
+  display: inline-block;
+}
+
+.logo {
+  display: flex;
+}
+
+.logo-light,
+.logo-dark {
+  margin-top: -6px;
 }

@@ -1,6 +1,20 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<style>
+    .logo-light {
+      display: inline;
+    }
+    .logo-dark {
+      display: none;
+    }
+    body.dark .logo-light {
+      display: none;
+    }
+    body.dark .logo-dark {
+      display: inline;
+    }
+  </style>
 {{- if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
 <meta name="robots" content="index, follow">
 {{- else }}
@@ -147,9 +161,6 @@
 </noscript>
 
 {{- partial "extend_head.html" . -}}
-
-<!-- Cloudflare Web Analytics -->
- <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "39d473795edb4db1b25b5695028c0648"}'></script><!-- End Cloudflare Web Analytics -->
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}

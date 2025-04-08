@@ -20,15 +20,13 @@
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
-    {{- if not (or (eq .Title "Contact") (eq .Title "About")) }}
-      <div class="post-meta">
-        {{- partial "post_meta.html" . -}}
-      </div>
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
     {{- end }}
-    {{- partial "translation_list.html" . -}}
-    {{- partial "edit_post.html" . -}}
-    {{- partial "post_canonical.html" . -}}
-  {{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
@@ -61,10 +59,6 @@
 
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
-  {{- end }}
-
-  {{- if strings.HasPrefix .RelPermalink "/blog/" }}
-    {{ partial "convertkit-blog-form.html" . }}
   {{- end }}
 </article>
 

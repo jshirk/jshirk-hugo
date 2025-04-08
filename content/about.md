@@ -1,10 +1,6 @@
 ---
 title: "About"
 draft: false
-menu:
-  main:
-    weight: 3
-
 ---
 
 I’m a follower of Jesus, husband, and dad, and I live in Ljubljana, Slovenia where I enjoy helping people discover who Jesus is and live in a way that will matter for eternity. I’m trying to faithfully **apply the ancient (yet incredibly relevant) teachings of Jesus to a modern world**. I love sharing what I’m learning—both to help others and to refine my own thinking.  

@@ -24,6 +24,11 @@ params:
   ShowReadingTime: true
   ShowWordCount: true
   tagline: "The Useful Life"
+  logo:
+    icon: "images/logo-light.png"      # For light theme (dark text)
+    iconDark: "images/logo-dark.png"   # For dark theme (light text)
+    iconHeight: 30
+    text: "Jordan Shirkman | The Useful Life"
 
   assets:
     favicon: "favicon.ico"

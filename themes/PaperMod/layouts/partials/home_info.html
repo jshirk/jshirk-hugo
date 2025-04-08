@@ -5,21 +5,9 @@
     </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
-        <br>
-        <br>
-        <!-- ✅ Subscribe Form (Now Part of home_info.html) -->
-        <p>Join a growing community of clever people sharpening their thinking, learning practical frameworks, and doing more of what truly matters.</p>
-        <br>
-        <br>
-
-        {{ partial "subscribe.html" . }}
-
-        <p id="success-message" style="display:none; color: green;">🎉 Thanks for subscribing! Check your email.</p>
-        <p id="error-message" style="display:none; color: red;">⚠️ Something went wrong. Try again.</p>
     </div>
-
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
 </article>
-{{- end }}
+{{- end -}}
