@@ -11,7 +11,7 @@ I’d love to hear from you. Whether you have a question, feedback, or just want
 ### **Newsletter**
 Want to stay updated via weekly email newsletter? Join a growing community of clever people sharpening their thinking, learning practical frameworks, and doing more of what truly matters.
 
-{{< convertkit-form >}}
+{{< convertkit-blog-form >}}
 
 ### **Social Media**
 You can also find me here:  

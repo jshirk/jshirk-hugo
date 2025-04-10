@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,700&display=swap');
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display SC', serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+blockquote {
+  font-style: italic;
+  color: #555; /* Softer color for a reflective tone */
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  margin-left: 0;
+}
+
 .main {
   position: relative;
   min-height: calc(100vh - var(--header-height) - var(--footer-height));
