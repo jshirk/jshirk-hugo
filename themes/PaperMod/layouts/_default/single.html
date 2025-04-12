@@ -40,6 +40,12 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
+
+  <!-- ✉️ Kit Newsletter Signup Below Post -->
+  <div class="post-subscribe">
+    <h3>Enjoyed this? Get useful thoughts like this every week by subscribing below:</h3>
+    {{ partial "convertkit-blog-form.html" . }}
+  </div>
   {{- end }}
 
   <footer class="post-footer">
