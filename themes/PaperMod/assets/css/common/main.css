@@ -114,11 +114,6 @@ html:not(.dark) .logo-dark {
   margin-left: auto;
 }
 
-#theme-toggle {
-  margin-left: 1rem;
-  padding: 4px;
-}
-
 .header .logo .site-title {
   font-weight: 700;
   font-size: 1.6rem;
