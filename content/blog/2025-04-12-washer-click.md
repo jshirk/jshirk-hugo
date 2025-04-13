@@ -45,15 +45,15 @@ And then, by some miracle (or divine whisper), I noticed a few tiny grooves on t
 
 That sound.
 
-That *satisfying*, unmistakable *click*heard 'round the laundry room.
+That *satisfying*, unmistakable *click* heard 'round the laundry room.
 
 It wasn't just the distinct sound of plastic snapping into place. It was the song of order being *restored*.
 
 Design being *fulfilled*.
 
-Something _finally_ finding the place it was destined to go.
+Something *finally* finding the place it was destined to go.
 
-(I promptly removed the piece, started recording a video, and clicked it back into place again to send it to my dad and Bosch support.)
+I promptly removed the piece, started recording a video, and clicked it back into place again to send it to my dad and Bosch support.
 
 There’s a few morals to the story beyond don’t buy a Bosch washer or expect their support to be of any help.
 
@@ -69,27 +69,25 @@ There are parts of our lives that feel like that extra—maybe even unnecessary�
 
 There are parts of *us* like that too. The talent that's gone undeveloped. The longing that hasn't been satisfied. The wound that you don't know how to heal from.
 
-Sometimes we try to jam it where it doesn't fit. Other times we try to ignore it and see if we can just keep operating without it clicking into place. Almost always, it takes longer than we hoped to find where it goes.
+Sometimes we try to jam it where it doesn't fit. Other times we try to ignore it and see if we can just keep operating without it clicking into place. **Almost always, it takes longer than we hoped to find where it goes.**
 
-Finding where things go, and how things in our life are supposed to fit together, is a long and challenging process. We can't just force things into places where they aren't meant to go. But we can keep searching, keep trying, keep twisting and tweaking until we hear that *click.*
+Finding where things go, and how things in our life are supposed to fit together, is a long and challenging process. We can't just force things into places where they aren't meant to go. But we can keep searching, keep trying, keep twisting and tweaking until we hear that *click*.
 
-**A few reflections:**
+## A Few Reflections
 
-• **Things are made for a purpose.** That includes you. 
+• **Things are made for a purpose.** That includes you. You're far more than a bunch of biological processes just firing off. You are a created being, made for love, purpose, community, and a whole lot more.
 
-• **Misplaced doesn’t mean useless.** Just because you can’t see the fit yet doesn’t mean it doesn't go somewhere and doesn't serve a function.
+• **Misplaced doesn’t mean useless.** Just because you can’t see the fit yet doesn’t mean it doesn't go somewhere or doesn't serve a function.
 
-• **Design takes time.** Sometimes God takes His time aligning us with the good works He has prepared in advance (Ephesians 2:10).
+• **Design takes time.** Sometimes God takes His time aligning us with the good works he has prepared in advance (Ephesians 2:10). Stay patient. Keep fiddling. 
 
-• **Don’t settle for “good enough.”** I almost wedged that piece behind a pipe and called it good. But I wouldn’t have had peace. And I would’ve missed the joy of that click.
+• **Don’t settle for “good enough.”** I almost wedged that piece behind a pipe and called it good. But I wouldn’t have had peace. And I would’ve missed the joy of that click. (And certainly my washer wouldn't have continued to function the way it was designed to.)
 
 If you’re in a season of questioning your place—vocationally, relationally, spiritually—write down what you *do* know.
 
-What’s true of your design? 
-
-What brings you life? 
-
-What stirs your heart?
+- What’s true of your design? 
+- What brings you life? 
+- What stirs your heart?
 
 **God always designs with a purpose**. It might not be time for the click yet, but that doesn’t mean it’s not coming.
 
