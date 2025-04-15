@@ -53,7 +53,7 @@ Design being *fulfilled*.
 
 Something *finally* finding the place it was destined to go.
 
-I promptly removed the piece, started recording a video, and clicked it back into place again to send it to my dad and Bosch support.
+I promptly removed the piece, [started recording a video](https://youtube.com/shorts/FO12qi3u9XY), and clicked it back into place again to send it to my dad and Bosch support.
 
 There’s a few morals to the story beyond don’t buy a Bosch washer or expect their support to be of any help.
 
