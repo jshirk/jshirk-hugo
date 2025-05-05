@@ -13,7 +13,7 @@ draft: false
 
 What I'm suggesting might just change your relationship with everyone around you.
 
-About two and a half years ago, some friends from Finland introduced me to a new way of interacting with people through prayer. They encouraged me to not just pray for other people who share the same faith, but to start praying with people—even people who don't pray, don't share my same faith, or aren't spiritual at all.
+Two and a half years ago, some friends from Finland introduced me to a new way of interacting with people through prayer. They encouraged me to not just pray for other people who share the same faith, but to start praying with people—even people who don't pray, don't share my same faith, or aren't spiritual at all.
 
 Since then, I've prayed with countless people—a Kobe Bryant lookalike in the Charles de Gaulle Airport in Paris, a French atheist on a plane, multiple restaurant workers, neighbors, agnostic friends, and lots of others in between.
 
