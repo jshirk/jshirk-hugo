@@ -53,7 +53,17 @@ The things we are looking to for satisfaction are often stand-ins for deeper nee
 
 Food is good! But food is bad if we think it will fill the hole in our heart instead of just the emptiness of our stomach.  
 
-The real problem with the hedonic treadmill? We try to make *proximate* things into *ultimate* things.
+Over 2,500 years before the invention of treadmills, the prophet Jeremiah named the cycle we’re still stuck in:
+
+> For my people have committed two evils:
+> They have forsaken me, the fountain of living waters,
+> and hewed out cisterns for themselves—
+> broken cisterns that can hold no water.
+> — Jeremiah 2:13
+
+God’s people walked away from the source of life and tried to find their own complete satisfaction in all the wrong places. Their homemade cisterns were busted beyond repair and couldn’t hold a drop to satisfy their deepest longings. We do the same thing today, chasing satisfaction in things that were never designed to deliver it.
+
+The real problem with the hedonic treadmill, no matter what era we're living in? We try to make *proximate* things into *ultimate* things.
 ## How Do We Unplug This Treadmill?
 
 The reason I love the term "hedonic treadmill" is because you have to keep moving as things speed up. More of this, more of that. Amazon boxes piling up in a corner of your home. This vacation. That achievement. 
