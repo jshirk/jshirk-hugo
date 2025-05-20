@@ -2,7 +2,7 @@
 title: "Apparent Constraints vs. Actual Constraints"
 author: "Jordan Shirkman"
 type: post
-date: 2025-05-20T12:01:22+00:00
+date: 2025-05-19T12:01:22+00:00
 slug: /actual-constraints/
 categories:
   - Methodology
