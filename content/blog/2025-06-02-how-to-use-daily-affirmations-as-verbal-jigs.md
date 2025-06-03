@@ -62,9 +62,9 @@ I like to think of affirmations as **verbal jigs**.
 
 You already know a tough situation will come up:
 
-– Your kids misbehave.
-– Your coworker misses a deadline.
-– Your spouse forgets something they promised.
+- Your kids misbehave.
+- Your coworker misses a deadline.
+- Your spouse forgets something they promised.
 
 That’s the cue to use your jig—to apply your affirmation.
 
