@@ -86,9 +86,11 @@ Gut reactions are hard to change. But here’s a simple, repeatable way to start
 When you blow up, shut down, or spiral—pause. Pay attention. Identify what you did and why that response wasn't what you were hoping for.
 ### **2.** **Create your “verbal jig.”**
 
-What would the _ideal_ response look like? Write it out. Be specific. Here’s one I wrote recently:
+What would the _ideal_ response look like? Write it out. Be specific. Here are a few I've reminded myself of recently: 
 
-- ADD FROM JOURNAL
+- I can stay calm and patient when my kids are disobeying or out of control. I can react as Jesus would because I have his Spirit.
+- I can be fully present with my family because the best and most important stuff is happening right here.
+- The chaos around me does not define or control me. Jesus is with me in the boat, even when there are storms.
 
 ### **3.** **Practice remembering it before it happens.**
 
