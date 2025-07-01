@@ -16,11 +16,12 @@ Two other friends had major changes this week, too—reminders that our lives ar
 
 We live on the edge of global instability. Uncertainty is everywhere.
 
-And I like certainty. I like to plan and prepare so everything turns out the way I imagined.
+And I like certainty. I like to plan and prepare so everything turns out the way I imagined. It's probably because anxiety swells where certainty recedes.
 
 But no amount of planning or preparing can give me peace in a world that is broken and unpredictable. I can control some inputs, but I can’t guarantee the outcomes. None of us can.
 
 If I base my peace on how well life is going or how much control I feel, I’ll never actually have peace.
+
 
 I need a peace that doesn’t dissipate at the slightest change.
 
@@ -63,6 +64,10 @@ If you follow Jesus, you receive his peace by trusting him and his will, even wh
 > "Not my will, but yours be done. I don’t understand this, but I trust you. You are with me, and you give me your peace."
 
 It’s a daily surrender: letting go of our illusion of control and clinging to his unchanging promise: "I will never leave you nor forsake you" (Hebrews 13:5).
+
+If you aren't following Jesus, you're untethered from the only solid, stable, peace-guaranteeing person in the universe. 
+
+He is ready and willing to offer you his peace, if you’ll receive it by faith.
 
 No planner, no spreadsheet, no emergency fund can give you the kind of peace that Jesus offers.
 
