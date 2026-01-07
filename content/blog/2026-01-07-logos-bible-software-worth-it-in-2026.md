@@ -17,6 +17,8 @@ I've been a Logos Bible user for a number of years, but I wasn't using it to its
 
 I hope this review is uniquely helpful as I share the specifics of how I use Logos, call out the best way to start with Logos, and note the software's limitations. **The best tool is one that is a joy to use and gets the job done.** Logos has become that for me through trial and error and using the software as it is designed to work.
 
+If you already know you want to give Logos a try, here's my affiliate link for an [extended 60-day free trial](logos.sjv.io/jshirk).
+
 ## How I Use Logos
 
 I use Logos every day to read my Bible. My default layout shows my Bible reading plan, my Bible, notes, and a single-volume Bible commentary. When I open Logos, this is what I see.
@@ -49,7 +51,7 @@ There are lots of tools and specific terms in Logos, and learning them will help
 
 One learning curve is understanding the difference between a **subscription**, which enables access to tools versus a **library**, which gives you access to resources like books, Bible translations, and commentaries. You can think of the subscription as the engine of Logos and the resources as the fuel. 
 
-To take the analogy one step further, having less high-octane fuel (high-quality resources) is better than a full tank of low-octane fuel (low-quality resources). I have slowly built my library more piecemeal, so it is full of authors I respect with godly insight without just buying larger libraries at a steeper discount but with more resources I don't actually want or need. 
+To take the analogy one step further, having less high-octane fuel (high-quality resources) is better than a full tank of low-octane fuel (low-quality resources). I have slowly built my library more piecemeal, so it is full of authors I respect with godly insight without just buying larger libraries at a steeper discount but with more resources I don't actually want or need. If there's a library that has all you're hoping for, it's a great value and it's worth browsing the [library options](http://logos.sjv.io/jshirk?u=https://www.logos.com/configure/libraries?trackName=Standard) here.
 
 If you want access to all of the tools in Logos, you need to have a subscription. The AI-enabled search alone makes a Logos subscription worth the money if you're really digging into Biblical texts with a desire to reference commentaries, dictionaries, and other resources.
 
@@ -57,13 +59,17 @@ Here's a breakdown of the subscription tiers and what's included:
 
 ![Image](/images/2-logos-subscription-tiers.jpeg)
 
-There are three levels of subscriptions: Premium ($8.99 / month), Pro ($12.99 / month) and Max ($16.99 / month). Like most subscriptions, if you pay annually (or for two years upfront) instead of monthly, there's a greater discount. The best option is to use my affiliate link and take Logos for a 60-day spin and then decide if it's right for you. **ADD LINK**
+There are three levels of subscriptions: Premium ($8.99 / month), Pro ($12.99 / month) and Max ($16.99 / month). Like most subscriptions, if you pay annually (or for two years upfront) instead of monthly, there's a greater discount. The best option is to use my affiliate link and [take Logos for a 60-day spin](http://logos.sjv.io/jshirk) and then decide if it's right for you. 
 
-Subscribers also get an additional 5% off books, a 5% credit from all they purchased in a calendar year via a discount code in February, and an extra free book per month.
+**Subscribers also get an additional 5% off books, a 5% credit from all they purchased in a calendar year via a discount code in February, and an extra free book per month.**
+
+## AI Tools
 
 If you're going to subscribe, I think **Pro is the best option for almost anyone**. Premium doesn't offer integration with your physical library and Max has just a few extra niche, mostly language-focused tools. A subscription enhances Logos tremendously as it gives you access to their new AI-enabled Smart Search. Without Smart Search, you have to use complicated search syntax to do more powerful searches. The AI-enabled Smart Search, on the other hand, allows you to ask questions in natural language to mine the Bible and your library for answers.
 
-Here's an example of how valuable the new search has become for me. I wanted to answer the question, "How often does Jesus teach in the temple or a synagogue in comparison to out among people, in villages and towns, and to the masses?" That's a project that would take hours of careful reading and labeling. But with Logos Smart Search, I can do it in an instant. Logos tags pronouns and connects them to the person, so I can search for Jesus and passages that say "he" in reference to Jesus still appear. That's not possible without very careful study in a physical text. 
+**Study Assistant** is the latest tool built on top of Smart Search. You can follow up in a chat-style discussion after your search results appear. It looks like a standard AI chat, but with Logos resources linked in each response. This is AI done right for serious Bible study. You know exactly what sources are being referenced and you can purchase them via direct links from the chat if you don't already own them.
+
+Here's an example of how valuable the new Smart Search has become for me. I wanted to answer the question, "How often does Jesus teach in the temple or a synagogue in comparison to out among people, in villages and towns, and to the masses?" That's a project that would take hours of careful reading and labeling. But with Logos Smart Search, I can do it in an instant. Logos tags pronouns and connects them to the person, so I can search for Jesus and passages that say "he" in reference to Jesus still appear. That's not possible without very careful study in a physical text. 
 
 This used to require finicky syntax in Logos, but the new Smart Search is simple and natural.
 
@@ -77,7 +83,7 @@ If you want to compare all the other specifics of each subscription, check out t
 
 Subscriptions also include more resources that you have temporary access to as long as you maintain your subscriptions. With the Logos Legacy Fallback license, after two years of subscribing, you get to keep all the non-AI tools (but not temporary resources) that Logos released in that period even if you end your subscription.
 
-## Why Not Regular Ai?
+## Why Not Regular AI?
 
 As a quick aside, you might be wondering, "Why don't I just use a normal AI tool to ask these questions instead of subscribing to Logos?" Your sources matter. With a standard AI tool, content is being pulled from anywhere, but Logos allows you to select the resources you want to search, so if you trust your sources you can trust the results. Like many AI tools, the more specific the tool the better it handles the task. So, a standard AI without specific training can’t compete with the model Logos has built. 
 
@@ -126,7 +132,7 @@ Here's the bare bones I'd recommend to start with:
 
 One of the "Starter" libraries can give you all of those things for much less, and later I'll share more about how to save money once you commit to Logos. Once you're committed, it's best to find a higher-level library that meets your needs such as a Silver or Gold Level. I prefer the Reformed Libraries generally, but it's worth comparing the different libraries in the tier you're interested in to find what resources best suit you.
 
-## Where Do I Start And Is It For Me?
+## Where Do I Start and Is It For Me?
 
 I think having some AI credits (and thus a subscription at any level) is what really unlocks the power of Logos in 2026. It enables information that otherwise wouldn't be available to you in the form of summaries of books you own and even some you don't. If Logos is pulling from a resource you don't own, it will show a lock next to it and give you an option to buy that resource. That's a win for you because you get a snippet of information, but also for the author, because it exposes you to books you otherwise may not have heard of and may decide to buy.
 
@@ -141,7 +147,7 @@ then Logos is probably not for you.
 
 Logos is built as a desktop-first software. You can access all resources but not all tools via mobile apps, and it, like all other apps, is limited due to smaller screen real estate. Something I appreciate on mobile that for some reason isn’t available on the desktop is “Follow only” as a link method, so when you scroll on a second, linked resource on a phone or tablet, your place stays on the primary source (so you can stay where you are in your Bible while scrolling through a commentary). On desktop, one workaround is clicking and dragging a resource so it isn't automatically part of a link set, but the follow only function would be nice to have on desktop.
 
-## A Few Quirks And Tips
+## A Few Quirks and Tips
 
 I've found that if something doesn't work the way I think it should in Logos, it's probably because I'm using it "wrong," and working against the grain of how the software was designed. In Logos, there is almost always a best way to do things, and then there are workarounds that will probably leave you frustrated. If the Logos team is pushing a tool (like the Insights panel linked to your top resources or Smart Search) it’s best to use them because the software will continue to grow around those tools by default. 
 
@@ -211,6 +217,8 @@ Logos is actively developed and has thousands of resources available that regula
 Logos is worth it if you’re serious about Bible study, not just Bible reading. If you rarely reference anything other than the Bible, it’s not the right tool for you. Buy a really nice leather-bound Bible instead. 
 
 If you want to be able to search a digital and physical library, dig into original language tools, amass a digital library that’s always with you, and go further, faster in your Bible study, I recommend it to you. 
+
+Again, here's a link to try Logos for [free for 60 days](logos.sjv.io/jshirk) to kick the tires and see if it's the right tool for you.
 
 I’d love to hear how you’re using Logos or what questions you still have if you’re on the fence. 
 
