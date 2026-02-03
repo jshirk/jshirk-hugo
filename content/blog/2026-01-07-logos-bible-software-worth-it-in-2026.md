@@ -17,7 +17,7 @@ I've been a Logos Bible user for a number of years, but I wasn't using it to its
 
 I hope this review is uniquely helpful as I share the specifics of how I use Logos, call out the best way to start with Logos, and note the software's limitations. **The best tool is one that is a joy to use and gets the job done.** Logos has become that for me through trial and error and using the software as it is designed to work.
 
-If you already know you want to give Logos a try, here's my affiliate link for an [extended 60-day free trial](logos.sjv.io/jshirk).
+If you already know you want to give Logos a try, here's my affiliate link for an [extended 60-day free trial](https://logos.sjv.io/jshirk).
 
 ## How I Use Logos
 
@@ -51,7 +51,7 @@ There are lots of tools and specific terms in Logos, and learning them will help
 
 One learning curve is understanding the difference between a **subscription**, which enables access to tools versus a **library**, which gives you access to resources like books, Bible translations, and commentaries. You can think of the subscription as the engine of Logos and the resources as the fuel. 
 
-To take the analogy one step further, having less high-octane fuel (high-quality resources) is better than a full tank of low-octane fuel (low-quality resources). I have slowly built my library more piecemeal, so it is full of authors I respect with godly insight without just buying larger libraries at a steeper discount but with more resources I don't actually want or need. If there's a library that has all you're hoping for, it's a great value and it's worth browsing the [library options](http://logos.sjv.io/jshirk?u=https://www.logos.com/configure/libraries?trackName=Standard) here.
+To take the analogy one step further, having less high-octane fuel (high-quality resources) is better than a full tank of low-octane fuel (low-quality resources). I have slowly built my library more piecemeal, so it is full of authors I respect with godly insight without just buying larger libraries at a steeper discount but with more resources I don't actually want or need. If there's a library that has all you're hoping for, it's a great value and it's worth browsing the [library options](https://logos.sjv.io/jshirk?u=https://www.logos.com/configure/libraries?trackName=Standard) here.
 
 If you want access to all of the tools in Logos, you need to have a subscription. The AI-enabled search alone makes a Logos subscription worth the money if you're really digging into Biblical texts with a desire to reference commentaries, dictionaries, and other resources.
 
@@ -59,7 +59,7 @@ Here's a breakdown of the subscription tiers and what's included:
 
 ![Image](/images/2-logos-subscription-tiers.jpeg)
 
-There are three levels of subscriptions: Premium ($8.99 / month), Pro ($12.99 / month) and Max ($16.99 / month). Like most subscriptions, if you pay annually (or for two years upfront) instead of monthly, there's a greater discount. The best option is to use my affiliate link and [take Logos for a 60-day spin](http://logos.sjv.io/jshirk) and then decide if it's right for you. 
+There are three levels of subscriptions: Premium ($8.99 / month), Pro ($12.99 / month) and Max ($16.99 / month). Like most subscriptions, if you pay annually (or for two years upfront) instead of monthly, there's a greater discount. The best option is to use my affiliate link and [take Logos for a 60-day spin](https://logos.sjv.io/jshirk) and then decide if it's right for you. 
 
 **Subscribers also get an additional 5% off books, a 5% credit from all they purchased in a calendar year via a discount code in February, and an extra free book per month.**
 
@@ -166,7 +166,7 @@ I still don't have a solution for the general clutter of Logos, but because the 
 
 **Take the time to organize your library and set preferred books.** This is a hidden but critical part of optimizing Logos. [Here's an article that explains exactly how to prioritize books.](https://support.logos.com/hc/en-us/articles/360019683652-Prioritize-Books). I have the New Bible Commentary as my "default" commentary, and any commentary that is better and more book-specific gets placed above that, and anything that isn't as good stays ranked below it, so whenever I open a book and click on commentaries for that book, I know that my preferred commentaries are above that baseline.
 
-![Image](/images/5-logos-prioritized books.jpeg)
+![Image](/images/5-logos-prioritized-books.jpeg)
 
 The process of doing this is a hassle, but it's a necessary step. This is one of the main areas I hope Logos improves in future updates.
 
@@ -184,11 +184,9 @@ Here you can browse a list of [previous webinars](https://www.bigmarker.com/comm
 
 ## Start Slow To Save
 
-You need to have some resources to get the most out of Logos, but there is no rush. **There will always be another sale.** Logos resources are constantly going on sale and cycle throughout the year with huge sales for March Madness in the spring, and Black Friday in the fall, and lots in between. They also give away five books a month (including an audiobook and one focused on Roman Catholic resources) if you're a subscriber using these links:
+You need to have some resources to get the most out of Logos, but there is no rush. **There will always be another sale.** Logos resources are constantly going on sale and cycle throughout the year with huge sales for March Madness in the spring, and Black Friday in the fall, and lots in between. They also give away four books a month if you're a subscriber (or three if you don't subscribe) using these links:
 
 - https://logos.com/free-book (twice per month - one book from 1-15th of the month, another from 15th to end of month)
-- https://logos.com/free-ebook (typically a monograph or non-commentary)
-- https://logos.com/free-audiobook (audiobook)
 - https://logos.com/free-book/subscriber (subscriber only)
 - https://www.logos.com/another-free-book (Roman Catholic resource)
 
@@ -218,7 +216,7 @@ Logos is worth it if you’re serious about Bible study, not just Bible reading.
 
 If you want to be able to search a digital and physical library, dig into original language tools, amass a digital library that’s always with you, and go further, faster in your Bible study, I recommend it to you. 
 
-Again, here's a link to try Logos for [free for 60 days](logos.sjv.io/jshirk) to kick the tires and see if it's the right tool for you.
+Again, here's a link to try Logos for [free for 60 days](https://logos.sjv.io/jshirk) to kick the tires and see if it's the right tool for you.
 
 I’d love to hear how you’re using Logos or what questions you still have if you’re on the fence. 
 
