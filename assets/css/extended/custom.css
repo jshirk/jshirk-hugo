@@ -1,7 +1,23 @@
 /* Site customizations for jshirk.com, loaded after PaperMod's CSS.
    Moved here from edits made inside themes/PaperMod (do not edit the theme). */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,700&display=swap');
+/* Playfair Display SC, self-hosted (Latin subset, SIL Open Font License: static/fonts/OFL.txt).
+   Italic 700 is preloaded in layouts/partials/extend_head.html. */
+@font-face {
+  font-family: 'Playfair Display SC';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/playfair-display-sc-italic-400-latin.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Playfair Display SC';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/playfair-display-sc-italic-700-latin.woff2) format('woff2');
+}
 
 h1, h2, h3, h4 {
   font-family: 'Playfair Display SC', serif;
@@ -20,32 +36,28 @@ blockquote {
   --code-bg: rgb(29, 30, 32);
 }
 
-.logo-light {
-  display: inline;
+/* Header: one small logo mark that takes the text colour, so it suits both themes */
+.logo-mark {
+  display: inline-block;
+  flex: none;
+  width: 30px;
+  height: 27px;
+  background-color: currentColor;
+  -webkit-mask: url(/images/logo-mark.png) center / contain no-repeat;
+  mask: url(/images/logo-mark.png) center / contain no-repeat;
 }
 
-.logo-dark {
-  display: none;
+.header .site-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-width: 0;
 }
 
-html.dark .logo-light {
-  display: none;
-}
-
-html.dark .logo-dark {
-  display: inline;
-}
-
-html:not(.dark) .logo-light {
-  display: inline;
-}
-
-html:not(.dark) .logo-dark {
-  display: none;
-}
-
-.logo-wrapper img {
-  vertical-align: middle;
+.header .logo .site-title {
+  font-weight: 600;
+  font-size: 1.6rem;
+  line-height: 1;
 }
 
 .logo-switches {
@@ -54,19 +66,45 @@ html:not(.dark) .logo-dark {
   margin-left: auto;
 }
 
-.header .logo .site-title {
-  font-weight: 700;
-  font-size: 1.6rem;
-  margin-left: 0.4rem;
-  line-height: 1;
-  display: inline-block;
-}
-
 .logo {
   display: flex;
+  min-width: 0;
 }
 
-.logo-light,
-.logo-dark {
-  margin-top: -6px;
+/* Phones: stack the name above the publication title so the header fits */
+@media (max-width: 600px) {
+  .header .logo .site-title {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .header .site-title-name {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--secondary);
+  }
+
+  .header .site-title-pub {
+    font-size: 1.35rem;
+  }
+
+  .header .site-title-sep {
+    display: none;
+  }
+
+  #menu {
+    gap: 0 18px;
+  }
+
+  #menu li + li {
+    margin-inline-start: 0;
+  }
+}
+
+/* The signup prompt is an h2 for heading order; keep its previous size */
+.post-subscribe .post-subscribe-title {
+  font-size: 1.17em;
+  line-height: 1.2;
+  margin: 0;
 }

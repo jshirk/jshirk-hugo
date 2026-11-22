@@ -34,4 +34,3 @@
 /blog/subscribe
 /blog/tag/charity-water
 /images/
-/safari-pinned-tab.svg
