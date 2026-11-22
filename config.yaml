@@ -22,7 +22,7 @@ params:
   ShowFullTextinRSS: true
   ShowPostNavLinks: true
   ShowReadingTime: true
-  ShowWordCount: true
+  ShowWordCount: false
   tagline: "The Useful Life"
   logo:
     icon: "images/logo-light.png"      # For light theme (dark text)

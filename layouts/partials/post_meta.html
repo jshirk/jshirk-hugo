@@ -1,0 +1,24 @@
+{{- /*
+  Post byline. Publish dates and word counts are not shown to readers; they stay in
+  front matter, RSS, the sitemap, and structured data (see CLAUDE.md).
+  "Last updated" is added on the post page itself by last_updated.html.
+*/ -}}
+{{- $meta := slice }}
+
+{{- if (.Param "ShowReadingTime") -}}
+{{- $meta = $meta | append (i18n "read_time" .ReadingTime | default (printf "%d min read" .ReadingTime)) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") -}}
+{{- with (partial "author.html" .) }}
+{{- $meta = $meta | append (printf "By %s" .) }}
+{{- end }}
+{{- end }}
+
+{{- with .Params.categories }}
+{{- $meta = $meta | append (delimit . ", ") }}
+{{- end }}
+
+{{- with $meta }}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
