@@ -24,6 +24,9 @@ params:
   ShowReadingTime: true
   ShowWordCount: false
   tagline: "The Useful Life"
+  # Social preview cards (layouts/partials/og-image.html). Posts get their own title;
+  # every other page uses this line from the homepage.
+  socialCardText: "Moving from chaos to clarity through decisive action."
   logo:
     # The header mark is static/images/logo-mark.png, drawn in the text colour by CSS
     text: "Jordan Shirkman | The Useful Life"
