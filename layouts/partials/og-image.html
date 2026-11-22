@@ -1,0 +1,32 @@
+{{- /*
+  Returns the social preview image for a page as a dict {url, width, height}.
+  1. `cover.image` or the first of `images:` in front matter, if set (an override for one post).
+  2. Otherwise a 1200x630 card drawn at build time: assets/og/base.png plus the post title, drawn inside assets/og/title-area.png
+     (or params.socialCardText on non-post pages) in Playfair Display SC.
+  Hugo caches the generated images in resources/_gen.
+*/ -}}
+{{- $override := "" }}
+{{- with .Params.cover.image }}
+{{- $override = . }}
+{{- else }}
+{{- with .Params.images }}
+{{- $override = cond (reflect.IsSlice .) (index . 0) . }}
+{{- end }}
+{{- end }}
+{{- $out := dict }}
+{{- if $override }}
+{{- $out = dict "url" ($override | absURL) }}
+{{- else }}
+{{- $text := site.Params.socialCardText | default site.Title }}
+{{- if and .IsPage (eq .Section "blog") }}
+{{- $text = .Title | plainify | htmlUnescape }}
+{{- end }}
+{{- $size := 58 }}
+{{- if le (len $text) 30 }}{{ $size = 80 }}{{ else if le (len $text) 55 }}{{ $size = 68 }}{{ end }}
+{{- $font := resources.Get "fonts/PlayfairDisplaySC-BoldItalic.ttf" }}
+{{- /* Draw the title on a transparent layer as wide as the text area, so lines wrap inside the margins */}}
+{{- $title := (resources.Get "og/title-area.png").Filter (images.Text $text (dict "font" $font "size" $size "x" 0 "y" 0 "color" "#25231F" "linespacing" 10)) }}
+{{- $card := (resources.Get "og/base.png").Filter (images.Overlay $title 80 186) }}
+{{- $out = dict "url" $card.Permalink "width" $card.Width "height" $card.Height }}
+{{- end }}
+{{- return $out -}}
