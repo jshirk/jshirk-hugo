@@ -1,0 +1,41 @@
+{{- /*
+  The one newsletter signup. Usage:
+    {{ partial "newsletter.html" (dict "page" . "variant" "band" "title" "Enjoyed this? Get useful ideas each week.") }}
+  Variants: "inline" (inside page text: label, field, button, promise) and "band" (a full
+  section with a headline and a short pitch, used after posts).
+
+  It is a real Kit form (data/newsletter.json): with JavaScript, Kit's script submits it in
+  place and shows Jordan's success message; without JavaScript it posts straight to Kit,
+  which shows its hosted confirmation page. Keep Kit's attributes: data-sv-form, data-uid,
+  data-format, data-options, the email_address input, and the data-element hooks.
+*/ -}}
+{{- $page := .page }}
+{{- $variant := .variant | default "inline" }}
+{{- $kit := site.Data.newsletter }}
+{{- $n := add ($page.Store.Get "newsletterCount" | default 0) 1 }}
+{{- $page.Store.Set "newsletterCount" $n }}
+{{- $id := printf "nl-email-%d" $n }}
+{{- if eq $n 1 }}
+<script src="https://f.convertkit.com/ckjs/ck.5.js" defer></script>
+{{- end }}
+<section class="newsletter newsletter-{{ $variant }}" {{ if eq $variant "band" }}aria-labelledby="{{ $id }}-title"{{ else }}aria-label="Newsletter signup"{{ end }}>
+  {{- if eq $variant "band" }}
+  <div class="newsletter-copy">
+    <p class="newsletter-kicker">A weekly letter from Jordan</p>
+    <h2 class="newsletter-title" id="{{ $id }}-title">{{ .title | default "A weekly dose of clarity, creativity, and challenge." }}</h2>
+    <p>Useful ideas each week including frameworks to test, tools worth trying, and truth worth remembering. Join readers doing more of what truly matters.</p>
+  </div>
+  {{- end }}
+  <form class="newsletter-form formkit-form" action="https://app.kit.com/forms/{{ $kit.form }}/subscriptions" method="post"
+        data-sv-form="{{ $kit.form }}" data-uid="{{ $kit.uid }}" data-format="inline" data-version="5"
+        data-options="{{ $kit.options | jsonify }}">
+    <label for="{{ $id }}">Your email address</label>
+    <ul class="newsletter-errors" data-element="errors" data-group="alert"></ul>
+    <div class="newsletter-field" data-element="fields">
+      <input id="{{ $id }}" name="email_address" type="email" autocomplete="email" inputmode="email"
+             placeholder="you@example.com" required aria-describedby="{{ $id }}-fine">
+      <button type="submit" data-element="submit">Subscribe</button>
+    </div>
+    <p class="newsletter-fine" id="{{ $id }}-fine">Free, one email a week, unsubscribe in one click. No spam, ever.</p>
+  </form>
+</section>
