@@ -32,7 +32,9 @@ from `main`. Read `README.md` for build and deploy commands.
 
 ## Newsletter
 
-- Signups go to Kit (formerly ConvertKit), form `7752752`. A form only works if it keeps Kit's
+- Signups go to Kit (formerly ConvertKit), form `7752752`. There is one form component,
+  `layouts/partials/newsletter.html` (settings in `data/newsletter.json`); the `newsletter`,
+  `convertkit-form` and `convertkit-blog-form` shortcodes all render it. A form only works if it keeps Kit's
   attributes: `data-sv-form`, `data-uid`, `data-format="inline"`, the `email_address` input, and the
   `data-element="fields" | "errors" | "submit"` hooks.
 

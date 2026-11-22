@@ -42,11 +42,11 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
 
-  <!-- ✉️ Kit Newsletter Signup Below Post -->
-  <div class="post-subscribe">
-    <h2 class="post-subscribe-title">Enjoyed this? Get useful thoughts like this every week by subscribing below:</h2>
-    {{ partial "convertkit-blog-form.html" . }}
-  </div>
+  {{- /* Newsletter signup at the end, unless the page already placed one (e.g. Contact) */}}
+  {{- if not (.Store.Get "newsletterCount") }}
+  {{- $title := cond (eq .Section "blog") "Enjoyed this? Get useful ideas each week." "" }}
+  {{ partial "newsletter.html" (dict "page" . "variant" "band" "title" $title) }}
+  {{- end }}
   {{- end }}
 
   <footer class="post-footer">

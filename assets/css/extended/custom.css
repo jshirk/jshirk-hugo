@@ -102,9 +102,129 @@ blockquote {
   }
 }
 
-/* The signup prompt is an h2 for heading order; keep its previous size */
-.post-subscribe .post-subscribe-title {
-  font-size: 1.17em;
+/* Newsletter signup (layouts/partials/newsletter.html) */
+.newsletter {
+  --nl-error: #a13a2e;
+  margin: 48px 0 8px;
+}
+
+.dark .newsletter {
+  --nl-error: #f0a49b;
+}
+
+.newsletter-band {
+  display: grid;
+  gap: 24px;
+  padding: 28px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+}
+
+.newsletter-kicker {
+  margin: 0 0 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+.newsletter .newsletter-title {
+  margin: 0 0 10px;
+  font-size: 1.6rem;
   line-height: 1.2;
+}
+
+.newsletter-copy p:last-child {
   margin: 0;
+  color: var(--secondary);
+}
+
+.newsletter-form {
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+}
+
+.newsletter-form label {
+  font-weight: 600;
+}
+
+.newsletter-field {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.newsletter-field input {
+  flex: 1 1 220px;
+  min-width: 0;
+  padding: 0.75em 0.9em;
+  font: inherit;
+  font-size: 1rem;
+  color: var(--primary);
+  background: var(--theme);
+  border: 1.5px solid var(--secondary);
+  border-radius: 6px;
+}
+
+.newsletter-field button {
+  flex: 0 0 auto;
+  padding: 0.75em 1.25em;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--theme);
+  background: var(--primary);
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.newsletter-field button[data-active] {
+  opacity: 0.6;
+}
+
+.newsletter-field input:focus-visible,
+.newsletter-field button:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+.newsletter-fine {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+
+.newsletter-errors:empty {
+  display: none;
+}
+
+.newsletter-errors {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-weight: 600;
+  color: var(--nl-error);
+}
+
+/* Kit's script replaces the fields with this message after a successful signup */
+.newsletter .formkit-alert-success {
+  padding: 14px 16px;
+  font-weight: 600;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: 6px;
+  background: var(--theme);
+}
+
+@media (min-width: 700px) {
+  .newsletter-band {
+    grid-template-columns: 1.1fr 1fr;
+    align-items: center;
+    gap: 40px;
+    padding: 36px;
+  }
 }
