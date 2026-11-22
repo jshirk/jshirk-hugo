@@ -22,7 +22,7 @@ params:
   ShowFullTextinRSS: true
   ShowPostNavLinks: true
   ShowReadingTime: true
-  ShowWordCount: true
+  ShowWordCount: false
   tagline: "The Useful Life"
   logo:
     # The header mark is static/images/logo-mark.png, drawn in the text colour by CSS
