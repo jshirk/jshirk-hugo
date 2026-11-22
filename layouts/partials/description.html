@@ -1,0 +1,23 @@
+{{- /*
+  One description for search results and structured data:
+  front-matter `description`, else a cleaned summary of the page (max 160 characters),
+  else the site description. Returns plain text.
+*/ -}}
+{{- $d := "" }}
+{{- with .Description }}
+{{- $d = . }}
+{{- else }}
+{{- if and (or .IsPage .IsSection) (not .IsHome) }}
+{{- $d = .Summary | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 }}
+{{- end }}
+{{- end }}
+{{- if not $d }}
+{{- if or .IsHome (not .Title) }}
+{{- $d = site.Params.description }}
+{{- else if eq .Kind "term" }}
+{{- $d = printf "Articles about %s from %s" .Title (site.Params.tagline | default site.Title) }}
+{{- else }}
+{{- $d = printf "%s from %s" .Title (site.Params.tagline | default site.Title) }}
+{{- end }}
+{{- end }}
+{{- $d | plainify | htmlUnescape | strings.TrimSpace -}}

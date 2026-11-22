@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-07-20T09:00:52+00:00
 slug: /iphone-home-screen/
-standard_seo_post_meta_description:
-  - "A more-thorough-than-I-realized look at my iPhone's home screen apps."
+description: "A more-thorough-than-I-realized look at my iPhone's home screen apps."
 categories:
   - Technology
 tags:

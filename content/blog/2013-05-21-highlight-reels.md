@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-05-21T09:00:31+00:00
 slug: /highlight-reels/
-standard_seo_post_meta_description:
-  - What to do to quit comparing your life to the lives of those you see on the internet.
+description: "What to do to quit comparing your life to the lives of those you see on the internet."
 categories:
   - Theology
 tags:

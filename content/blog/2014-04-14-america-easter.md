@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2014-04-14T09:00:01+00:00
 slug: /america-easter/
-standard_seo_post_meta_description:
-  - "The reality that Easter can't be twisted into anything but what it is: God's plan to save people."
+description: "The reality that Easter can't be twisted into anything but what it is: God's plan to save people."
 categories:
   - Theology
 

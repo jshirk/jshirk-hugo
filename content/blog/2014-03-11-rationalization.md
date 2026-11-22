@@ -5,8 +5,7 @@ type: post
 date: 2014-03-11T09:00:35+00:00
 slug: /rationalization/
 featured_image: ../images/turned-back.jpg
-standard_seo_post_meta_description:
-  - "Making excuses is one of the human race's greatest superpower. Now let's stop it."
+description: "Making excuses is one of the human race's greatest superpower. Now let's stop it."
 categories:
   - Methodology
 

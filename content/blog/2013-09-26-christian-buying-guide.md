@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-09-26T09:00:59+00:00
 slug: /christian-buying-guide/
-standard_seo_post_meta_description:
-  - A not-so-clear process for deciding on what to get and what to skip.
+description: "A not-so-clear process for deciding on what to get and what to skip."
 categories:
   - Theology
 tags:

@@ -6,8 +6,7 @@ date: 2013-05-09T09:00:00+00:00
 slug: /marveling-at-jesus/
 standard_link_url_field:
   - http://www.beforethecross.com/devotionals/marveling-at-jesus/
-standard_seo_post_meta_description:
-  - A link to my guest post at Before the Cross on standing in amazement of who Jesus is.
+description: "A link to my guest post at Before the Cross on standing in amazement of who Jesus is."
 categories:
   - Theology
 tags:

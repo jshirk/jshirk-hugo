@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2014-03-07T10:00:50+00:00
 slug: /whats-best-next/
-standard_seo_post_meta_description:
-  - My new favorite book on being productive.
+description: "My new favorite book on being productive."
 categories:
   - Theology
 

@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-08-30T09:00:08+00:00
 slug: /mediocrity-guide/
-standard_seo_post_meta_description:
-  - 'A tongue-in-cheek musing on how to lead a meaningless life straight into irrelevance and destruction. '
+description: "A tongue-in-cheek musing on how to lead a meaningless life straight into irrelevance and destruction."
 categories:
   - Methodology
 

@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-08-20T09:00:28+00:00
 slug: /air-travel-guide/
-standard_seo_post_meta_description:
-  - A wonderful, thoughtful and wisdom-rich review of how to properly experience the magic of air travel.
+description: "A wonderful, thoughtful and wisdom-rich review of how to properly experience the magic of air travel."
 categories:
   - Methodology
 tags:

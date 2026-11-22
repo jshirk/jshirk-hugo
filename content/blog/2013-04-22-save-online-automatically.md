@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-04-22T09:00:54+00:00
 slug: /save-online-automatically/
-standard_seo_post_meta_description:
-  - Keep more cash in your virtual wallet by purchasing all Internet items at a discount through these sites, tips and hacks.
+description: "Keep more cash in your virtual wallet by purchasing all Internet items at a discount through these sites, tips and hacks."
 categories:
   - Technology
 tags:

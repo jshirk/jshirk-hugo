@@ -1,0 +1,113 @@
+{{- /*
+  Structured data (JSON-LD). Overrides PaperMod's version so that Jordan, a Person,
+  is the author and publisher everywhere, instead of an Organization.
+  Dates come from front matter exactly as before; never rewrite them.
+*/ -}}
+{{- $home := site.Home.Permalink }}
+{{- $personID := printf "%s#person" $home }}
+{{- $siteID := printf "%s#website" $home }}
+{{- $siteName := site.Params.tagline | default site.Title }}
+{{- $sameAs := slice }}
+{{- range site.Params.socialIcons }}{{ if not (hasPrefix .url "mailto:") }}{{ $sameAs = $sameAs | append .url }}{{ end }}{{ end }}
+{{- $person := dict "@type" "Person" "@id" $personID "name" site.Params.author "url" ("about/" | absURL) "sameAs" $sameAs }}
+{{- $personRef := dict "@type" "Person" "@id" $personID "name" site.Params.author "url" ("about/" | absURL) }}
+{{- $description := partial "description.html" . }}
+
+{{- if .IsHome }}
+{{- $website := dict "@type" "WebSite" "@id" $siteID "url" $home "name" $siteName "alternateName" site.Title "description" site.Params.description "inLanguage" (site.Language.Lang | default "en-us") "publisher" (dict "@id" $personID) "author" (dict "@id" $personID) }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" (slice $website $person) | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- else if (or .IsPage .IsSection) }}
+{{/* BreadcrumbList */}}
+{{- $url := replace .Parent.Permalink ( printf "%s" site.Home.Permalink) "" }}
+{{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
+{{- $bc_list := (split $lang_url "/")}}
+
+{{- $scratch := newScratch }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+  {{- range $index, $element := $bc_list }}
+
+    {{- $scratch.Add "path" (printf "%s/" $element ) | safeJS }}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+
+    {{- if (and ($bc_pg) (gt (len . ) 0))}}
+    {{- if (and $index)}}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add 1 $index  }},
+      "name": {{ $bc_pg.Name }},
+      "item": {{ $bc_pg.Permalink | safeHTML }}
+    }
+    {{- end }}
+
+  {{- end }}
+  {{- /*  self-page addition  */ -}}
+  {{- if (ge (len $bc_list) 2) }}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{len $bc_list}},
+      "name": {{ .Name }},
+      "item": {{ .Permalink | safeHTML }}
+    }
+  ]
+}
+</script>
+
+{{- if and .IsPage (eq .Section "blog") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | plainify}},
+  "name": "{{ .Title | plainify }}",
+  "description": {{ $description }},
+  "keywords": [
+    {{- if .Params.keywords }}
+    {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- else }}
+    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- end }}
+  ],
+  "articleSection": {{ index (.Params.categories | default (slice "")) 0 }},
+  "articleBody": {{ .Content | safeJS | htmlUnescape | plainify }},
+  "wordCount" : "{{ .WordCount }}",
+  "inLanguage": {{ .Language.Lang | default "en-us" }},
+  {{ if .Params.cover.image -}}
+  "image":
+    {{- if (ne .Params.cover.relative true) -}}
+    {{ .Params.cover.image | absURL }},
+    {{- else -}}
+    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
+    {{- end}}
+  {{- else }}
+    {{- $images := partial "partials/templates/_funcs/get-page-images" . -}}
+    {{- with index $images 0 -}}
+  "image": {{ .Permalink }},
+    {{- end }}
+  {{- end -}}
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {{ $personRef | jsonify | safeJS }},
+  "publisher": {{ $personRef | jsonify | safeJS }},
+  "isPartOf": {"@id": {{ $siteID }}},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | safeHTML }}
+  }
+}
+</script>
+{{- else if and .IsPage (eq .RelPermalink "/about/") }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "ProfilePage" "@id" .Permalink "url" .Permalink "name" (.Title | plainify) "description" $description "isPartOf" (dict "@id" $siteID) "mainEntity" $person | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- else if .IsPage }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "WebPage" "@id" .Permalink "url" .Permalink "name" (.Title | plainify) "description" $description "isPartOf" (dict "@id" $siteID) "author" $personRef | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end }}
+{{- end -}}

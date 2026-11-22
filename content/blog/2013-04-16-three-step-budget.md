@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-04-16T09:00:34+00:00
 slug: /three-step-budget/
-standard_seo_post_meta_description:
-  - Budgeting 101, made super simple and easy to follow so you can rock your financial world with money to spare.
+description: "Budgeting 101, made super simple and easy to follow so you can rock your financial world with money to spare."
 categories:
   - Methodology
 tags:

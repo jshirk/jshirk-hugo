@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-03-21T10:00:15+00:00
 slug: /why-mailchimp/
-standard_seo_post_meta_description:
-  - A quick overview of the benefits of using MailChimp for your online newsletter needs.
+description: "A quick overview of the benefits of using MailChimp for your online newsletter needs."
 categories:
   - Technology
 tags:

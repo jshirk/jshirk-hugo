@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-06-10T09:00:44+00:00
 slug: /answering-question/
-standard_seo_post_meta_description:
-  - A simple procedure for finding the answers to difficulty questions in faith.
+description: "A simple procedure for finding the answers to difficulty questions in faith."
 categories:
   - Theology
 tags:

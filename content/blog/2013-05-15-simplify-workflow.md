@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-05-15T09:00:06+00:00
 slug: /simplify-workflow/
-standard_seo_post_meta_description:
-  - A simple process for removing pain points in the work you do and replacing them with awesome efficiency--with real examples of my stupidity.
+description: "A simple process for removing pain points in the work you do and replacing them with awesome efficiency--with real examples of my stupidity."
 categories:
   - Methodology
 tags:

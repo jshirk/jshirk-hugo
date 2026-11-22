@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-04-01T09:00:26+00:00
 slug: /learn-anything/
-standard_seo_post_meta_description:
-  - What it takes to actually learn something, especially helpful for perfectionists and procrastinators.
+description: "What it takes to actually learn something, especially helpful for perfectionists and procrastinators."
 categories:
   - Methodology
 tags:

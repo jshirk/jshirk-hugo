@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-09-06T09:00:19+00:00
 slug: /drafts-ios/
-standard_seo_post_meta_description:
-  - My new favorite app for processing data and sending it to a myriad of apps.
+description: "My new favorite app for processing data and sending it to a myriad of apps."
 categories:
   - Technology
 tags:

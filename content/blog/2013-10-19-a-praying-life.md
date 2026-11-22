@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-10-19T09:00:30+00:00
 slug: /a-praying-life/
-standard_seo_post_meta_description:
-  - "An overview of how Paul Miller's book on prayer has transformed my spiritual life."
+description: "An overview of how Paul Miller's book on prayer has transformed my spiritual life."
 categories:
   - Theology
 tags:

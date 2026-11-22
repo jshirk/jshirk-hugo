@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-03-25T09:00:59+00:00
 slug: /teach-yourself-design/
-standard_seo_post_meta_description:
-  - "All you'll ever need to learn about graphic design for print and web creations."
+description: "All you'll ever need to learn about graphic design for print and web creations."
 categories:
   - Methodology
 tags:

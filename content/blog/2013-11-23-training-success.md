@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-11-23T10:00:46+00:00
 slug: /training-success/
-standard_seo_post_meta_description:
-  - Six reasons proving the necessity of preparation to succeed in work in life.
+description: "Six reasons proving the necessity of preparation to succeed in work in life."
 categories:
   - Methodology
 

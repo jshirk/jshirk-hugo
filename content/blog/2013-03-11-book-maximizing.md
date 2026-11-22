@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-03-11T10:00:28+00:00
 slug: /book-maximizing/
-standard_seo_post_meta_description:
-  - "How to review, store, and document books you've read using Evernote to maximize a book's impact and application."
+description: "How to review, store, and document books you've read using Evernote to maximize a book's impact and application."
 categories:
   - Methodology
 tags:

@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-05-13T09:00:05+00:00
 slug: /fix-long-lists/
-standard_seo_post_meta_description:
-  - The problem with lengthy lists floating around the Internet, and how you can make awesome ones.
+description: "The problem with lengthy lists floating around the Internet, and how you can make awesome ones."
 categories:
   - Methodology
 tags:
