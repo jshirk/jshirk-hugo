@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2014-03-14T11:22:02+00:00
 slug: /why-fiction/
-standard_seo_post_meta_description:
-  - "My case for reading books that aren't real (but are still true)."
+description: "My case for reading books that aren't real (but are still true)."
 categories:
   - Methodology
 

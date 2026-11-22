@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-06-06T09:00:16+00:00
 slug: /sin-is-crime/
-standard_seo_post_meta_description:
-  - Sin is a crime that is punishable by death. Let me explain why.
+description: "Sin is a crime that is punishable by death. Let me explain why."
 categories:
   - Theology
 tags:

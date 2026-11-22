@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-08-16T09:00:14+00:00
 slug: /conference-admission/
-standard_seo_post_meta_description:
-  - The top 5 reasons to attend a conference of any type.
+description: "The top 5 reasons to attend a conference of any type."
 categories:
   - Methodology
 

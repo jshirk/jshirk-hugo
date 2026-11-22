@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-10-02T09:00:24+00:00
 slug: /crazy-busy/
-standard_seo_post_meta_description:
-  - "A look at Kevin DeYoung's latest book, Crazy Busy."
+description: "A look at Kevin DeYoung's latest book, Crazy Busy."
 categories:
   - Theology
 tags:

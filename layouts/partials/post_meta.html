@@ -10,8 +10,11 @@
 {{- end }}
 
 {{- if not (.Param "hideAuthor") -}}
+{{- /* Byline only where the post itself names an author, so pages like About don't get one */}}
+{{- if .Params.author }}
 {{- with (partial "author.html" .) }}
 {{- $meta = $meta | append (printf "By %s" .) }}
+{{- end }}
 {{- end }}
 {{- end }}
 

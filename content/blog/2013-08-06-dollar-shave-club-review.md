@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-08-06T09:00:07+00:00
 slug: /dollar-shave-club-review/
-standard_seo_post_meta_description:
-  - A Dollar Shave Club review in all its awesome glory.
+description: "A Dollar Shave Club review in all its awesome glory."
 categories:
   - Technology
 tags:

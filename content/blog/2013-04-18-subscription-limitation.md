@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-04-18T09:00:37+00:00
 slug: /subscription-limitation/
-standard_seo_post_meta_description:
-  - A novel approach to spending our time and money by leveling the playing field.
+description: "A novel approach to spending our time and money by leveling the playing field."
 categories:
   - Methodology
 tags:

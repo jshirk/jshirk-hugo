@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-04-03T10:00:17+00:00
 slug: /over-confidence/
-standard_seo_post_meta_description:
-  - Stop procrastinating, start getting stuff done, learn why you drop the ball.
+description: "Stop procrastinating, start getting stuff done, learn why you drop the ball."
 categories:
   - Methodology
 tags:

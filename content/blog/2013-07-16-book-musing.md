@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-07-16T09:00:20+00:00
 slug: /book-musing/
-standard_seo_post_meta_description:
-  - My personal thoughts about the ever-raging battle between Kindle and physical books.
+description: "My personal thoughts about the ever-raging battle between Kindle and physical books."
 categories:
   - Technology
 tags:

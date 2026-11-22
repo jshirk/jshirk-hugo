@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-06-26T09:00:05+00:00
 slug: /daily-success/
-standard_seo_post_meta_description:
-  - Changing the way I formerly decided if my day was fruitful by asking more important questions.
+description: "Changing the way I formerly decided if my day was fruitful by asking more important questions."
 categories:
   - Theology
 tags:

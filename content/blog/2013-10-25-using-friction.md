@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-10-25T09:00:48+00:00
 slug: /using-friction/
-standard_seo_post_meta_description:
-  - How I make the most out of friction to make things happen (or to avoid them).
+description: "How I make the most out of friction to make things happen (or to avoid them)."
 categories:
   - Methodology
 

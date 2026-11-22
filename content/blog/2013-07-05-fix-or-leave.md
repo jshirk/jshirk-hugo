@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-07-05T09:00:23+00:00
 slug: /fix-or-leave/
-standard_seo_post_meta_description:
-  - Knowing when to hold them and when to fold them in leadership and correcting team members.
+description: "Knowing when to hold them and when to fold them in leadership and correcting team members."
 categories:
   - Methodology
 tags:

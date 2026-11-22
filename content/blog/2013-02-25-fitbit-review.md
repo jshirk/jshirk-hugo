@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-02-25T11:00:38+00:00
 slug: /fitbit-review/
-standard_seo_post_meta_description:
-  - "The FitBit one: the good, the bad and if it's worth the $100."
+description: "The FitBit one: the good, the bad and if it's worth the $100."
 categories:
   - Technology
 tags:

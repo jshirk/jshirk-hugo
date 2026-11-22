@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-06-18T09:00:36+00:00
 slug: /create-your-manifesto/
-standard_seo_post_meta_description:
-  - 'The simple process for making a life-changing document of values and priorities. '
+description: "The simple process for making a life-changing document of values and priorities."
 categories:
   - Methodology
 tags:

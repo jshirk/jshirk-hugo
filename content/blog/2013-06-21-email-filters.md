@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-06-21T09:00:26+00:00
 slug: /email-filters/
-standard_seo_post_meta_description:
-  - Using awesome email filters to clear junk out of the way and get to work.
+description: "Using awesome email filters to clear junk out of the way and get to work."
 categories:
   - Technology
 tags:

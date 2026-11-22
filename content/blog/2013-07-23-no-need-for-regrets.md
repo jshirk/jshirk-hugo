@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-07-23T09:00:59+00:00
 slug: /no-need-for-regrets/
-standard_seo_post_meta_description:
-  - "Mike Mobley's experience with a salesman, a sandwich and the grace of God in our weaknesses."
+description: "Mike Mobley's experience with a salesman, a sandwich and the grace of God in our weaknesses."
 categories:
   - Theology
 tags:

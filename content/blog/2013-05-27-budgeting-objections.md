@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-05-27T09:00:00+00:00
 slug: /budgeting-objections/
-standard_seo_post_meta_description:
-  - Kicking budgeting myths and taking names all the way into the freeing truth of the awesomeness of budgeting.
+description: "Kicking budgeting myths and taking names all the way into the freeing truth of the awesomeness of budgeting."
 categories:
   - Methodology
 tags:

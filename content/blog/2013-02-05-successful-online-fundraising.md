@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-02-05T12:30:52+00:00
 slug: /successful-online-fundraising/
-standard_seo_post_meta_description:
-  - How to craft a successful online fundraising campaign in 12 simple steps.
+description: "How to craft a successful online fundraising campaign in 12 simple steps."
 categories:
   - Technology
 tags:

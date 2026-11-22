@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-03-19T10:00:11+00:00
 slug: /work-performance-questions/
-standard_seo_post_meta_description:
-  - A self-assessment to evaluate your own work performance in 30 questions.
+description: "A self-assessment to evaluate your own work performance in 30 questions."
 categories:
   - Methodology
 tags:

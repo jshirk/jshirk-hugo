@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2014-03-19T09:00:28+00:00
 slug: /square-cash/
-standard_seo_post_meta_description:
-  - Sending cash with the magic of email.
+description: "Sending cash with the magic of email."
 categories:
   - Technology
 

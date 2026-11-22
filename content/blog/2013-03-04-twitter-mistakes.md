@@ -4,8 +4,7 @@ author: Jordan Shirkman
 type: post
 date: 2013-03-04T11:00:13+00:00
 slug: /twitter-mistakes/
-standard_seo_post_meta_description:
-  - The official style guide to crafting quality tweets by @jshirk.
+description: "The official style guide to crafting quality tweets by @jshirk."
 categories:
   - Technology
 tags:
