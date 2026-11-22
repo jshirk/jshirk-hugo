@@ -1,0 +1,91 @@
+# Netlify redirects: old WordPress-era URLs -> current Hugo URLs.
+# Netlify serves an existing file before checking these rules, so no
+# current page can be shadowed. Rules are matched top to bottom, and a
+# trailing slash is optional on both sides.
+# Post slugs were kept when the site moved from WordPress, so a date-based
+# URL only needs its date removed. Rules are limited to the years the site
+# has posts, so nothing else with the same shape is caught.
+
+# Feeds
+/feed                       /index.xml                      301
+/blog/feed                  /index.xml                      301
+/rss                        /index.xml                      301
+/category/:name/feed        /categories/:name/index.xml     301
+/tag/:name/feed             /tags/:name/index.xml           301
+
+# Category and tag archives
+/category/:name             /categories/:name/              301
+/category/:name/page/:n     /categories/:name/page/:n/      301
+/blog/category/:name        /categories/:name/              301
+/tag/:name                  /tags/:name/                    301
+/tag/:name/page/:n          /tags/:name/page/:n/            301
+/blog/tag/:name             /tags/:name/                    301
+
+# Old WordPress page URLs under /blog/
+/blog/about                 /about/                         301
+/blog/contact               /contact/                       301
+
+# Posts whose slug changed; old links in Jordan's own posts still point at these
+/blog/1-password            /blog/1password/                301
+/blog/book-musings          /blog/book-musing/              301
+/blog/reflecting-on-2014    /blog/reflecting-on-the-year/   301
+
+# Uploaded files: WordPress stored them by year and month; Hugo serves them from /images/
+/wp-content/uploads/:year/:month/:file    /images/:file    301
+
+# Date-based post URLs: /YYYY/MM/slug/, /blog/YYYY/MM/slug/, and the
+# /YYYY/MM/DD/slug/ form used by the earlier jshirkman.wordpress.com blog
+/blog/2009/:month/:slug          /blog/:slug/   301
+/2009/:month/:slug               /blog/:slug/   301
+/2009/:month/:day/:slug          /blog/:slug/   301
+/blog/2010/:month/:slug          /blog/:slug/   301
+/2010/:month/:slug               /blog/:slug/   301
+/2010/:month/:day/:slug          /blog/:slug/   301
+/blog/2011/:month/:slug          /blog/:slug/   301
+/2011/:month/:slug               /blog/:slug/   301
+/2011/:month/:day/:slug          /blog/:slug/   301
+/blog/2012/:month/:slug          /blog/:slug/   301
+/2012/:month/:slug               /blog/:slug/   301
+/2012/:month/:day/:slug          /blog/:slug/   301
+/blog/2013/:month/:slug          /blog/:slug/   301
+/2013/:month/:slug               /blog/:slug/   301
+/2013/:month/:day/:slug          /blog/:slug/   301
+/blog/2014/:month/:slug          /blog/:slug/   301
+/2014/:month/:slug               /blog/:slug/   301
+/2014/:month/:day/:slug          /blog/:slug/   301
+/blog/2015/:month/:slug          /blog/:slug/   301
+/2015/:month/:slug               /blog/:slug/   301
+/2015/:month/:day/:slug          /blog/:slug/   301
+/blog/2016/:month/:slug          /blog/:slug/   301
+/2016/:month/:slug               /blog/:slug/   301
+/2016/:month/:day/:slug          /blog/:slug/   301
+/blog/2017/:month/:slug          /blog/:slug/   301
+/2017/:month/:slug               /blog/:slug/   301
+/2017/:month/:day/:slug          /blog/:slug/   301
+/blog/2018/:month/:slug          /blog/:slug/   301
+/2018/:month/:slug               /blog/:slug/   301
+/2018/:month/:day/:slug          /blog/:slug/   301
+/blog/2019/:month/:slug          /blog/:slug/   301
+/2019/:month/:slug               /blog/:slug/   301
+/2019/:month/:day/:slug          /blog/:slug/   301
+/blog/2020/:month/:slug          /blog/:slug/   301
+/2020/:month/:slug               /blog/:slug/   301
+/2020/:month/:day/:slug          /blog/:slug/   301
+/blog/2021/:month/:slug          /blog/:slug/   301
+/2021/:month/:slug               /blog/:slug/   301
+/2021/:month/:day/:slug          /blog/:slug/   301
+/blog/2022/:month/:slug          /blog/:slug/   301
+/2022/:month/:slug               /blog/:slug/   301
+/2022/:month/:day/:slug          /blog/:slug/   301
+/blog/2023/:month/:slug          /blog/:slug/   301
+/2023/:month/:slug               /blog/:slug/   301
+/2023/:month/:day/:slug          /blog/:slug/   301
+/blog/2024/:month/:slug          /blog/:slug/   301
+/2024/:month/:slug               /blog/:slug/   301
+/2024/:month/:day/:slug          /blog/:slug/   301
+/blog/2025/:month/:slug          /blog/:slug/   301
+/2025/:month/:slug               /blog/:slug/   301
+/2025/:month/:day/:slug          /blog/:slug/   301
+/blog/2026/:month/:slug          /blog/:slug/   301
+/2026/:month/:slug               /blog/:slug/   301
+/2026/:month/:day/:slug          /blog/:slug/   301
