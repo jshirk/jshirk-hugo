@@ -1,0 +1,17 @@
+# Netlify build settings for jshirk.com. These override the Netlify dashboard.
+
+[build]
+  command = "hugo --gc --minify"   # same command CI runs
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.143.1"         # keep in sync with .github/workflows/check.yml
+
+# Previews and branch deploys are built with their own address as the base URL.
+# The site writes absolute links (canonifyURLs), so without this a preview would
+# load its CSS, fonts and images from the live jshirk.com.
+[context.deploy-preview]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"

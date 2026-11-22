@@ -51,7 +51,9 @@ draft: false
 
 ## Deploying
 
-Netlify builds and publishes automatically when `main` changes on GitHub.
+Netlify builds and publishes automatically when `main` changes on GitHub. Its build settings
+(command, Hugo version, and how previews are built) live in `netlify.toml` and override the
+Netlify dashboard.
 
 1. Work on a branch and open a pull request. Netlify posts a **deploy preview** link on the PR.
 2. Check the preview, then merge the PR on GitHub. Netlify publishes the new version within a minute or two.
