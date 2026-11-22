@@ -1,0 +1,72 @@
+/* Site customizations for jshirk.com, loaded after PaperMod's CSS.
+   Moved here from edits made inside themes/PaperMod (do not edit the theme). */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,700&display=swap');
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display SC', serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  margin-left: 0;
+}
+
+.dark {
+  --code-bg: rgb(29, 30, 32);
+}
+
+.logo-light {
+  display: inline;
+}
+
+.logo-dark {
+  display: none;
+}
+
+html.dark .logo-light {
+  display: none;
+}
+
+html.dark .logo-dark {
+  display: inline;
+}
+
+html:not(.dark) .logo-light {
+  display: inline;
+}
+
+html:not(.dark) .logo-dark {
+  display: none;
+}
+
+.logo-wrapper img {
+  vertical-align: middle;
+}
+
+.logo-switches {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.header .logo .site-title {
+  font-weight: 700;
+  font-size: 1.6rem;
+  margin-left: 0.4rem;
+  line-height: 1;
+  display: inline-block;
+}
+
+.logo {
+  display: flex;
+}
+
+.logo-light,
+.logo-dark {
+  margin-top: -6px;
+}
