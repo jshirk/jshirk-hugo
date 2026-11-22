@@ -1,0 +1,37 @@
+# Internal link targets that were already broken when CI was added (Nov 2026).
+# Remove a line once it is fixed; CI reminds you.
+/blog/1-password
+/blog/2009/08/fitness-friday-ultramarathon-man/
+/blog/2009/08/show-me-your-friends-and-ill-show-you-your-future/
+/blog/2009/08/this-is-why-i-blog
+/blog/2009/08/this-is-why-i-blog/
+/blog/2009/09/attitude-reflects-leadership-captain/
+/blog/2009/09/radical-love/
+/blog/2009/11/11-reasons-to-share-your-ideas/
+/blog/2010/01/indescribable/
+/blog/2010/01/worry-wont-work/
+/blog/2010/02/its-time-to-start-smoking/
+/blog/2010/06/like-ruins/
+/blog/2010/10/cat-10/
+/blog/2010/11/22-ways/
+/blog/2010/11/faq/
+/blog/2010/11/story/
+/blog/2010/11/water/
+/blog/about
+/blog/book-musings
+/blog/guest
+/blog/images/Attachment-1-576x1024.jpeg
+/blog/images/Creating-public-link.gif
+/blog/images/Empty-Pocket.jpg
+/blog/images/Gump.png
+/blog/images/Setting-up-Photo-Stream.gif
+/blog/images/delayedgratification.jpg
+/blog/images/img_1401.jpeg
+/blog/images/img_1402.jpeg
+/blog/images/img_1404.png
+/blog/ministry/
+/blog/reflecting-on-2014/
+/blog/subscribe
+/blog/tag/charity-water
+/images/
+/safari-pinned-tab.svg
