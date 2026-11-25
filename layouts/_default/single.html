@@ -42,6 +42,10 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
 
+  {{- if eq .Section "blog" }}
+    {{- partial "related.html" . }}
+  {{- end }}
+
   {{- /* Newsletter signup at the end, unless the page already placed one (e.g. Contact) */}}
   {{- if not (.Store.Get "newsletterCount") }}
   {{- $title := cond (eq .Section "blog") "Enjoyed this? Get useful ideas each week." "" }}

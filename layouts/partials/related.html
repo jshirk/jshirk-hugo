@@ -1,0 +1,73 @@
+{{- $post := . }}
+{{- $posts := (site.GetPage "/blog").RegularPages }}
+{{- $bySlug := partialCached "blog-by-slug.html" site }}
+{{- $slug := path.Base .RelPermalink }}
+{{- $collections := slice }}
+{{- $recommendations := slice }}
+{{- $seen := slice $post.RelPermalink }}
+
+{{- /* Curated topic membership comes from the same data that builds the topic pages. */}}
+{{- range site.Data.collections }}
+  {{- if in (apply .articles "index" "." "slug") $slug }}
+    {{- $collections = $collections | append (site.GetPage (printf "/topics/%s" .id)) }}
+    {{- range .articles }}
+      {{- with index $bySlug .slug }}
+        {{- if not (in $seen .RelPermalink) }}
+          {{- $recommendations = $recommendations | append . }}
+          {{- $seen = $seen | append .RelPermalink }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Keep Hugo's relevance ordering within each tier. */}}
+{{- $related := $posts.Related . }}
+{{- $categories := .GetTerms "categories" }}
+{{- $sameCategory := slice }}
+{{- $otherRelated := slice }}
+{{- range $related }}
+  {{- if not (in $seen .RelPermalink) }}
+    {{- if intersect $categories (.GetTerms "categories") }}
+      {{- $sameCategory = $sameCategory | append . }}
+    {{- else }}
+      {{- $otherRelated = $otherRelated | append . }}
+    {{- end }}
+    {{- $seen = $seen | append .RelPermalink }}
+  {{- end }}
+{{- end }}
+{{- range $sameCategory }}
+  {{- $recommendations = $recommendations | append . }}
+{{- end }}
+{{- range $otherRelated }}
+  {{- $recommendations = $recommendations | append . }}
+{{- end }}
+{{- /* A sparse taxonomy can still offer three distinct articles. */}}
+{{- if lt (len $recommendations) 3 }}
+  {{- range $posts.ByDate.Reverse }}
+    {{- if not (in $seen .RelPermalink) }}
+      {{- $recommendations = $recommendations | append . }}
+      {{- if eq (len $recommendations) 3 }}{{ break }}{{ end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+<section class="reading-next" aria-labelledby="reading-next-title">
+  {{- with $collections }}
+  <p class="reading-next-collection">Part of:
+    {{- range $index, $collection := . }}
+      {{- if $index }} <span aria-hidden="true">·</span>{{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{- end }}
+  </p>
+  {{- end }}
+  <h2 id="reading-next-title">Read next</h2>
+  <ul class="reading-next-list">
+    {{- range first 3 $recommendations }}
+    <li>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ partial "description.html" . }}</p>
+    </li>
+    {{- end }}
+  </ul>
+</section>
