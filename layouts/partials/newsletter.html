@@ -18,7 +18,7 @@
 {{- if eq $n 1 }}
 <script src="https://f.convertkit.com/ckjs/ck.5.js" defer></script>
 {{- end }}
-<section class="newsletter newsletter-{{ $variant }}" {{ if eq $variant "band" }}aria-labelledby="{{ $id }}-title"{{ else }}aria-label="Newsletter signup"{{ end }}>
+<section class="newsletter newsletter-{{ $variant }}"{{ if eq $n 1 }} id="newsletter"{{ end }} {{ if eq $variant "band" }}aria-labelledby="{{ $id }}-title"{{ else }}aria-label="Newsletter signup"{{ end }}>
   {{- if eq $variant "band" }}
   <div class="newsletter-copy">
     <p class="newsletter-kicker">A weekly letter from Jordan</p>
@@ -34,7 +34,7 @@
     <div class="newsletter-field" data-element="fields">
       <input id="{{ $id }}" name="email_address" type="email" autocomplete="email" inputmode="email"
              placeholder="you@example.com" required aria-describedby="{{ $id }}-fine">
-      <button type="submit" data-element="submit">Subscribe</button>
+      <button class="site-button" type="submit" data-element="submit">Subscribe</button>
     </div>
     <p class="newsletter-fine" id="{{ $id }}-fine">Free, one email a week, unsubscribe in one click. No spam, ever.</p>
   </form>

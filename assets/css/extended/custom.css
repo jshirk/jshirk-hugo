@@ -1,115 +1,6 @@
-/* Site customizations for jshirk.com, loaded after PaperMod's CSS.
-   Moved here from edits made inside themes/PaperMod (do not edit the theme). */
-
-/* Playfair Display SC, self-hosted (Latin subset, SIL Open Font License: static/fonts/OFL.txt).
-   Italic 700 is preloaded in layouts/partials/extend_head.html. */
-@font-face {
-  font-family: 'Playfair Display SC';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(/fonts/playfair-display-sc-italic-400-latin.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'Playfair Display SC';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(/fonts/playfair-display-sc-italic-700-latin.woff2) format('woff2');
-}
-
-h1, h2, h3, h4 {
-  font-family: 'Playfair Display SC', serif;
-  font-style: italic;
-  font-weight: 700;
-}
-
-blockquote {
-  font-style: italic;
-  border-left: 4px solid #ccc;
-  padding-left: 1rem;
-  margin-left: 0;
-}
-
-.dark {
-  --code-bg: rgb(29, 30, 32);
-}
-
-/* Header: one small logo mark that takes the text colour, so it suits both themes */
-.logo-mark {
-  display: inline-block;
-  flex: none;
-  width: 30px;
-  height: 27px;
-  background-color: currentColor;
-  -webkit-mask: url(/images/logo-mark.png) center / contain no-repeat;
-  mask: url(/images/logo-mark.png) center / contain no-repeat;
-}
-
-.header .site-logo {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  min-width: 0;
-}
-
-.header .logo .site-title {
-  font-weight: 600;
-  font-size: 1.6rem;
-  line-height: 1;
-}
-
-.logo-switches {
-  display: flex;
-  align-items: center;
-  margin-left: auto;
-}
-
-.logo {
-  display: flex;
-  min-width: 0;
-}
-
-/* Phones: stack the name above the publication title so the header fits */
-@media (max-width: 600px) {
-  .header .logo .site-title {
-    display: flex;
-    flex-direction: column;
-    gap: 0.2rem;
-  }
-
-  .header .site-title-name {
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: var(--secondary);
-  }
-
-  .header .site-title-pub {
-    font-size: 1.35rem;
-  }
-
-  .header .site-title-sep {
-    display: none;
-  }
-
-  #menu {
-    gap: 0 18px;
-  }
-
-  #menu li + li {
-    margin-inline-start: 0;
-  }
-}
-
 /* Newsletter signup (layouts/partials/newsletter.html) */
 .newsletter {
-  --nl-error: #a13a2e;
   margin: 48px 0 8px;
-}
-
-.dark .newsletter {
-  --nl-error: #f0a49b;
 }
 
 .newsletter-band {
@@ -169,29 +60,6 @@ blockquote {
   border-radius: 6px;
 }
 
-.newsletter-field button {
-  flex: 0 0 auto;
-  padding: 0.75em 1.25em;
-  font: inherit;
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--theme);
-  background: var(--primary);
-  border: 0;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-.newsletter-field button[data-active] {
-  opacity: 0.6;
-}
-
-.newsletter-field input:focus-visible,
-.newsletter-field button:focus-visible {
-  outline: 2px solid var(--primary);
-  outline-offset: 2px;
-}
-
 .newsletter-fine {
   margin: 0;
   font-size: 0.85rem;
@@ -207,7 +75,7 @@ blockquote {
   padding: 0;
   list-style: none;
   font-weight: 600;
-  color: var(--nl-error);
+  color: var(--error);
 }
 
 /* Kit's script replaces the fields with this message after a successful signup */
