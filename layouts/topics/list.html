@@ -1,0 +1,19 @@
+{{- define "main" }}
+<header class="page-header directory-header">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</header>
+
+<ul class="directory-list topic-directory">
+  {{- range site.Data.collections }}
+    {{- $topic := site.GetPage (printf "/topics/%s" .id) }}
+    <li>
+      <a href="{{ $topic.RelPermalink }}">
+        {{- partial "home/icon.html" .id }}
+        <span>{{ $topic.Title }}</span>
+      </a>
+      <p>{{ $topic.Description }}</p>
+    </li>
+  {{- end }}
+</ul>
+{{- end }}

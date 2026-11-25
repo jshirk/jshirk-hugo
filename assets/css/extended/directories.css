@@ -1,0 +1,62 @@
+.directory-header > p {
+  margin-block-start: 0.5rem;
+  color: var(--secondary);
+}
+
+.article-directory section + section {
+  margin-block-start: 1.75rem;
+}
+
+.article-directory h2 {
+  margin-block: 1.5rem 0.35rem;
+  font-size: 1.75rem;
+}
+
+.directory-list {
+  list-style: none;
+  margin: 0;
+}
+
+.directory-list li {
+  padding-block: 0.55rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.directory-list a {
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 0.2em;
+}
+
+.directory-list a:hover {
+  color: var(--accent);
+}
+
+.directory-list p {
+  color: var(--secondary);
+  margin-block-start: 0.25rem;
+}
+
+.topic-directory a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.topic-directory li, .topic-reading-list li {
+  padding-block: 0.85rem;
+}
+
+.topic-reading-list {
+  padding-inline-start: 1.35rem;
+  list-style: decimal;
+}
+
+.topic-quote {
+  margin-block: 1.5rem;
+}
+
+.category-description {
+  display: block;
+}

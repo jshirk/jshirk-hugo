@@ -1,5 +1,8 @@
 <section class="home-wrap home-section" id="topics" aria-labelledby="home-topics">
-  <h2 id="home-topics">How can I help?</h2>
+  <div class="home-section-head">
+    <h2 id="home-topics">How can I help?</h2>
+    <a class="home-arrow" href="{{ (site.GetPage "/topics").RelPermalink }}">All topics</a>
+  </div>
 
   <fieldset class="home-topics">
     <legend class="home-visually-hidden">Choose a topic</legend>
@@ -13,7 +16,7 @@
         <div>
           <h3>{{ .title }}</h3>
           <p>{{ .description }}</p>
-          {{- $first := partial "home/article.html" (dict "articles" $ "slug" (index .articles 0).slug "source" .title) }}
+          {{- $first := partial "curated-article.html" (dict "articles" $ "slug" (index .articles 0).slug "source" .title) }}
           {{- with $first }}
           <figure class="home-topic-quote">
             <blockquote>“{{ $collection.quote }}”</blockquote>
@@ -25,7 +28,7 @@
           <p class="home-kicker">Start here</p>
           <ol class="home-topic-articles">
             {{- range .articles }}
-              {{- $article := partial "home/article.html" (dict "articles" $ "slug" .slug "source" $collection.title) }}
+              {{- $article := partial "curated-article.html" (dict "articles" $ "slug" .slug "source" $collection.title) }}
               {{- if $article }}
               <li>
                 <a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a>
@@ -35,6 +38,7 @@
               {{- end }}
             {{- end }}
           </ol>
+          <a class="home-arrow home-topic-more" href="{{ (site.GetPage (printf "/topics/%s" $collection.id)).RelPermalink }}">Explore {{ $collection.label }}</a>
         </div>
       </div>
     {{- end }}

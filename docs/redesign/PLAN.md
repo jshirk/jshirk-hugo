@@ -21,7 +21,9 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
 | 7 | Social preview cards | Merged (#9) |
 | 8 | Hide dates and word counts, `showLastUpdated` | Merged (#6) |
 | 9 | One newsletter component | Merged (#10) |
-| 10–18 | See below | **To do, in order** |
+| 10 | Design system | Merged (#12) |
+| 11 | Combined homepage | Merged (#13) |
+| 12–18 | See below | **To do, in order** |
 
 ## Decisions already made (do not reopen)
 

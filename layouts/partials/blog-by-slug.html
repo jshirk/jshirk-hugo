@@ -1,0 +1,5 @@
+{{- $articles := dict }}
+{{- range (site.GetPage "/blog").RegularPages }}
+  {{- $articles = merge $articles (dict (path.Base .RelPermalink) .) }}
+{{- end }}
+{{- return $articles }}

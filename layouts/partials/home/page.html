@@ -1,10 +1,7 @@
 {{- $home := site.Data.home }}
 {{- $blog := site.GetPage "/blog" }}
-{{- $bySlug := dict }}
-{{- range .articles }}
-  {{- $bySlug = merge $bySlug (dict (path.Base .RelPermalink) .) }}
-{{- end }}
-{{- $featured := partial "home/article.html" (dict "articles" $bySlug "slug" $home.quote.slug "source" "data/home.yaml featured quote") }}
+{{- $bySlug := partialCached "blog-by-slug.html" site }}
+{{- $featured := partial "curated-article.html" (dict "articles" $bySlug "slug" $home.quote.slug "source" "data/home.yaml featured quote") }}
 
 <div class="home-motto home-wrap">
   <p>{{- range $index, $line := $home.motto -}}
@@ -17,7 +14,7 @@
   <h1 id="moving-from-chaos-to-clarity-through-decisive-action">{{ $home.headline }}</h1>
   <p>{{ $home.description }}</p>
   <div class="home-actions">
-    <a class="site-button" href="#favorites">Start here</a>
+    <a class="site-button" href="{{ (site.GetPage "/start-here").RelPermalink }}">Start here</a>
     <a class="home-arrow" href="{{ $blog.RelPermalink }}">Browse all {{ len .articles }} articles</a>
   </div>
 </section>
@@ -28,7 +25,7 @@
   <h2 id="home-favorites">Reader favorites</h2>
   <div class="home-favorites">
     {{- range $home.favorites }}
-      {{- $article := partial "home/article.html" (dict "articles" $bySlug "slug" .slug "source" "data/home.yaml favorites") }}
+      {{- $article := partial "curated-article.html" (dict "articles" $bySlug "slug" .slug "source" "data/home.yaml favorites") }}
       {{- if $article }}
         <article>
           <p class="home-kicker">{{ .label }}</p>
@@ -54,7 +51,7 @@
   <section id="recent" aria-labelledby="home-recent">
     <div class="home-section-head">
       <h2 id="home-recent">Recently published</h2>
-      <a class="home-arrow" href="{{ $blog.RelPermalink }}">All articles</a>
+      <a class="home-arrow" href="{{ (site.GetPage "/archive").RelPermalink }}">Archive</a>
     </div>
     <ul class="home-recent">
       {{- range first 5 .articles }}

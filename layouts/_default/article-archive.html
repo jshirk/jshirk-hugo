@@ -1,0 +1,19 @@
+{{- define "main" }}
+<header class="page-header directory-header">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</header>
+
+<div class="article-directory">
+  {{- range (site.GetPage "/blog").RegularPages.GroupByDate "2006" "desc" }}
+  <section aria-labelledby="year-{{ .Key }}">
+    <h2 id="year-{{ .Key }}">{{ .Key }}</h2>
+    <ul class="directory-list">
+      {{- range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+</div>
+{{- end }}
