@@ -384,12 +384,4 @@
     scroll-behavior: smooth;
   }
 
-  .home-topics input:checked + label .home-topic-icon,
-  .home-newsletter:focus-within .home-newsletter-icon {
-    animation: home-icon-pop 360ms ease-out;
-  }
-
-  @keyframes home-icon-pop {
-    50% { transform: translateY(-3px) rotate(-9deg) scale(1.12); }
-  }
 }

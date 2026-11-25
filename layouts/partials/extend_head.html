@@ -1,5 +1,7 @@
 {{- /* The homepage hero uses the regular display weight. */}}
 {{- if .IsHome }}
 <link rel="preload" href="{{ "fonts/playfair-display-sc-italic-400-latin.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+{{- $motion := resources.Get "js/home-motion.js" | resources.Minify | fingerprint }}
+<script defer src="{{ $motion.RelPermalink }}" integrity="{{ $motion.Data.Integrity }}"></script>
 {{- end }}
 <link rel="preload" href="{{ "fonts/playfair-display-sc-italic-700-latin.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
