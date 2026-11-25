@@ -101,3 +101,12 @@ outputs:
     - HTML
     - RSS
     - JSON
+# Topic collections come from data/collections.yaml and are picked first in related.html.
+related:
+  includeNewer: true
+  threshold: 0
+  indices:
+    - name: categories
+      weight: 100
+    - name: tags
+      weight: 1
