@@ -1,0 +1,37 @@
+{
+  "ci": {
+    "collect": {
+      "startServerCommand": "python3 -u -m http.server 4173 --bind 127.0.0.1 --directory public",
+      "startServerReadyPattern": "Serving HTTP on",
+      "numberOfRuns": 3,
+      "url": [
+        "http://127.0.0.1:4173/",
+        "http://127.0.0.1:4173/search/",
+        "http://127.0.0.1:4173/archive/",
+        "http://127.0.0.1:4173/tools/",
+        "http://127.0.0.1:4173/blog/tiny-seeds/"
+      ],
+      "settings": {
+        "onlyCategories": ["performance", "accessibility"]
+      }
+    },
+    "assert": {
+      "includePassedAssertions": true,
+      "assertMatrix": [
+        {
+          "matchingUrlPattern": ".*",
+          "assertions": {
+            "categories:performance": ["error", { "minScore": 0.95, "aggregationMethod": "median" }],
+            "categories:accessibility": ["error", { "minScore": 0.98, "aggregationMethod": "median" }]
+          }
+        },
+        {
+          "matchingUrlPattern": "^http://127[.]0[.]0[.]1:4173/$",
+          "assertions": {
+            "resource-summary:total:size": ["error", { "maxNumericValue": 149999, "aggregationMethod": "median" }]
+          }
+        }
+      ]
+    }
+  }
+}
