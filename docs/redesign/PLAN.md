@@ -23,7 +23,8 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
 | 9 | One newsletter component | Merged (#10) |
 | 10 | Design system | Merged (#12) |
 | 11 | Combined homepage | Merged (#13) |
-| 12–18 | See below | **To do, in order** |
+| 12 | Start Here, archive, topics, and category pages | Merged (#14) |
+| 13–18 | See below | **To do, in order** |
 
 ## Decisions already made (do not reopen)
 
@@ -77,11 +78,16 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
 - Verify: mobile Lighthouse on /search/ goes from ~80 to ≥ 95; 15 known queries return the expected
   article in the top three.
 
-### 15. Images, alt text, thin tag pages
+### 15. Images, alt text, thin tag pages, and homepage icon animations
 - Markdown render hook adds width, height, `loading="lazy"`, `decoding="async"`. Recompress the 24
   originals over 500 KB under the same filenames. Draft alt text for the ~288 `alt="Image"` images
   into a CSV for Jordan to approve (do not apply unapproved). Thin tag pages: `noindex`, out of the sitemap.
-- Verify: no layout shift on image-heavy posts, images look identical.
+- Restore the distinct icon animations from the approved Combined homepage mockup: the five
+  topic icons (Habits, Focus, Faith, Money, and Tech), the hammer strike on the main logo,
+  and the opening envelope in the newsletter section at the bottom. Respect
+  `prefers-reduced-motion` and keep topic selection, home navigation, and newsletter signup usable.
+- Verify: no layout shift on image-heavy posts, images look identical, and the animations
+  work with keyboard and touch where triggered by interaction and are skipped with reduced motion.
 
 ### 16. Tools page and content inventory
 - Tools page sections (Money, Bible study, Writing, Security, Everyday) from `data/tools.yaml`, with an
