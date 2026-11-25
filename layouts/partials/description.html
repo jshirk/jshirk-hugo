@@ -20,4 +20,4 @@
 {{- $d = printf "%s from %s" .Title (site.Params.tagline | default site.Title) }}
 {{- end }}
 {{- end }}
-{{- $d | plainify | htmlUnescape | strings.TrimSpace -}}
+{{- return ($d | plainify | htmlUnescape | strings.TrimSpace) -}}
