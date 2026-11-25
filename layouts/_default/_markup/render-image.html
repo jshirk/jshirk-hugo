@@ -1,0 +1,35 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $src := .Destination -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- if not (or $url.IsAbs $url.Host) -}}
+  {{- with .Page.Resources.Get $url.Path -}}
+    {{- $resource := . -}}
+    {{- $src = .RelPermalink -}}
+    {{- with $url.RawQuery -}}{{- $src = printf "%s?%s" $src . -}}{{- end -}}
+    {{- with $url.Fragment -}}{{- $src = printf "%s#%s" $src . -}}{{- end -}}
+    {{- if eq .ResourceType "image" -}}
+      {{- with try .Width -}}
+        {{- if not .Err -}}
+          {{- $width = .Value -}}
+          {{- $height = $resource.Height -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $file := path.Join "static" (strings.TrimPrefix "/" $url.Path) -}}
+    {{- if and (hasPrefix $url.Path "/") (fileExists $file) (in (slice ".gif" ".jpeg" ".jpg" ".png" ".webp") (lower (path.Ext $file))) -}}
+      {{- with try (images.Config $file) -}}
+        {{- if not .Err -}}
+          {{- $width = .Value.Width -}}
+          {{- $height = .Value.Height -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ .PlainText }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if and $width $height }} width="{{ $width }}" height="{{ $height }}"{{ end }}
+  loading="lazy" decoding="async">
+{{- /* Preserve inline image spacing. */ -}}
