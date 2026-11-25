@@ -37,13 +37,18 @@ params:
     favicon: "favicon.ico"
 
   fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    threshold: 0.38
+    keys:
+      - name: title
+        weight: 0.66
+      - name: description
+        weight: 0.15
+      - name: category
+        weight: 0.05
+      - name: summary
+        weight: 0.1
+      - name: slug
+        weight: 0.04
 
   # Social Icons on Home Page     
   socialIcons: 

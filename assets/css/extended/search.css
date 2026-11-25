@@ -1,0 +1,51 @@
+.article-search label {
+  display: block;
+  margin-block-end: 0.35rem;
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+
+.article-search input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--secondary);
+  border-radius: var(--radius);
+  color: var(--primary);
+}
+
+.article-search input::placeholder {
+  color: var(--secondary);
+  opacity: 1;
+}
+
+#search-status {
+  min-height: 1.5em;
+  margin-block: 0.5rem 0.75rem;
+  color: var(--secondary);
+  font-size: 0.875rem;
+}
+
+#article-search-results {
+  list-style: none;
+}
+
+#article-search-results h2 {
+  font-size: 1.4rem;
+}
+
+#article-search-results a {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 0.2em;
+}
+
+#article-search-results p {
+  margin-block-start: 0.45rem;
+  color: var(--secondary);
+  font-size: 0.9375rem;
+}
+
+#article-search-results .search-reading-time {
+  font-size: 0.8125rem;
+}

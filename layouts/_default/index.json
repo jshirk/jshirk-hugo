@@ -1,0 +1,16 @@
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+  {{- if and (not .Params.searchHidden) (not (in (slice "archives" "search") .Layout)) -}}
+    {{- $plain := .Summary | plainify | htmlUnescape | replaceRE `[\s\p{Z}]+` " " -}}
+    {{- $summary := delimit (findRE "\\S+" $plain 40) " " -}}
+    {{- $index = $index | append (dict
+      "title" .Title
+      "description" (partial "description.html" .)
+      "category" (.Params.categories | default slice)
+      "summary" $summary
+      "permalink" .Permalink
+      "readingTime" (cond (eq .Section "blog") .ReadingTime 0)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $index | jsonify (dict "noHTMLEscape" true) -}}
