@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 14 Tips to Avoid Making Common Twitter Mistakes
 author: Jordan Shirkman
 type: post

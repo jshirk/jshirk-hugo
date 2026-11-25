@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'Quick Tip: Turning Off Your Mac Dashboard'
 author: Jordan Shirkman
 type: post

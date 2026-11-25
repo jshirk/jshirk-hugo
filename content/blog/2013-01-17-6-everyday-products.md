@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 6 Everyday Products That Make Life More Enjoyable
 author: Jordan Shirkman
 type: post

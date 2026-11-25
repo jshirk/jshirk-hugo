@@ -1,4 +1,5 @@
 ---
+retired: true
 title: Making the Facebook News Feed Better with Unfollowing
 author: Jordan Shirkman
 type: post

@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'Quick Tip: Is the iOS Shift Key On or Off?'
 author: Jordan Shirkman
 type: post

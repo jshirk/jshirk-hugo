@@ -38,9 +38,6 @@
 - id: security
   title: Security
   tools:
-    - name: 1Password
-      description: A password manager for keeping track of unique logins.
-      guide: /blog/1password/
     - name: Two-step verification
       description: An extra sign-in step to help protect your accounts.
       guide: /blog/two-step-verification/

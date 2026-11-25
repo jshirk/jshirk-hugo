@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'Backblaze vs. CrashPlan: Reviewing Backup Options'
 author: Jordan Shirkman
 type: post

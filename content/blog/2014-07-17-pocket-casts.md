@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'The Best Podcast Player on iOS: Pocket Casts'
 author: Jordan Shirkman
 type: post

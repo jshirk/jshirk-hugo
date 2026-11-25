@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'Square Cash: The Best Way to Pay Your Friends for Dinner'
 author: Jordan Shirkman
 type: post

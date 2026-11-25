@@ -1,4 +1,5 @@
 ---
+retired: true
 title: Using Siri Better to Write Posts and Messages
 author: Jordan Shirkman
 type: post

@@ -1,7 +1,7 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{- range .Pages }}
-    {{- if and .Permalink (not .Sitemap.Disable) (not (partial "thin-tag.html" .)) }}
+    {{- if and .Permalink (not .Params.retired) (not .Sitemap.Disable) (not (partial "thin-tag.html" .)) }}
     <url>
       <loc>{{ .Permalink }}</loc>
       {{- if not .Lastmod.IsZero }}

@@ -1,6 +1,6 @@
 {{- $index := slice -}}
 {{- range site.RegularPages -}}
-  {{- if and (not .Params.searchHidden) (not (in (slice "archives" "search") .Layout)) -}}
+  {{- if and (not .Params.retired) (not .Params.searchHidden) (not (in (slice "archives" "search") .Layout)) -}}
     {{- $plain := .Summary | plainify | htmlUnescape | replaceRE `[\s\p{Z}]+` " " -}}
     {{- $summary := delimit (findRE "\\S+" $plain 40) " " -}}
     {{- $index = $index | append (dict

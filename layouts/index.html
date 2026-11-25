@@ -1,5 +1,5 @@
 {{- define "main" }}
-  {{- $articles := (site.GetPage "/blog").RegularPages.ByDate.Reverse }}
+  {{- $articles := where (site.GetPage "/blog").RegularPages.ByDate.Reverse "Params.retired" "ne" true }}
   {{- /* Preserve the original homepage pagination and its public URLs. */}}
   {{- $legacyPages := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $paginator := .Paginate (where $legacyPages "Params.hiddenInHomeList" "!=" "true") }}

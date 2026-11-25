@@ -1,4 +1,5 @@
 ---
+retired: true
 title: The Best App for Finding Cheap Flights
 author: Jordan Shirkman
 type: post

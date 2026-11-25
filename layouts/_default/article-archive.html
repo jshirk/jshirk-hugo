@@ -5,7 +5,7 @@
 </header>
 
 <div class="article-directory">
-  {{- range (site.GetPage "/blog").RegularPages.GroupByDate "2006" "desc" }}
+  {{- range (where (site.GetPage "/blog").RegularPages "Params.retired" "ne" true).GroupByDate "2006" "desc" }}
   <section aria-labelledby="year-{{ .Key }}">
     <h2 id="year-{{ .Key }}">{{ .Key }}</h2>
     <ul class="directory-list">

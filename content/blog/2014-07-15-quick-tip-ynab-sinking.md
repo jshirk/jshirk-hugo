@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'Quick Tip: Enabling Category Sinking Funds in YNAB'
 author: Jordan Shirkman
 type: post

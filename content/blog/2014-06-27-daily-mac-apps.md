@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 6 Mac Apps I Use Daily
 author: Jordan Shirkman
 type: post
