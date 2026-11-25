@@ -9,6 +9,10 @@
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
+{{- with site.Home.OutputFormats.Get "LLMS" }}
+<link rel="describedby" href="{{ .RelPermalink }}" type="text/plain">
+{{- end }}
+
 {{- /* Title */}}
 {{- /* Home keeps the full site title; every other page is "Page title | The Useful Life" */}}
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ site.Params.tagline | default site.Title }}{{ end }}</title>

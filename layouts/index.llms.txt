@@ -1,0 +1,40 @@
+# {{ site.Params.tagline }}
+
+> {{ site.Data.home.description }}
+
+{{ site.Data.home.headline }}
+
+## Start here
+{{ range slice "/start-here" "/about" "/archive" "/tools" -}}
+  {{- with site.GetPage . -}}
+    {{- template "llms-link" (dict "page" . "description" (partial "description.html" .)) -}}
+  {{- end -}}
+{{- end }}
+## Topic collections
+{{ range site.Data.collections -}}
+  {{- $page := site.GetPage (printf "/topics/%s" .id) -}}
+  {{- template "llms-link" (dict "page" $page "description" .description) -}}
+{{- end }}
+## Optional
+{{- /* Publish editorial selections, never the inventory's internal review notes. */}}
+{{- $inventory := resources.FromString "content-inventory.csv" (readFile "docs/content-inventory.csv") | transform.Unmarshal }}
+{{- if ne (delimit (index $inventory 0) ",") "article_url,title,published_at,categories,status,review_note" }}
+  {{- errorf "llms.txt: unexpected columns in docs/content-inventory.csv" }}
+{{- end }}
+{{- $posts := partialCached "blog-by-slug.html" site }}
+{{ range after 1 $inventory -}}
+  {{- if eq (index . 4) "evergreen" -}}
+    {{- $path := (urls.Parse (index . 0)).Path -}}
+    {{- $post := partial "curated-article.html" (dict "articles" $posts "slug" (path.Base $path) "source" "llms.txt evergreen inventory") -}}
+    {{- if and $post (not $post.Params.retired) (not $post.Params.robotsNoIndex) -}}
+      {{- template "llms-link" (dict "page" $post "description" (partial "description.html" $post)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+
+{{- define "llms-link" -}}
+  {{- $title := replace (.page.Title | htmlUnescape) "\\" "\\\\" | replaceRE "([\\[\\]])" "\\$1" -}}
+  {{- $url := replace (replace .page.Permalink "(" "%28") ")" "%29" -}}
+  {{- printf "- [%s](%s): %s\n" $title $url (.description | htmlUnescape) -}}
+{{- end -}}
