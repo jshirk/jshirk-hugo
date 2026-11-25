@@ -27,7 +27,8 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
 | 13 | Related articles | Merged (#15) |
 | 14 | Compact search | Merged (#16) |
 | 15 | Image loading, thin tags, and homepage icon animations | Merged (#17) |
-| 16–18 | See below | **To do, in order** |
+| 16 | Tools page and content inventory | Merged (#18) |
+| 17–18 | See below | **To do, in order** |
 
 ## Decisions already made (do not reopen)
 
@@ -98,7 +99,9 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
   retire-candidate (advice only; no post is rewritten).
 
 ### 17. AI search discovery
-- `robots.txt` already allows all. Add an optional generated `/llms.txt` built from the data files.
+- `robots.txt` already allows all in production. Generate `/llms.txt` from homepage positioning,
+  topic definitions, and evergreen selections in the content inventory. The file is optional.
+  To disable it, remove `LLMS` from `outputs.home` in `config.yaml`.
 
 ### 18. CI: metadata and performance checks
 - Add `scripts/check_meta.py` to CI, block changes to existing `date` values, and run Lighthouse CI
