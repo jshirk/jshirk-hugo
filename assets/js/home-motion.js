@@ -27,7 +27,7 @@ if (letter) {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = letter.className;
-    button.setAttribute('aria-label', 'Open the letter');
+    button.setAttribute('aria-label', letter.lastElementChild.textContent + '. Open the letter');
     button.append(...letter.childNodes);
     letter.replaceWith(button);
 
