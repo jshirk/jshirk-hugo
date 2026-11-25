@@ -344,6 +344,22 @@
 }
 
 @media (min-width: 900px) {
+  .home-hero h1, .home-hero p {
+    max-width: none;
+  }
+
+  #home-topics {
+    text-align: center;
+  }
+
+  .home-topics {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .home-topic-chip {
+    justify-self: stretch;
+  }
+
   .home-topic-panel, .home-split {
     gap: 3rem;
   }
