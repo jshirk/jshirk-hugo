@@ -1,0 +1,12 @@
+{{- define "main" }}
+  {{- $articles := (site.GetPage "/blog").RegularPages.ByDate.Reverse }}
+  {{- /* Preserve the original homepage pagination and its public URLs. */}}
+  {{- $legacyPages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $paginator := .Paginate (where $legacyPages "Params.hiddenInHomeList" "!=" "true") }}
+  {{- if eq $paginator.PageNumber 1 }}
+    {{- partial "home/page.html" (dict "page" . "articles" $articles) }}
+  {{- else }}
+    <header class="page-header"><h1>Articles</h1></header>
+    {{- partial "post-list.html" (dict "page" . "paginator" $paginator) }}
+  {{- end }}
+{{- end }}

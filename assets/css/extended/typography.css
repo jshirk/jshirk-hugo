@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6, .site-logo {
   font-size: clamp(1.625rem, 3.5vw, 2rem);
 }
 
-.post-content h3, .entry-header h2, .recent-title {
+.post-content h3, .entry-header h2 {
   font-size: 1.5rem;
 }
 

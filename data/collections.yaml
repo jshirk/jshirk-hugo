@@ -1,0 +1,60 @@
+- id: habits
+  label: Habits
+  title: Habits & Daily Rhythms
+  description: Small, repeatable practices that quietly shape who you become.
+  quote: you don’t reap what you wish—you reap what you plant.
+  articles:
+    - slug: tiny-seeds
+      description: Your habits, thoughts, and beliefs all started as small seeds. You don't reap what you wish. You reap what you plant.
+    - slug: build-habits
+      description: Most of what we do each day we've done hundreds of times before. Three tiny steps for making those repeats work for you.
+    - slug: morning-manifesto
+      description: "Four minutes each morning to remember what is easiest to forget: loving God and my wife, that I'll die, and that life is not a vacation."
+- id: focus
+  label: Focus
+  title: Work, Time & Focus
+  description: Getting the right things done without letting urgency run your life.
+  quote: No one has ever changed the world by being a speedy email responder.
+  articles:
+    - slug: how-we-work
+      description: For most of us, the most urgent crisis sets our priorities. A better way to decide what deserves your work.
+    - slug: actual-constraints
+      description: What looks like it's holding you back is rarely the real problem. How to find the constraint you can actually change.
+    - slug: using-time
+      description: Rich or poor, everyone gets 24 hours. Practical ways to start spending yours more wisely.
+- id: faith
+  label: Faith
+  title: Faith in Ordinary Life
+  description: Following Jesus faithfully in prayer, identity, and everyday decisions.
+  quote: Stop praying for people. And start praying with them.
+  articles:
+    - slug: stop-praying-for-people
+      description: Don't only pray for people. Pray with them. A simple way to offer, and why most people say yes.
+    - slug: peace-in-uncertainty
+      description: Planning can't guarantee outcomes. Where lasting peace comes from when life won't hold still.
+    - slug: only-identity
+      description: Where do you find your identity? The one answer that can't be taken from you.
+- id: money
+  label: Money
+  title: Money & Contentment
+  description: Budgeting, spending, and learning to want less.
+  quote: our happiness levels always normalize after some change (positive or negative).
+  articles:
+    - slug: hedonic-treadmill
+      description: Lottery winners and accident victims reported similar happiness six months later. What that means for the things you want.
+    - slug: ynab
+      description: Why YNAB is the budgeting app we keep coming back to, and how we use it day to day.
+    - slug: sticky-budget
+      description: Five keys that kept us on a budget for years, from someone who hates being boxed in.
+- id: tech
+  label: Tech
+  title: Tech & Tools
+  description: Apps and systems that serve you instead of distracting you.
+  quote: Fast doesn't mean right, and it definitely doesn't mean better.
+  articles:
+    - slug: ai-rocket
+      description: Steve Jobs called the computer a bicycle for the mind. AI may be a rocket. How to use it well.
+    - slug: two-step-verification
+      description: A thorough, plain-language guide to protecting your most important accounts.
+    - slug: voice-memo-transcription
+      description: Use the built-in Voice Memos app and ChatGPT to turn spoken thoughts into clean text, for free.
