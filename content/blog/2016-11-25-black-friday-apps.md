@@ -1,4 +1,5 @@
 ---
+retired: true
 title: My Favorite Apps on Sale for Black Friday
 author: Jordan Shirkman
 type: post

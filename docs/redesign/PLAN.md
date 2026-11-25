@@ -26,7 +26,8 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
 | 12 | Start Here, archive, topics, and category pages | Merged (#14) |
 | 13 | Related articles | Merged (#15) |
 | 14 | Compact search | Merged (#16) |
-| 15–18 | See below | **To do, in order** |
+| 15 | Image loading, thin tags, and homepage icon animations | Merged (#17) |
+| 16–18 | See below | **To do, in order** |
 
 ## Decisions already made (do not reopen)
 

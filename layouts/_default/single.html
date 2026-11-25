@@ -35,6 +35,10 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- if .Params.retired }}
+  <p class="post-description">This article has been retired and is available for historical reference.</p>
+  {{- end }}
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
@@ -42,7 +46,7 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
 
-  {{- if eq .Section "blog" }}
+  {{- if and (eq .Section "blog") (not .Params.retired) }}
     {{- partial "related.html" . }}
   {{- end }}
 

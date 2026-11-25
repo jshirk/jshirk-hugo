@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'Quick Tip: Getting Deals on Apps with App Shopper'
 author: Jordan Shirkman
 type: post

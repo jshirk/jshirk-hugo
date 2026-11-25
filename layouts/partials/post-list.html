@@ -1,6 +1,7 @@
 {{- $paginator := .paginator }}
 {{- $term := .page.Data.Term }}
-{{- range .paginator.Pages }}
+{{- /* Keep pagination URLs and exclude retired posts from the visible cards. */}}
+{{- range where .paginator.Pages "Params.retired" "ne" true }}
 
 {{- $class := "post-entry" }}
 

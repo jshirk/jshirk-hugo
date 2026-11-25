@@ -1,4 +1,5 @@
 ---
+retired: true
 title: How I Read, Save, and Share Blog Posts
 author: Jordan Shirkman
 type: post

@@ -1,4 +1,5 @@
 ---
+retired: true
 title: Getting The Most Out of Twitter
 author: Jordan Shirkman
 type: post

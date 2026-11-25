@@ -1,4 +1,5 @@
 ---
+retired: true
 title: iOS 8 Widgets
 author: Jordan Shirkman
 type: post

@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if and (or hugo.IsProduction (eq site.Params.env "production")) (not .Params.robotsNoIndex) (partial "thin-tag.html" .) }}
+{{- if and (or hugo.IsProduction (eq site.Params.env "production")) (not .Params.robotsNoIndex) (or .Params.retired (partial "thin-tag.html" .)) }}
 <meta name="robots" content="noindex, follow">
 {{- else if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
 <meta name="robots" content="index, follow">

@@ -1,5 +1,5 @@
 {{- $post := . }}
-{{- $posts := (site.GetPage "/blog").RegularPages }}
+{{- $posts := where (site.GetPage "/blog").RegularPages "Params.retired" "ne" true }}
 {{- $bySlug := partialCached "blog-by-slug.html" site }}
 {{- $slug := path.Base .RelPermalink }}
 {{- $collections := slice }}
@@ -12,7 +12,7 @@
     {{- $collections = $collections | append (site.GetPage (printf "/topics/%s" .id)) }}
     {{- range .articles }}
       {{- with index $bySlug .slug }}
-        {{- if not (in $seen .RelPermalink) }}
+        {{- if and (not .Params.retired) (not (in $seen .RelPermalink)) }}
           {{- $recommendations = $recommendations | append . }}
           {{- $seen = $seen | append .RelPermalink }}
         {{- end }}

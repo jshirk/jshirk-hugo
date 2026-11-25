@@ -1,1 +1,1 @@
-{{- return (and (eq .Kind "term") (eq .Data.Plural "tags") (le (len .RegularPages) 1)) -}}
+{{- return (and (eq .Kind "term") (eq .Data.Plural "tags") (le (len (where .RegularPages "Params.retired" "ne" true)) 1)) -}}

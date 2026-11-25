@@ -1,4 +1,5 @@
 ---
+retired: true
 title: 'FitBit One: A Comprehensive 2-Month Review'
 author: Jordan Shirkman
 type: post

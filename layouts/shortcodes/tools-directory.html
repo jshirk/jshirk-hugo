@@ -1,0 +1,27 @@
+{{- $bySlug := partialCached "blog-by-slug.html" site }}
+{{- range site.Data.tools }}
+<section class="tools-group" aria-labelledby="{{ .id }}">
+  <h2 id="{{ .id }}">{{ .title }}</h2>
+  <ul class="tools-list">
+    {{- range .tools }}
+      {{- $guide := false }}
+      {{- with .guide }}
+        {{- $guide = partial "curated-article.html" (dict "articles" $bySlug "slug" (path.Base .) "source" "data/tools.yaml") }}
+      {{- end }}
+      <li>
+        <h3>{{ .name }}</h3>
+        <p>{{ .description }}</p>
+        <p class="tool-links">
+          {{- if .url }}
+          <a href="{{ .url }}"{{ if .affiliate }} rel="sponsored"{{ end }}>Visit {{ .name }}</a>
+          {{- if .affiliate }} <span class="tool-disclosure">Affiliate link</span>{{ end }}
+          {{- end }}
+          {{- with $guide }}
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{- end }}
+        </p>
+      </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

@@ -1,4 +1,5 @@
 ---
+retired: true
 title: My 5 Favorite Podcasts (that Will Change Your Life)
 author: Jordan Shirkman
 type: post

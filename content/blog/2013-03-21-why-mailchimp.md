@@ -1,4 +1,5 @@
 ---
+retired: true
 title: How to Effortlessly Use MailChimp for Awesome E-Mail Newsletters
 author: Jordan Shirkman
 type: post
