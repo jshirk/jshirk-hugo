@@ -41,7 +41,7 @@
   </fieldset>
 
   <p class="home-browse">Or browse by category:
-    {{- range $i, $name := slice "Theology" "Methodology" "Technology" }}
+    {{- range $i, $name := slice "Theology" "Technology" "Methodology" }}
       {{- with site.GetPage (printf "/categories/%s" (lower $name)) }}
         {{- if $i }} <span aria-hidden="true">·</span>{{ end }}
         <a href="{{ .RelPermalink }}">{{ $name }}</a> <span class="home-meta">{{ len .RegularPages }}</span>
