@@ -28,7 +28,8 @@ to `main`. Jordan reviews each Netlify deploy preview and merges.
 | 14 | Compact search | Merged (#16) |
 | 15 | Image loading, thin tags, and homepage icon animations | Merged (#17) |
 | 16 | Tools page and content inventory | Merged (#18) |
-| 17–18 | See below | **To do, in order** |
+| 17 | Generated llms.txt | Merged (#19) |
+| 18 | CI metadata and performance checks | To do |
 
 ## Decisions already made (do not reopen)
 

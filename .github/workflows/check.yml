@@ -16,6 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Protect existing publication dates
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: python3 scripts/check_post_dates.py "$BASE_SHA" HEAD
 
       - name: Install Hugo extended
         run: |
@@ -26,7 +33,28 @@ jobs:
           hugo version
 
       - name: Build
-        run: hugo --gc --minify
+        run: hugo --gc --minify --baseURL http://127.0.0.1:4173/
 
       - name: Check internal links
         run: python3 scripts/check_links.py public
+
+      - name: Check metadata
+        run: python3 scripts/check_meta.py public
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run mobile Lighthouse
+        run: |
+          npx --yes --package @lhci/cli@0.16.1 lhci collect
+          npx --yes --package @lhci/cli@0.16.1 lhci assert
+
+      - name: Save Lighthouse reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lighthouse-reports
+          path: .lighthouseci/*.json
+          include-hidden-files: true
+          if-no-files-found: ignore

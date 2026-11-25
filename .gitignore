@@ -5,3 +5,5 @@ node_modules/
 go.mod
 go.sum
 .hugo_build.lock
+
+.lighthouseci/
