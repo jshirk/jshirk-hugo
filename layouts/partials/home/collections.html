@@ -13,7 +13,7 @@
         <div>
           <h3>{{ .title }}</h3>
           <p>{{ .description }}</p>
-          {{- $first := partial "home/article.html" (dict "articles" $ "slug" (index .articles 0).slug "source" .title) }}
+          {{- $first := partial "curated-article.html" (dict "articles" $ "slug" (index .articles 0).slug "source" .title) }}
           {{- with $first }}
           <figure class="home-topic-quote">
             <blockquote>“{{ $collection.quote }}”</blockquote>
@@ -25,7 +25,7 @@
           <p class="home-kicker">Start here</p>
           <ol class="home-topic-articles">
             {{- range .articles }}
-              {{- $article := partial "home/article.html" (dict "articles" $ "slug" .slug "source" $collection.title) }}
+              {{- $article := partial "curated-article.html" (dict "articles" $ "slug" .slug "source" $collection.title) }}
               {{- if $article }}
               <li>
                 <a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a>
@@ -41,7 +41,7 @@
   </fieldset>
 
   <p class="home-browse">Or browse by category:
-    {{- range $i, $name := slice "Theology" "Methodology" "Technology" }}
+    {{- range $i, $name := slice "Theology" "Technology" "Methodology" }}
       {{- with site.GetPage (printf "/categories/%s" (lower $name)) }}
         {{- if $i }} <span aria-hidden="true">·</span>{{ end }}
         <a href="{{ .RelPermalink }}">{{ $name }}</a> <span class="home-meta">{{ len .RegularPages }}</span>

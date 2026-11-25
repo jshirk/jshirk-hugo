@@ -2,7 +2,7 @@
 <footer class="footer">
     <nav class="footer-nav" aria-label="Site">
         {{- range site.Menus.main }}
-        <a href="{{ .URL | absLangURL }}">{{ if eq .URL "/search/" }}Search{{ else }}{{ .Name }}{{ end }}</a>
+        <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
         {{- end }}
         {{- with site.Home.OutputFormats.Get "rss" }}
         <a href="{{ .RelPermalink }}">RSS</a>

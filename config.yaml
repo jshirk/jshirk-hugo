@@ -70,24 +70,30 @@ markup:
 # Navigation Menu
 menu:
   main:
-    - name: "Home"
-      url: "/"
+    - name: "Start here"
+      pageRef: /start-here
       weight: 1
-    - name: "Blog"
-      url: "/blog/"
+    - name: "Topics"
+      pageRef: /topics
       weight: 2
-    - name: "About"
-      url: "/about/"
+    - name: "Articles"
+      pageRef: /blog
       weight: 3
-    - name: "Contact"
-      url: "/contact/"
+    - name: "Archive"
+      pageRef: /archive
       weight: 4
     - name: "Tools"
-      url: "/tools/"
+      pageRef: /tools
       weight: 5
-    - name: "🔍"
-      url: "/search/"
+    - name: "About"
+      pageRef: /about
       weight: 6
+    - name: "Contact"
+      pageRef: /contact
+      weight: 7
+    - name: "Search"
+      pageRef: /search
+      weight: 8
 
 # Output formats
 outputs:

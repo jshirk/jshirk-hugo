@@ -1,0 +1,35 @@
+{{- define "main" }}
+{{- $collection := index (where site.Data.collections "id" .Params.collection) 0 }}
+{{- $bySlug := partialCached "blog-by-slug.html" site }}
+<header class="page-header directory-header">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="{{ (site.GetPage "/topics").RelPermalink }}">All topics</a>
+  </nav>
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</header>
+
+{{- $first := partial "curated-article.html" (dict "articles" $bySlug "slug" (index $collection.articles 0).slug "source" .Title) }}
+{{- with $first }}
+<figure class="home-topic-quote topic-quote">
+  <blockquote>“{{ $collection.quote }}”</blockquote>
+  <figcaption>From <a href="{{ .RelPermalink }}">{{ .Title }}</a></figcaption>
+</figure>
+{{- end }}
+
+<section class="article-directory" aria-labelledby="topic-reading-order">
+  <h2 id="topic-reading-order">Start here</h2>
+  <ol class="directory-list topic-reading-list">
+    {{- range $collection.articles }}
+      {{- $article := partial "curated-article.html" (dict "articles" $bySlug "slug" .slug "source" $collection.title) }}
+      {{- if $article }}
+      <li>
+        <a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a>
+        <p>{{ .description }}</p>
+        <p class="home-meta">{{ $article.ReadingTime }} min read</p>
+      </li>
+      {{- end }}
+    {{- end }}
+  </ol>
+</section>
+{{- end }}

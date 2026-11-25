@@ -1,0 +1,8 @@
+{{- range .Site.Data.collections }}
+  {{- $.AddPage (dict
+    "path" .id
+    "title" .title
+    "description" .description
+    "params" (dict "collection" .id)
+  ) }}
+{{- end }}

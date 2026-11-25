@@ -1,5 +1,5 @@
 {{- $article := index .articles .slug }}
 {{- if not $article }}
-  {{- errorf "Homepage: %s references missing blog slug %q" .source .slug }}
+  {{- errorf "%s references missing blog slug %q" .source .slug }}
 {{- end }}
 {{- return $article }}

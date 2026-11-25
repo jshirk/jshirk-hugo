@@ -24,7 +24,11 @@
       {{- end }}
     </h2>
   </header>
-  {{- if (ne (.Param "hideSummary") true) }}
+  {{- if and (eq $.page.Kind "term") (eq $.page.Data.Plural "categories") }}
+  <div class="entry-content category-description">
+    <p>{{ partial "description.html" . }}</p>
+  </div>
+  {{- else if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
     <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
   </div>
