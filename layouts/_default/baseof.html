@@ -22,7 +22,7 @@
 <body class="{{ if or (ne .Kind `page`) (eq .Layout `archives`) (eq .Layout `search`) }}list{{ end }}" id="top">
   {{- partialCached "header.html" . .Page -}}
 
-  <main class="main">
+  <main class="main{{ if .IsHome }} main-home{{ end }}">
     {{- block "main" . }}{{ end }}
   </main>
 

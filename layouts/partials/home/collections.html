@@ -1,0 +1,51 @@
+<section class="home-wrap home-section" id="topics" aria-labelledby="home-topics">
+  <h2 id="home-topics">How can I help?</h2>
+
+  <fieldset class="home-topics">
+    <legend class="home-visually-hidden">Choose a topic</legend>
+    {{- range $index, $collection := site.Data.collections }}
+      <input class="home-visually-hidden" type="radio" name="home-topic" id="topic-{{ .id }}"{{ if not $index }} checked{{ end }}>
+      <label class="home-topic-chip" for="topic-{{ .id }}">
+        {{ partial "home/icon.html" .id }}
+        {{ .label }}
+      </label>
+      <div class="home-topic-panel">
+        <div>
+          <h3>{{ .title }}</h3>
+          <p>{{ .description }}</p>
+          {{- $first := partial "home/article.html" (dict "articles" $ "slug" (index .articles 0).slug "source" .title) }}
+          {{- with $first }}
+          <figure class="home-topic-quote">
+            <blockquote>“{{ $collection.quote }}”</blockquote>
+            <figcaption>From <a href="{{ .RelPermalink }}">{{ .Title }}</a></figcaption>
+          </figure>
+          {{- end }}
+        </div>
+        <div>
+          <p class="home-kicker">Start here</p>
+          <ol class="home-topic-articles">
+            {{- range .articles }}
+              {{- $article := partial "home/article.html" (dict "articles" $ "slug" .slug "source" $collection.title) }}
+              {{- if $article }}
+              <li>
+                <a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a>
+                <p>{{ .description }}</p>
+                <p class="home-meta">{{ $article.ReadingTime }} min read</p>
+              </li>
+              {{- end }}
+            {{- end }}
+          </ol>
+        </div>
+      </div>
+    {{- end }}
+  </fieldset>
+
+  <p class="home-browse">Or browse by category:
+    {{- range $i, $name := slice "Theology" "Methodology" "Technology" }}
+      {{- with site.GetPage (printf "/categories/%s" (lower $name)) }}
+        {{- if $i }} <span aria-hidden="true">·</span>{{ end }}
+        <a href="{{ .RelPermalink }}">{{ $name }}</a> <span class="home-meta">{{ len .RegularPages }}</span>
+      {{- end }}
+    {{- end }}
+  </p>
+</section>

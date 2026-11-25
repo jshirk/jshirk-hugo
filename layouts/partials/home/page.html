@@ -1,0 +1,80 @@
+{{- $home := site.Data.home }}
+{{- $blog := site.GetPage "/blog" }}
+{{- $bySlug := dict }}
+{{- range .articles }}
+  {{- $bySlug = merge $bySlug (dict (path.Base .RelPermalink) .) }}
+{{- end }}
+{{- $featured := partial "home/article.html" (dict "articles" $bySlug "slug" $home.quote.slug "source" "data/home.yaml featured quote") }}
+
+<div class="home-motto home-wrap">
+  <p>{{- range $index, $line := $home.motto -}}
+    {{- if $index }}<span class="home-motto-separator" aria-hidden="true">·</span>{{ end -}}
+    <span>{{ $line }}</span>
+  {{- end }}</p>
+</div>
+
+<section class="home-hero home-wrap">
+  <h1 id="moving-from-chaos-to-clarity-through-decisive-action">{{ $home.headline }}</h1>
+  <p>{{ $home.description }}</p>
+  <div class="home-actions">
+    <a class="site-button" href="#favorites">Start here</a>
+    <a class="home-arrow" href="{{ $blog.RelPermalink }}">Browse all {{ len .articles }} articles</a>
+  </div>
+</section>
+
+{{ partial "home/collections.html" $bySlug }}
+
+<section class="home-wrap home-section" id="favorites" aria-labelledby="home-favorites">
+  <h2 id="home-favorites">Reader favorites</h2>
+  <div class="home-favorites">
+    {{- range $home.favorites }}
+      {{- $article := partial "home/article.html" (dict "articles" $bySlug "slug" .slug "source" "data/home.yaml favorites") }}
+      {{- if $article }}
+        <article>
+          <p class="home-kicker">{{ .label }}</p>
+          <h3><a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a></h3>
+          <p>{{ .description }}</p>
+          <p class="home-meta">{{ $article.ReadingTime }} min read</p>
+        </article>
+      {{- end }}
+    {{- end }}
+  </div>
+</section>
+
+{{- with $featured }}
+<div class="home-quote-band">
+  <figure class="home-wrap">
+    <blockquote>“{{ $home.quote.text }}”</blockquote>
+    <figcaption>From <a href="{{ .RelPermalink }}">{{ .Title }}</a> · {{ .ReadingTime }} min read</figcaption>
+  </figure>
+</div>
+{{- end }}
+
+<div class="home-wrap home-section home-split">
+  <section id="recent" aria-labelledby="home-recent">
+    <div class="home-section-head">
+      <h2 id="home-recent">Recently published</h2>
+      <a class="home-arrow" href="{{ $blog.RelPermalink }}">All articles</a>
+    </div>
+    <ul class="home-recent">
+      {{- range first 5 .articles }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <p class="home-meta">{{ with .Params.categories }}{{ delimit . " · " }} · {{ end }}{{ .ReadingTime }} min read</p>
+        </li>
+      {{- end }}
+    </ul>
+  </section>
+
+  <section class="home-about" id="about" aria-labelledby="home-about">
+    <img src="{{ "images/jordan-shirkman.webp" | relURL }}" alt="Jordan Shirkman, smiling outdoors" width="132" height="132" loading="lazy" decoding="async">
+    <h2 id="home-about">{{ $home.about.title }}</h2>
+    <p>{{ $home.about.description }}</p>
+    <p>{{ $home.about.more }}</p>
+    <a class="home-arrow" href="{{ (site.GetPage "/about").RelPermalink }}">More about me</a>
+  </section>
+</div>
+
+<div class="home-newsletter home-wrap">
+  {{ partial "newsletter.html" (dict "page" .page "variant" "band") }}
+</div>

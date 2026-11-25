@@ -1,0 +1,23 @@
+motto:
+  - Pursue wisdom
+  - Master the ordinary
+  - Leave a legacy
+headline: Moving from chaos to clarity through decisive action.
+description: Jordan Shirkman’s writings on theology, technology, and methodology to help you apply ancient wisdom to modern life, so you can walk the narrow path with confidence.
+favorites:
+  - slug: tiny-seeds
+    label: Habits
+    description: Your habits, thoughts, and beliefs all started as small seeds. You don't reap what you wish. You reap what you plant.
+  - slug: helping-grievers
+    label: Hard seasons
+    description: "From our family's own loss: what to say, what not to say, and why silence is not an option."
+  - slug: actual-constraints
+    label: Thinking
+    description: What looks like it's holding you back is rarely the real problem. How to find the constraint you can actually change.
+quote:
+  slug: helping-grievers
+  text: Say something. Show up. Don’t try to fix anything.
+about:
+  title: Hey, I’m Jordan.
+  description: "I’m a husband, dad, and writer living in Ljubljana, Slovenia. I write to clarify my own thinking and share what I believe will help others: pursuing wisdom, mastering the ordinary, and taking action."
+  more: You’ll often find me lifting heavy things, spending time in nature, or chasing chords on the piano.

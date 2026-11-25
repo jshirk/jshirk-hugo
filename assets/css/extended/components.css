@@ -148,9 +148,6 @@
   scroll-margin-block-start: 16px;
 }
 
-.recent-title {
-  margin-block: 2rem 1rem;
-}
 
 #searchbox input {
   border-color: var(--secondary);

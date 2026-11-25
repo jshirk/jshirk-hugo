@@ -1,4 +1,4 @@
-{{- $hasNewsletter := or (and .IsHome .Content) (and .IsPage .Content (not (in (slice "search" "archives") .Layout))) -}}
+{{- $hasNewsletter := or .IsHome (and .IsPage .Content (not (in (slice "search" "archives") .Layout))) -}}
 <header class="header">
   <div class="site-header-inner">
     <a class="site-logo" href="{{ site.Home.RelPermalink }}" aria-label="The Useful Life, home">
@@ -9,10 +9,13 @@
     {{- if or .IsHome $hasNewsletter }}
     <nav class="header-jumps" aria-label="On this page">
       {{- if .IsHome }}
-      <a href="#recent">Recent</a>
+      <a href="{{ site.Home.RelPermalink }}#topics">Topics</a>
+      <a href="{{ site.Home.RelPermalink }}#favorites">Favorites</a>
+      <a href="{{ site.Home.RelPermalink }}#recent">Recent</a>
+      <a href="{{ site.Home.RelPermalink }}#about">About</a>
       {{- end }}
       {{- if $hasNewsletter }}
-      <a href="#newsletter">Newsletter</a>
+      <a href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#newsletter">Newsletter</a>
       {{- end }}
     </nav>
     {{- end }}
@@ -38,7 +41,7 @@
       </button>
       {{- end }}
       {{- if $hasNewsletter }}
-      <a class="site-button header-subscribe" href="#newsletter">Subscribe</a>
+      <a class="site-button header-subscribe" href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#newsletter">Subscribe</a>
       {{- end }}
     </div>
   </div>

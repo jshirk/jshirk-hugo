@@ -21,7 +21,14 @@
 <section class="newsletter newsletter-{{ $variant }}"{{ if eq $n 1 }} id="newsletter"{{ end }} {{ if eq $variant "band" }}aria-labelledby="{{ $id }}-title"{{ else }}aria-label="Newsletter signup"{{ end }}>
   {{- if eq $variant "band" }}
   <div class="newsletter-copy">
-    <p class="newsletter-kicker">A weekly letter from Jordan</p>
+    <p class="newsletter-kicker">
+      {{- if $page.IsHome }}
+      <svg class="home-newsletter-icon" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true">
+        <path d="M3 10v10h18V10l-4 3m-14-3 9 7 5-4m0 0V4H7v9m2-6h6M9 10h4"></path>
+      </svg>
+      {{- end }}
+      <span>A weekly letter from Jordan</span>
+    </p>
     <h2 class="newsletter-title" id="{{ $id }}-title">{{ .title | default "A weekly dose of clarity, creativity, and challenge." }}</h2>
     <p>Useful ideas each week including frameworks to test, tools worth trying, and truth worth remembering. Join readers doing more of what truly matters.</p>
   </div>
