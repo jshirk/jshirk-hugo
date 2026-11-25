@@ -1,8 +1,5 @@
 <section class="home-wrap home-section" id="topics" aria-labelledby="home-topics">
-  <div class="home-section-head">
-    <h2 id="home-topics">How can I help?</h2>
-    <a class="home-arrow" href="{{ (site.GetPage "/topics").RelPermalink }}">All topics</a>
-  </div>
+  <h2 id="home-topics">How can I help?</h2>
 
   <fieldset class="home-topics">
     <legend class="home-visually-hidden">Choose a topic</legend>
@@ -38,7 +35,6 @@
               {{- end }}
             {{- end }}
           </ol>
-          <a class="home-arrow home-topic-more" href="{{ (site.GetPage (printf "/topics/%s" $collection.id)).RelPermalink }}">Explore {{ $collection.label }}</a>
         </div>
       </div>
     {{- end }}
