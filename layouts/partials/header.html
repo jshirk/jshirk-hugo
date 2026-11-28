@@ -22,7 +22,7 @@
       <a href="{{ site.Home.RelPermalink }}#about">About</a>
       {{- end }}
       {{- if $hasNewsletter }}
-      <a href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#newsletter">Newsletter</a>
+      <a href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#weekly">Newsletter</a>
       {{- end }}
     </nav>
     {{- end }}
@@ -48,7 +48,7 @@
       </button>
       {{- end }}
       {{- if $hasNewsletter }}
-      <a class="site-button header-subscribe" href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#newsletter">Subscribe</a>
+      <a class="site-button header-subscribe" href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#weekly">Subscribe</a>
       {{- end }}
     </div>
   </div>

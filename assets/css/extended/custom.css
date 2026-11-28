@@ -1,9 +1,9 @@
 /* Newsletter signup (layouts/partials/newsletter.html) */
-.newsletter {
+.weekly {
   margin: 48px 0 8px;
 }
 
-.newsletter-band {
+.weekly-band {
   display: grid;
   gap: 24px;
   padding: 28px;
@@ -12,7 +12,7 @@
   background: var(--entry);
 }
 
-.newsletter-kicker {
+.weekly-kicker {
   margin: 0 0 8px;
   font-size: 0.8rem;
   font-weight: 600;
@@ -21,34 +21,34 @@
   color: var(--secondary);
 }
 
-.newsletter .newsletter-title {
+.weekly .weekly-title {
   margin: 0 0 10px;
   font-size: 1.6rem;
   line-height: 1.2;
 }
 
-.newsletter-copy p:last-child {
+.weekly-copy p:last-child {
   margin: 0;
   color: var(--secondary);
 }
 
-.newsletter-form {
+.weekly-form {
   display: grid;
   gap: 8px;
   min-width: 0;
 }
 
-.newsletter-form label {
+.weekly-form label {
   font-weight: 600;
 }
 
-.newsletter-field {
+.weekly-field {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
-.newsletter-field input {
+.weekly-field input {
   flex: 1 1 220px;
   min-width: 0;
   padding: 0.75em 0.9em;
@@ -60,17 +60,17 @@
   border-radius: 6px;
 }
 
-.newsletter-fine {
+.weekly-fine {
   margin: 0;
   font-size: 0.85rem;
   color: var(--secondary);
 }
 
-.newsletter-errors:empty {
+.weekly-errors:empty {
   display: none;
 }
 
-.newsletter-errors {
+.weekly-errors {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -79,7 +79,7 @@
 }
 
 /* Kit's script replaces the fields with this message after a successful signup */
-.newsletter .formkit-alert-success {
+.weekly .weekly-success {
   padding: 14px 16px;
   font-weight: 600;
   border: 1px solid var(--border);
@@ -89,7 +89,7 @@
 }
 
 @media (min-width: 700px) {
-  .newsletter-band {
+  .weekly-band {
     grid-template-columns: 1.1fr 1fr;
     align-items: center;
     gap: 40px;
