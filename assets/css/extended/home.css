@@ -370,7 +370,7 @@
 }
 
 @media (max-width: 860px) {
-  .header-jumps:has(a[href$="#topics"]) {
+  .header-jumps:has(a[href$="#favorites"]) {
     order: 1;
     flex-basis: 100%;
     margin-inline-start: 0;

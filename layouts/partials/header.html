@@ -13,10 +13,12 @@
       <span>The Useful Life</span>
     </a>
 
-    {{- if or .IsHome $hasNewsletter }}
-    <nav class="header-jumps" aria-label="On this page">
+    {{- if or .IsHome $hasNewsletter (site.GetPage "/tools") }}
+    <nav class="header-jumps" aria-label="Site">
+      {{- with site.GetPage "/tools" }}
+      <a href="{{ .RelPermalink }}">Tools</a>
+      {{- end }}
       {{- if .IsHome }}
-      <a href="{{ site.Home.RelPermalink }}#topics">Topics</a>
       <a href="{{ site.Home.RelPermalink }}#favorites">Favorites</a>
       <a href="{{ site.Home.RelPermalink }}#recent">Recent</a>
       <a href="{{ site.Home.RelPermalink }}#about">About</a>
