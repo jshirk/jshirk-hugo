@@ -5,3 +5,9 @@
 <script defer src="{{ $motion.RelPermalink }}" integrity="{{ $motion.Data.Integrity }}"></script>
 {{- end }}
 <link rel="preload" href="{{ "fonts/playfair-display-sc-italic-700-latin.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+
+{{- /* GoatCounter analytics: no cookies, no personal data. Only on the live site, so
+       deploy previews and local builds don't count as visits. */}}
+{{- if and hugo.IsProduction (eq site.BaseURL "https://jshirk.com/") }}
+<script data-goatcounter="https://jshirk.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+{{- end }}
