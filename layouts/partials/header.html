@@ -13,21 +13,17 @@
       <span>The Useful Life</span>
     </a>
 
-    {{- if or .IsHome $hasNewsletter (site.GetPage "/tools") }}
+    {{- /* The same links on every page. Section links go to the homepage; Newsletter goes to the
+           signup on this page when it has one, otherwise the homepage's. */}}
     <nav class="header-jumps" aria-label="Site">
       {{- with site.GetPage "/tools" }}
       <a href="{{ .RelPermalink }}">Tools</a>
       {{- end }}
-      {{- if .IsHome }}
       <a href="{{ site.Home.RelPermalink }}#favorites">Favorites</a>
       <a href="{{ site.Home.RelPermalink }}#recent">Recent</a>
       <a href="{{ site.Home.RelPermalink }}#about">About</a>
-      {{- end }}
-      {{- if $hasNewsletter }}
-      <a href="{{ if .IsHome }}{{ site.Home.RelPermalink }}{{ end }}#weekly">Newsletter</a>
-      {{- end }}
+      <a href="{{ if and $hasNewsletter (not .IsHome) }}{{ else }}{{ site.Home.RelPermalink }}{{ end }}#weekly">Newsletter</a>
     </nav>
-    {{- end }}
 
     <div class="header-actions">
       {{- with site.GetPage "/search" }}
