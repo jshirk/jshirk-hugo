@@ -1,6 +1,6 @@
 ---
 title: Tools
-description: A collection of tools for budgeting, Bible study, writing, security, and everyday life.
+description: A collection of tools for budgeting and Bible study.
 ShowToc: false
 ---
 
