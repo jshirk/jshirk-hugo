@@ -34,9 +34,11 @@ from `main`. Read `README.md` for build and deploy commands.
 
 - Signups go to Kit (formerly ConvertKit), form `7752752`. There is one form component,
   `layouts/partials/newsletter.html` (settings in `data/newsletter.json`); the `newsletter`,
-  `convertkit-form` and `convertkit-blog-form` shortcodes all render it. A form only works if it keeps Kit's
-  attributes: `data-sv-form`, `data-uid`, `data-format="inline"`, the `email_address` input, and the
-  `data-element="fields" | "errors" | "submit"` hooks.
+  `convertkit-form` and `convertkit-blog-form` shortcodes all render it. It posts straight to
+  `https://app.kit.com/forms/7752752/subscriptions` with an `email_address` field, and the
+  first-party `assets/js/weekly.js` submits it in place. Do not load Kit's own script
+  (`f.convertkit.com`), and do not use class names or ids containing "newsletter",
+  "subscribe" or "formkit": content blockers hide or block them.
 
 ## Checks before opening a PR
 

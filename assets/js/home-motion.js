@@ -36,7 +36,7 @@ if (letter) {
     }
 
     button.addEventListener('click', () => play(button));
-    document.querySelector('.home-newsletter form').addEventListener('submit', () => play(button), true);
+    document.querySelector('.home-weekly form').addEventListener('submit', () => play(button), true);
     motion.addEventListener('change', syncMotion);
     syncMotion();
 }

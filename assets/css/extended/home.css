@@ -291,30 +291,30 @@
   margin: 0;
 }
 
-.home-newsletter .newsletter {
+.home-weekly .weekly {
   margin-block: 1.5rem 3rem;
 }
 
-.home-newsletter .newsletter-band {
+.home-weekly .weekly-band {
   border-block-start-color: var(--rule);
 }
 
-.home-newsletter .newsletter-title {
+.home-weekly .weekly-title {
   font-size: clamp(1.75rem, 3.5vw, 2.625rem);
 }
 
-.home-newsletter .newsletter-kicker {
+.home-weekly .weekly-kicker {
   display: flex;
   align-items: center;
   gap: 0.6rem;
 }
 
-.home-newsletter-icon {
+.home-weekly-icon {
   flex: none;
   color: var(--accent);
 }
 
-.main-home :is(#topics, #favorites, #recent, #about, #newsletter) {
+.main-home :is(#topics, #favorites, #recent, #about, #weekly) {
   scroll-margin-block-start: 16px;
 }
 

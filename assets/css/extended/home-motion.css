@@ -26,7 +26,7 @@
   cursor: default;
 }
 
-.home-newsletter-icon {
+.home-weekly-icon {
   fill: var(--entry);
   stroke: currentColor;
   stroke-width: 1.6;
@@ -35,11 +35,11 @@
   overflow: visible;
 }
 
-.home-newsletter-icon .letter-sheet {
+.home-weekly-icon .letter-sheet {
   translate: 0 7px;
 }
 
-.home-newsletter-icon .letter-sheet path {
+.home-weekly-icon .letter-sheet path {
   fill: none;
 }
 
@@ -52,7 +52,7 @@
     animation: hammer-spark 750ms ease-out;
   }
 
-  .home-topic-icon *, .home-newsletter-icon * {
+  .home-topic-icon *, .home-weekly-icon * {
     transform-box: fill-box;
     transform-origin: center;
   }
